@@ -1,0 +1,257 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 11 in A major
+!!!SCT1: K<sup>1</sup> 331
+!!!SCT2: K<sup>6</sup> 300i
+!!!OMV: Mvmt. 1b
+!!!OMD: Variation I
+!!!ODT: 1778-1873///
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:
+*M6/8	*M6/8	*M6/8
+*MM72	*MM72	*MM72
+=1-	=1-	=1-
+8r	(16b#\LL	p
+.	16cc#\JJ)	.
+8A\ 8e\	16r	.
+.	16cc#\LL	.
+8r	16b#\	.
+.	16cc#\JJ	.
+8r	(16dd#\LL	.
+.	16ee\JJ)	.
+8c#\ 8e\	16r	.
+.	(16ee\LL	.
+8r	16ff#\	.
+.	16ee\JJ)	.
+=2	=2	=2
+8r	16ee\LL	.
+.	16bn\JJ	.
+8G#\ 8e\	16r	.
+.	(16b\LL	.
+8r	16a#\	.
+.	16b\JJ)	.
+8r	(16cc#\LL	.
+.	16ddn\JJ)	.
+8B\ 8e\	16r	.
+.	(16dd\LL	.
+8r	16ee\	.
+.	16dd\JJ)	.
+=3	=3	=3
+8r	(16dd\LL	.
+.	16an\JJ)	.
+8F#\ 8e\	16r	.
+.	(16a/LL	.
+8r	16g#/	.
+.	16a/JJ)	.
+8r	(16a#/LL	.
+.	16b/JJ)	.
+8G#\ 8e\	16r	.
+.	16b/LL	.
+8r	16a#/	.
+.	16b/JJ	.
+=4	=4	=4
+4A\ 4e\	(16b#\LL	.
+.	16cc#\	.
+.	16b#\	.
+.	16cc#\	.
+8D\ 8F#\	16ee\	.
+.	16dd\JJ	.
+4E\ 4G#\	16cc#/LL	.
+.	16bn/	.
+.	16an/	.
+.	16g#/	.
+8r	16f#/	.
+.	16e/JJ)	.
+=5	=5	=5
+16AA\LL	4e/ 4a/ 4cc#/	f
+16A\	.	.
+16A\	.	.
+16A\	.	.
+16A\	8b\ 8dd\	.
+16A\JJ	.	.
+16AA\LL	8b#\ (8dd#\L	.
+16A\	.	.
+16A\	8cc#\ 8ee\J)	.
+16A\	.	.
+16A\	16r	.
+16A\JJ	16a\ 16cc#\	.
+=6	=6	=6
+*	*^	*
+16EE/LL	8e'/ 8g#'/ 8bn'/L	4.r	.
+16E/	.	.	.
+16E/	8e'/ 8g#'/ 8b'/	.	.
+16E/	.	.	.
+16E/	8e'/ 8a'/ 8cc#'/J	.	.
+16E/JJ	.	.	.
+16EE/LL	8a#/ (8cc#/L	4e\	.
+16E/	.	.	.
+16E/	8b/ 8dd/J)	.	.
+16E/	.	.	.
+16E/	16r	8r	.
+16E/JJ	16g#/ 16b/	.	.
+*	*v	*v	*
+=7	=7	=7
+16FF#/LL	8an'/L	.
+16F#/	.	.
+16F#/	8a'/J	.
+16F#/	.	.
+16GG#/	16b/LL	.
+16G#/JJ	(32a/L	.
+.	32b/JJJ	.
+16AA/LL	8cc#'\L	.
+16A/	.	.
+16A/	8cc#'\J)	.
+16A/	.	.
+16DD/	8f#/ 8b/ 8dd/	.
+16D/JJ	.	.
+=8	=8	=8
+16EE/LL	8e/ 8a/ 8cc#/L	.
+16E/	.	.
+16E/	8e/ 8a/ 8cc#/	.
+16E/	.	.
+16EE/	8d/ 8e/ 8g#/ 8b/J	.
+16E/JJ	.	.
+8AAA/L	8c#/ 8e/ 8a/	.
+8AA/J	8r	.
+8r	8r	.
+=9:|!|:	=9:|!|:	=9:|!|:
+*>B	*>B	*>B
+8r	(16dd#\LL	p
+.	16ee\JJ)	.
+8A\ 8c#\	16r	.
+.	(16ee\LL	.
+8r	16dd#\	.
+.	16ee\JJ)	.
+8r	(16ee#\LL	.
+.	16ff#\JJ)	.
+8A\ 8d\	16r	.
+.	(16ff#\LL	.
+8r	16ee#\	.
+.	16ff#\JJ)	.
+=10	=10	=10
+8A\ 8f#\L	(16gg#\LL	.
+.	16aa\)	.
+8A\ 8e\	(16ff##\	.
+.	16gg#\)	.
+8A\ 8d\J	(16ee#\	.
+.	16ff#\JJ)	.
+8r	(16dd#\LL	.
+.	16een\JJ)	.
+8A\ 8c#\	16r	.
+.	(16ee'\LL	.
+8r	16ee'\	.
+.	16ee'\JJ)	.
+=11	=11	=11
+4.A\ 4.c#\ 4.e\	(16ee\LL	f
+.	16cc#\	.
+.	16a\)	.
+.	(16ee'\	p
+.	16ee'\	.
+.	16ee'\JJ)	.
+4.B\ 4.d\ 4.e\	(16ee\LL	.
+.	16ddn\	.
+.	16g#\)	.
+.	(16ee'\	p
+.	16ee'\	.
+.	16ee'\JJ)	.
+=12	=12	=12
+4c#\ 4e\	(16ee\LL	.
+.	16cc#\	.
+.	16a\)	.
+.	(16ee\	p
+8F#\ 8A\ 8d#\	16cc#\	.
+.	16a\JJ)	.
+4.E\ 4.e\	(4a/ 4cc#/	.
+.	8g#/) 8b/	.
+=13	=13	=13
+8r	(16b#\LL	.
+.	16cc#\JJ)	.
+8A\ 8e\	16r	.
+.	16cc#\LL	.
+8r	16b#\	.
+.	16cc#\JJ	.
+8r	(16dd#\LL	.
+.	16ee\JJ)	.
+8c#\ 8e\	16r	.
+.	(16ee\LL	.
+8r	16ff#\	.
+.	16ee\JJ)	.
+=14	=14	=14
+8r	(16ee\LL	.
+.	16bn\JJ)	.
+8G#\ 8e\	16r	.
+.	(16b\LL	.
+8r	16a#\	.
+.	16b\JJ)	.
+8r	(16cc#\LL	.
+.	16ddn\JJ)	.
+8B\ 8e\	16r	.
+.	(16dd\LL	.
+8r	16ee\	.
+.	16dd\JJ)	.
+=15	=15	=15
+8r	(16dd\LL	.
+.	16an\JJ)	.
+8F#\ 8e\L	16r	.
+.	(16a\LL	.
+8G#\ 8e\J	16cc#\	.
+.	16b\JJ)	.
+8r	16dd\LL	.
+.	16cc#\JJ	.
+8A\ 8e\L	16r	.
+.	(16cc#\LL	.
+8D\ 8B\J	16ee\	.
+.	16dd\JJ)	.
+=16	=16	=16
+*	*^	*
+8r	(16b#\LL	4.r	.
+.	16cc#\JJ)	.	.
+8E\ 8A\L	16r	.	.
+.	(16cc#\LL	.	.
+8E\ 8G#\J	16dd\	.	.
+.	16bn\JJ)	.	.
+8A\L	(4g#\	(8.b/L	.
+8E\	.	.	.
+.	.	16b#/k	.
+8AA\J	8a\)	8cc#/J	.
+=17	=17	=17	=17
+16AAA/LL	8e/ 8a/ 8cc#/L)	4.r	f
+16AA/	.	.	.
+16AA/	8e/ 8a/ 8cc#/	.	.
+16AA/	.	.	.
+16BBB/	8e/ 8g#/ 8dd/J	.	.
+16BB/JJ	.	.	.
+16CC#/LL	8e/ 8a/ 8ee/L	4r	.
+16C#/	.	.	.
+16C#/	8a/ 8ee/J	.	.
+16C#/	.	.	.
+16DD/	(16ff#/LL	8a\	.
+16D/JJ	32gg#/L	.	.
+.	32aa/JJJ)	.	.
+*	*v	*v	*
+=18	=18	=18
+16EE/LL	8c#/ 8e/ 8a/L	.
+16E/	.	.
+16E/	8c#/ 8e/ 8a/	.
+16E/	.	.
+16EE/	8d/ 8e/ 8g#/ 8b/J	.
+16E/JJ	.	.
+8AAA/L	8c#/ 8e/ 8a/	.
+8AA/J	8r	.
+8r	8r	.
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
+!!!ONB: Ausgegeben 1878
+!!!ENC: Craig Stuart Sapp
+!!!END: 2009/09/29/
+!!!title: @{OTL}, K 331 (300i), @{OMV}
+!!!hum2abc: --no-tempo -s 0.71 --spacing 1.9 -p "%gracespace  0 6.0 12.0"

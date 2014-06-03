@@ -1,0 +1,236 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: German
+!!!OTL: Piano Sonata No. 6 in D major
+!!!SCT1: K<sup>1</sup> 284
+!!!SCT2: K<sup>6</sup> 205b
+!!!OMV: Mvmt. 3c
+!!!OMD: Variation 2
+!!!ODT: 1775///
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:
+*M2/2	*M2/2	*M2/2
+*met(c|)	*met(c|)	*met(c|)
+=!|:	=!|:	=!|:
+(12A\L	2r	p
+12B\	.	.
+12A\J	.	.
+12G\L	.	.
+12F#\	.	.
+12E\J	.	.
+=1	=1	=1
+.	32ff#Q/LLL	.
+.	32ggQ/JJJ	.
+4D\)	(4aa\	.
+4r	16gg\LL	.
+.	16ff#\	.
+.	16ee\	.
+.	16dd\JJ)	.
+(12d\L	2r	.
+12e\	.	.
+12d\J	.	.
+12cn\L	.	.
+12B\	.	.
+12A\J	.	.
+=2	=2	=2
+.	32ggQ/LLL	.
+.	32aaQ/JJJ	.
+4G\)	(4bb\	.
+4r	16aa\LL	.
+.	16gg\	.
+.	16ff#\	.
+.	16ee\JJ)	.
+*clefG2	*	*
+(12a/L	4r	.
+12b/	.	.
+12a/J	.	.
+12g/L	12cc#\ 12ee\L	.
+12f#/	12dd\ 12ff#\	.
+12e/J	12ee\ 12gg\J	.
+=3	=3	=3
+.	32ff#Q/LLL	.
+.	32ggQ/JJJ	.
+4d/)	(4aa\	.
+4r	16gg\LL	.
+.	16ff#\	.
+.	16ee\	.
+.	16dd\JJ)	.
+.	32ggQ/LLL	.
+.	32aaQ/JJJ	.
+4G/ 4g/	(4bb\	.
+4r	16aa\LL	.
+.	16gg\	.
+.	16ff#\	.
+.	16ee\JJ)	.
+=4	=4	=4
+*^	*	*
+(4f#/	2A\	(4dd\	.
+4e/)	.	4cc#\)	.
+*clefF4	*clefF4	*	*
+(12A\L	2ryy	2r	f
+12B\	.	.	.
+12A\J	.	.	.
+12G\L	.	.	.
+12F#\	.	.	.
+12E\J	.	.	.
+*v	*v	*	*
+=5	=5	=5
+.	32ddQ/LLL	.
+.	32eeQ/JJJ	.
+4D\)	(4ff#\	.
+4r	16ee\LL	.
+.	16dd\	.
+.	16cc#\	.
+.	16b\JJ)	.
+(12d\L	2r	.
+12e\	.	.
+12d\J	.	.
+12c#\L	.	.
+12B\	.	.
+12A\J	.	.
+=6	=6	=6
+.	32bbQ/LLL	.
+.	32ccc#Q/JJJ	.
+4G#\)	(4ddd\	.
+4r	16ccc#\LL	.
+.	16bb\	.
+.	16aa\	.
+.	16gg#\JJ)	.
+*clefG2	*	*
+32bQ/LLL	.	.
+32cc#Q/JJJ	.	.
+(4dd\	2r	.
+16cc#/LL	.	.
+16b/	.	.
+16a/	.	.
+16g#/JJ)	.	.
+=7	=7	=7
+2r	(4ee\	p
+.	4ee#\	.
+4r	4ff#\)	.
+*clefF4	*	*
+4E'\	4B'/ 4d'/ 4g#'/	f
+=8	=8	=8
+4A'\	4c#'/ 4e'/ 4a'/	.
+4AA'/	4r	.
+=:|!|:	=:|!|:	=:|!|:
+*>B	*>B	*>B
+2r	(12a\L	.
+.	12ccn\	.
+.	12dd#\J	.
+.	12ff#\L	.
+.	12aa\	.
+.	12cccn\J)	.
+=9	=9	=9
+32BQ/LLL	.	.
+32c#Q/JJJ	.	.
+(4d#\	(4ff#\ 4aa\	p
+16e\LL	4ee\ 4gg#\)	.
+16dn\	.	.
+16c#\	.	.
+16B\JJ)	.	.
+32AQ/LLL	.	.
+32BQ/JJJ	.	.
+(4c#\	(4ee\ 4ggn\	.
+16d\LL	4dd\ 4ff#\)	.
+16c#\	.	.
+16B\	.	.
+16A#\JJ)	.	.
+=10	=10	=10
+(16B\LL	(16ddd\LL	f
+16An\	16ccc#\	.
+16G\	16bb\	.
+16F#\JJ	16aa#\JJ	.
+4G\)	4bb\)	.
+(16G\LL	(16bb\LL	.
+16F#\	16aan\	.
+16E\	16gg\	.
+16D#\JJ	16ff#\JJ	.
+4E\)	4gg\)	.
+*clefG2	*	*
+=11	=11	=11
+4r	4.a/	p
+(4e/ 4g/	.	.
+.	16b'\LL	.
+.	16cc#'\JJ	.
+4dn/ 4f#/	8dd'\L	.
+.	8ee'\	.
+4B/) 4d/	8ff#'\	.
+.	8gg#'\J	.
+=12	=12	=12
+([4A/ 4d/	(4gg#\	.
+8A/] 8c#/)	8aa\)	.
+8r	8r	.
+*clefF4	*	*
+32C#Q/LL	32c#Q/LLL	.
+32DQ/JJ	32dQ/JJJ	.
+(4E\	(4e/	f
+16D/LL	16d/LL	.
+16C#/	16c#/	.
+16BB/	16B/	.
+16AA/JJ	16A/JJ	.
+=13	=13	=13
+4A\)	4a/)	p
+4r	4r	.
+*clefG2	*	*
+(12a/L	2r	.
+12b/	.	.
+12a/J	.	.
+12gn/L	.	.
+12f#/	.	.
+12e/J	.	.
+=14	=14	=14
+.	32ff#Q/LLL	.
+.	32ggQ/JJJ	.
+4d/)	(4aa\	.
+4r	16gg\LL	.
+.	16ff#\	.
+.	16ee\	.
+.	16dd\JJ)	.
+*clefF4	*	*
+(12d\L	2r	.
+12e\	.	.
+12d\J	.	.
+12cn\L	.	.
+12B\	.	.
+12A\J	.	.
+=15	=15	=15
+.	32ggQ/LL	.
+.	32aaQ/JJ	.
+4G\)	(4bb\	f
+4r	16aa\LL	.
+.	16gg\	.
+.	16ff#\	.
+.	16ee\JJ)	.
+*clefG2	*	*
+(32eQ/LLL	.	.
+32f#Q/JJJ	.	.
+(4g/)	2r	.
+16f#/LL	.	.
+16e/	.	.
+16d/	.	.
+16c#/JJ)	.	.
+=16	=16	=16
+2r	(4aa\	p
+.	4aa#\	.
+4r	4bb\)	.
+*clefF4	*	*
+4A'\	4e'/ 4g'/ 4cc#'/	f
+=17	=17	=17
+4d'\	4f#'/ 4a'/ 4dd'/	.
+4D'\	4r	.
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
+!!!ONB: Ausgegeben 1878
+!!!ENC: Craig Stuart Sapp
+!!!END: 2009/09/21/
+!!!title: @{OTL}, K 284 (205b), @{OMV}
+!!!hum2abc: -s 0.68 --spacing 1.5 -Q "" -p "%gracespace 0 6.0 12.0"
