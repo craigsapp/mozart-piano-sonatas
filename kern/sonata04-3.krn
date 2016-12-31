@@ -75,8 +75,8 @@
 16d/	8ff\	.
 16f/JJ	.	.
 =10	=10	=10
-.	16eenQ/LL	.
-.	16ffQ/JJ	.
+.	16eenq/LL	.
+.	16ffq/JJ	.
 16An/LL	(8.eee-\L	f
 16f/	.	.
 16c/	.	.
@@ -95,8 +95,8 @@
 16d/	8ff\	.
 16f/JJ	.	.
 =12	=12	=12
-.	16eenQ/LL	.
-.	16ffQ/JJ	.
+.	16eenq/LL	.
+.	16ffq/JJ	.
 16An/LL	(8.eee-\L	f
 16f/	.	.
 16c/	.	.
@@ -530,8 +530,8 @@
 16G\	8b-\	.
 16B-\JJ	.	.
 =71	=71	=71
-.	16aQ/LL	.
-.	16b-Q/JJ	.
+.	16aq/LL	.
+.	16b-q/JJ	.
 16D\LL	(8.aa-\L	f
 16B-\	.	.
 16F\	.	.
@@ -550,8 +550,8 @@
 16G\	8b-\	.
 16B-\JJ	.	.
 =73	=73	=73
-.	16anQ/LL	.
-.	16ccQ/JJ	.
+.	16anq/LL	.
+.	16ccq/JJ	.
 16D\LL	(8.aa-\L	f
 16B-\	.	.
 16F\	.	.
@@ -561,8 +561,8 @@
 16F\	8a-\J	.
 16B-\JJ)	.	.
 =74	=74	=74
-.	16gQ/LL	.
-.	16a-Q/JJ	.
+.	16gq/LL	.
+.	16a-q/JJ	.
 4E-\	(16g\LL	.
 .	16b-\	.
 .	16ee-\	.
@@ -721,8 +721,8 @@
 16B-\	.	.
 16e-\JJ	.	.
 =94	=94	=94
-.	16ddQ/LL	.
-.	16ee-Q/JJ	.
+.	16ddq/LL	.
+.	16ee-q/JJ	.
 16A-\LL	(16cc\LL	.
 16f\	16ff\	.
 16c\	16aa-\	.
@@ -733,8 +733,8 @@
 16f\JJ	.	.
 *clefG2	*	*
 =95	=95	=95
-.	16bbnQ/LL	.
-.	16cccQ/JJ	.
+.	16bbnq/LL	.
+.	16cccq/JJ	.
 16B-/LL	(16ccc\LL	.
 16g/	16bb-\	.
 16e-/	16aa-\	.

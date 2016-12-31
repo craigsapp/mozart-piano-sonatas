@@ -641,19 +641,19 @@
 .	.	32bb-/	.
 .	.	32aa-/	.
 .	.	32gg/	.
-.	.	ffQ/L	.
-.	.	ee-Q/	.
-.	.	ddQ/	.
-.	.	ccQ/	.
-.	.	b-Q/	.
-.	.	a-Q/	.
-.	.	gQ/	.
-.	.	fQ/	.
-.	.	e-Q/	.
-.	.	dQ/	.
-.	.	cQ/	.
-.	.	B-Q/	.
-.	.	A-Q/JJJJ	.
+.	.	ffq/L	.
+.	.	ee-q/	.
+.	.	ddq/	.
+.	.	ccq/	.
+.	.	b-q/	.
+.	.	a-q/	.
+.	.	gq/	.
+.	.	fq/	.
+.	.	e-q/	.
+.	.	dq/	.
+.	.	cq/	.
+.	.	B-q/	.
+.	.	A-q/JJJJ	.
 8r	(16EE-\LL	8G/	.
 .	16GG\	.	.
 4E-/	16BB-\	8r	.
@@ -665,22 +665,22 @@
 32E-/	.	.	.
 *v	*v	*	*
 =30	=30	=30
-32FQ/	cQ\LLLL	.
-32GQ/	dQ\	.
-32A-Q/JJJ	e-Q\	.
-.	fQ\	.
-.	gQ\	.
-.	a-Q\	.
-.	b-Q\	.
-.	ccQ\	.
-.	ddQ\	.
-.	ee-Q\	.
-.	ffQ\	.
-.	ggQ\	.
-.	aa-Q\	.
-.	bb-Q\	.
-.	cccQ\	.
-.	dddQ\JJJJ	.
+32Fq/	cq\LLLL	.
+32Gq/	dq\	.
+32A-q/JJJ	e-q\	.
+.	fq\	.
+.	gq\	.
+.	a-q\	.
+.	b-q\	.
+.	ccq\	.
+.	ddq\	.
+.	ee-q\	.
+.	ffq\	.
+.	ggq\	.
+.	aa-q\	.
+.	bb-q\	.
+.	cccq\	.
+.	dddq\JJJJ	.
 (16C\LL	8eee-\	.
 16E-\	.	.
 16An\	4eee-\	.
@@ -690,20 +690,20 @@
 .	32eee-\	.
 .	32fff\	.
 .	32eee-\	.
-.	32dddQ\	.
-.	32cccQ\	.
-.	32bb-Q\	.
-.	aanQ\L	.
-.	ggQ\	.
-.	ffQ\	.
-.	ee-Q\	.
-.	ddQ\	.
-.	ccQ\	.
-.	b-Q\	.
-.	anQ\	.
-.	gQ\	.
-.	fQ\	.
-.	e-Q\JJJJ	.
+.	32dddq\	.
+.	32cccq\	.
+.	32bb-q\	.
+.	aanq\L	.
+.	ggq\	.
+.	ffq\	.
+.	ee-q\	.
+.	ddq\	.
+.	ccq\	.
+.	b-q\	.
+.	anq\	.
+.	gq\	.
+.	fq\	.
+.	e-q\JJJJ	.
 8BB-/	32d/LLL	.
 .	32f/JJ	.
 .	8b-/)	.
@@ -1254,21 +1254,21 @@
 .	(16G\LL	.	.
 .	16B-\	.	.
 .	16e-\JJ)	.	.
-.	.	32aa-Q/LLL	.
-.	.	32ggQ/	.
-.	.	32ffQ/	.
-.	.	ee-Q/L	.
-.	.	ddQ/	.
-.	.	ccQ/	.
-.	.	b-Q/	.
-.	.	a-Q/	.
-.	.	gQ/	.
-.	.	fQ/	.
-.	.	e-Q/	.
-.	.	dQ/	.
-.	.	cQ/	.
-.	.	B-Q/	.
-.	.	A-Q/JJJJ	.
+.	.	32aa-q/LLL	.
+.	.	32ggq/	.
+.	.	32ffq/	.
+.	.	ee-q/L	.
+.	.	ddq/	.
+.	.	ccq/	.
+.	.	b-q/	.
+.	.	a-q/	.
+.	.	gq/	.
+.	.	fq/	.
+.	.	e-q/	.
+.	.	dq/	.
+.	.	cq/	.
+.	.	B-q/	.
+.	.	A-q/JJJJ	.
 4G/	16r	2.r	.
 .	(16CC\LL	.	.
 .	16EE-\	.	.
@@ -1293,16 +1293,16 @@
 4AA-;/	4BBB-;\ 4DD;\ 4FF;\	.	.
 *v	*v	*	*
 4r	4r	.
-BB-Q/LLLL	.	.
-AA-Q/	.	.
-GGQ/	.	.
-AA-Q/	.	.
-BB-Q/	.	.
-CQ/	.	.
-DQ/	.	.
-E-Q/	.	.
-FQ/	.	.
-GQ/JJJJ	.	.
+BB-q/LLLL	.	.
+AA-q/	.	.
+GGq/	.	.
+AA-q/	.	.
+BB-q/	.	.
+Cq/	.	.
+Dq/	.	.
+E-q/	.	.
+Fq/	.	.
+Gq/JJJJ	.	.
 =53	=53	=53
 16E-\	32r	pp
 .	(32gg\LLL	.

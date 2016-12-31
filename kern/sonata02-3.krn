@@ -25,17 +25,17 @@
 .	8ff'\J	.
 *clefG2	*	*
 =2	=2	=2
-.	32eeQ/	.
+.	32eeq/	.
 8g/ 8cc/	8bb-\	p
 8r	8r	.
 8r	8r	.
 =3	=3	=3
-.	32ffQ/	.
+.	32ffq/	.
 8f/ 8cc/	8aa\	.
 8r	8r	.
 8r	8r	.
 =4	=4	=4
-.	32eeQ/	.
+.	32eeq/	.
 8b-\ 8cc\	8gg\	.
 8r	8r	.
 8r	8r	.
@@ -73,21 +73,22 @@
 .	8f'/J	.
 *clefF4	*	*
 =10	=10	=10
-.	(32eQ/	.
+.	(32eq/	.
 8G\ 8c\	8b-/)	p
 8r	8r	.
 8r	8r	.
 =11	=11	=11
-.	(32fQ/	.
+.	(32fq/	.
 8F\ 8c\	8a/)	.
 8r	8r	.
 8r	8r	.
 =12	=12	=12
-.	(32eQ/	.
+.	(32eq/	.
 8B-\ 8c\	8g/)	.
 8r	8r	.
 8r	8r	.
 =13	=13	=13
+!	!LO:S:a	!
 4.AA\ (4.A\	(16f/LL	f
 .	16g/	.
 .	16a/	.
@@ -143,8 +144,8 @@
 8F\J	8r	.
 *clefG2	*	*
 =25	=25	=25
-8f/	16r	.
-.	(16a\LL	f
+8f/	16r	f
+.	(16a\LL	.
 8r	16dd\	.
 .	16ff\JJ	.
 16r	8aa\)	.
@@ -190,9 +191,9 @@
 8r	8r	.
 (8F#\	8e/ (8cc/	p
 =32	=32	=32
-8G\)	8d/ 8bn/)	f
+8G\)	8d/ 8bn/)	.
 8r	8r	.
-(8FF#/	8r	.
+(8FF#/	8r	f
 =33	=33	=33
 8GG/)	8r	.
 8r	8r	.
@@ -201,7 +202,7 @@
 =34	=34	=34
 8g/)	8dd\ 8bbn\)	.
 8r	8r	.
-(8ff#\	8r	.
+(8ff#\	8r	f
 =35	=35	=35
 8gg\)	8r	.
 8r	8r	.
@@ -220,9 +221,9 @@
 .	16ff\k	.
 .	8ff\J	.
 =39	=39	=39
-.	32ffQ/LLL	.
-.	32ggQ/JJJ	.
-4.r	8.aa\L	.
+.	(32ffq/LLL	.
+.	32ggq/JJJ	.
+4.r	8.aa\L)	.
 .	16gg\k	.
 .	8ff\J	.
 =40	=40	=40
@@ -230,13 +231,14 @@
 .	16ff\k	.
 .	8ff\J	.
 =41	=41	=41
-.	32ffQ/LLL	.
-.	32ggQ/JJJ	.
+.	32ffq/LLL	.
+.	32ggq/JJJ	.
 4.r	8.aa\L	.
 .	16gg\k	.
 .	8ff\J	.
 *clefG2	*	*
 =42	=42	=42
+!LO:TX:a:t=legato	!	!
 16c/LL	8ee\	.
 16g/	.	.
 16e/	8r	.
@@ -244,7 +246,7 @@
 16c/	8ee\	.
 16g/JJ	.	.
 =43	=43	=43
-16Bn/LL	(4gg\	.
+16Bn/LL	(4gg\	fp
 16g/	.	.
 16d/	.	.
 16g/	.	.
@@ -258,7 +260,7 @@
 16c/	8ee\	.
 16g/JJ	.	.
 =45	=45	=45
-16Bn/LL	(4gg\	.
+16Bn/LL	(4gg\	fp
 16g/	.	.
 16d/	.	.
 16g/	.	.
@@ -289,9 +291,9 @@
 16d/k	16ff\k	.
 8d/J	8ff\J	.
 =51	=51	=51
-32dQ/LLL	32ffQ/LLL	.
-32eQ/JJJ	32ggQ/JJJ	.
-8.f/L	8.aa\L	.
+(32dq/LLL	(32ffq/LLL	.
+32eq/JJJ	32ggq/JJJ	.
+8.f/L)	8.aa\L)	.
 16e/k	16gg\k	.
 8d/J	8ff\J	.
 =52	=52	=52
@@ -299,12 +301,13 @@
 16d/k	16ff\k	.
 8d/J	8ff\J	.
 =53	=53	=53
-32dQ/LLL	32ffQ/LLL	.
-32eQ/JJJ	32ggQ/JJJ	.
-8.f/L	8.aa\L	.
+(32dq/LLL	(32ffq/LLL	.
+32eq/JJJ	32ggq/JJJ	.
+8.f/L)	8.aa\L)	.
 16e/k	16gg\k	.
 8d/J	8ff\J	.
 =54	=54	=54
+!	!LO:TX:a:t=legato	!
 8c/	16ee\LL	.
 .	16cc\	.
 8r	16g\	.
@@ -313,7 +316,7 @@
 .	16cc\JJ	.
 *clefF4	*	*
 =55	=55	=55
-4.BBn\ (4.Bn\	16gg\LL	.
+4.BBn\ (4.Bn\	16gg\LL	fp
 .	16g\	.
 .	16ff#\	.
 .	16g\	.
@@ -327,7 +330,7 @@
 8r	16ee\	.
 .	16cc\JJ	.
 =57	=57	=57
-4.BBn\ (4.Bn\	16gg\LL	.
+4.BBn\ (4.Bn\	16gg\LL	fp
 .	16g\	.
 .	16ff#\	.
 .	16g\	.
@@ -461,9 +464,9 @@
 .	16cc\k	.
 .	8cc\J	.
 =79	=79	=79
-.	32ccQ/LLL	.
-.	32ddQ/JJJ	.
-4.r	8.ee-\L	.
+.	(32ccq/LLL	.
+.	32ddq/JJJ	.
+4.r	8.ee-\L)	.
 .	16dd\k	.
 .	8cc\J	.
 =80	=80	=80
@@ -471,9 +474,9 @@
 .	16cc\k	.
 .	8cc\J	.
 =81	=81	=81
-.	32ccQ/LLL	.
-.	32ddQ/JJJ	.
-4.r	8.ee-\L	.
+.	(32ccq/LLL	.
+.	32ddq/JJJ	.
+4.r	8.ee-\L)	.
 .	16dd\k	.
 .	8cc\J	.
 =82	=82	=82
@@ -507,9 +510,9 @@
 .	16b-\k	.
 .	8b-\J	.
 =87	=87	=87
-.	32b-Q/LLL	.
-.	32ccQ/JJJ	.
-4.r	8.dd-\L	.
+.	(32b-q/LLL	.
+.	32ccq/JJJ	.
+4.r	8.dd-\L)	.
 .	16cc\k	.
 .	8b-\J	.
 =88	=88	=88
@@ -517,9 +520,9 @@
 .	16b-\k	.
 .	8b-\J	.
 =89	=89	=89
-.	32b-Q/LLL	.
-.	32ccQ/JJJ	.
-4.r	8.dd-\L	.
+.	(32b-q/LLL	.
+.	32ccq/JJJ	.
+4.r	8.dd-\L)	.
 .	16cc\k	.
 .	8b-\J	.
 =90	=90	=90
@@ -651,18 +654,18 @@
 .	8ff'\J	.
 *clefG2	*	*
 =109	=109	=109
-.	32eeQ/	.
-8g/ 8ccn/	8bb-\	p
+.	(32eeq/	.
+8g/ 8ccn/	8bb-\)	p
 8r	8r	.
 8r	8r	.
 =110	=110	=110
-.	32ffQ/	.
-8f/ 8cc/	8aa\	.
+.	(32ffq/	.
+8f/ 8cc/	8aa\)	.
 8r	8r	.
 8r	8r	.
 =111	=111	=111
-.	32eeQ/	.
-8b-\ 8cc\	8gg\	.
+.	(32eeq/	.
+8b-\ 8cc\	8gg\)	.
 8r	8r	.
 8r	8r	.
 =112	=112	=112
@@ -699,17 +702,18 @@
 .	8f'/J	.
 *clefF4	*	*
 =117	=117	=117
-.	(32eQ/	.
+!	!LO:S:a	!
+.	(32eq/	.
 8G\ 8c\	8b-\)	p
 8r	8r	.
 8r	8r	.
 =118	=118	=118
-.	(32fQ/	.
+.	(32fq/	.
 8F\ 8c\	8a/)	.
 8r	8r	.
 8r	8r	.
 =119	=119	=119
-.	(32eQ/	.
+.	(32eq/	.
 8B-\ 8c\	8g/)	.
 8r	8r	.
 8r	8r	.
@@ -784,6 +788,7 @@
 (16e/	.	.
 =134	=134	=134
 8d/)	16r	.
+!	!LO:S:a	!
 .	(16f/LL	.
 8r	16bn/	.
 .	16dd/JJ	.
@@ -791,6 +796,7 @@
 (16d/	.	.
 =135	=135	=135
 8c/)	16r	.
+!	!LO:S:a	!
 .	(16e/LL	.
 8r	16g/	.
 .	16cc/JJ	.
@@ -844,19 +850,19 @@
 8r	8r	.
 (8Bn\	8a\ (8ff\	p
 =143	=143	=143
-8c\)	8g\ 8ee\)	f
+8c\)	8g\ 8ee\)	.
 8r	8r	.
-(8BBn/	8r	.
+(8BBn/	8r	f
 =144	=144	=144
 8C/)	8r	.
 8r	8r	.
 *clefG2	*	*
 (8bn\	8aa\ (8fff\	p
 =145	=145	=145
-8cc\)	8gg\ 8eee\)	f
+8cc\)	8gg\ 8eee\)	.
 8r	8r	.
 *clefF4	*	*
-(8Bn\	8r	.
+(8Bn\	8r	f
 =146	=146	=146
 8c\)	8r	.
 8r	8r	.
@@ -874,8 +880,8 @@
 .	16bb-\k	.
 .	8bb-\J	.
 =150	=150	=150
-.	(16bb-Q/LL	.
-.	16cccQ/JJ	.
+.	(32bb-q/LLL	.
+.	32cccq/JJJ	.
 4.r	8.ddd\L)	.
 .	16ccc\k	.
 .	8bb-\J	.
@@ -884,9 +890,9 @@
 .	16bb-\k	.
 .	8bb-\J	.
 =152	=152	=152
-.	16bb-Q/LL	.
-.	16cccQ/JJ	.
-4.r	8.ddd\L	.
+.	(32bb-q/LLL	.
+.	32cccq/JJJ	.
+4.r	8.ddd\L)	.
 .	16ccc\k	.
 .	8bb-\J	.
 *clefG2	*	*
@@ -898,7 +904,7 @@
 16f/	8aa\	.
 16cc/JJ	.	.
 =154	=154	=154
-16e/LL	(4ccc\	.
+16e/LL	(4ccc\	fp
 16cc/	.	.
 16g/	.	.
 16cc/	.	.
@@ -912,7 +918,7 @@
 16f/	8aa\	.
 16cc/JJ	.	.
 =156	=156	=156
-16e/LL	(4ccc\	.
+16e/LL	(4ccc\	fp
 16cc/	.	.
 16g/	.	.
 16cc/	.	.
@@ -944,9 +950,9 @@
 16G\k	16b-\k	.
 8G\J	8b-\J	.
 =162	=162	=162
-32GQ/LLL	32b-Q/LLL	.
-32AQ/JJJ	32ccQ/JJJ	.
-8.B-\L	8.dd\L	.
+(32Gq/LLL	(32b-q/LLL	.
+32Aq/JJJ	32ccq/JJJ	.
+8.B-\L)	8.dd\L)	.
 16A\k	16cc\k	.
 8G\J	8b-\J	.
 =163	=163	=163
@@ -954,12 +960,13 @@
 16G\k	16b-\k	.
 8G\J	8b-\J	.
 =164	=164	=164
-32GQ/LLL	16b-Q/LL	.
-32AQ/JJJ	16ccQ/JJ	.
-8.B-\L	8.dd\L	.
+(32Gq/LLL	(32b-q/LLL	.
+32Aq/JJJ	32ccq/JJJ	.
+8.B-\L)	8.dd\L)	.
 16A\k	16cc\k	.
 8G\J	8b-\J	.
 =165	=165	=165
+!	!LO:TX:a:t=legato	!
 8F\	16a/LL	.
 .	16f/	.
 8r	16c/	.
@@ -967,7 +974,7 @@
 8r	16a/	.
 .	16f/JJ	.
 =166	=166	=166
-(4.EE/ 4.E/	16cc/LL	.
+(4.EE/ 4.E/	16cc/LL	fp
 .	16c/	.
 .	16bn/	.
 .	16c/	.
@@ -981,7 +988,7 @@
 8r	16a/	.
 .	16f/JJ	.
 =168	=168	=168
-(4.EE/ 4.E/	16cc/LL	.
+(4.EE/ 4.E/	16cc/LL	fp
 .	16c/	.
 .	16bn/	.
 .	16c/	.
@@ -1021,33 +1028,33 @@
 8r	16a/	.
 .	16f/	.
 8r	16d/	.
-.	16c/JJ	p
+.	16c/JJ	.
 =174	=174	=174
+4D\ 4F\	16B-j/LL	f
+.	16cj/	.
+.	16dj/	.
+.	16B-j/	.
+8C\ 8E\	16G#j/	p
+.	16Aj/JJ	.
+=175	=175	=175
+4BB-\ 4D\	16Gnj/LL	f
+.	16Aj/	.
+.	16B-j/	.
+.	16Gj/	.
+8AA\ 8C\	16Ej/	p
+.	16Fj/JJ	.
+=176	=176	=176
+8BB-\L	16Gj/LL	f
+.	16B-j/	.
+8C\	16Aj/	.
+.	16Fj/	.
+8CC\J	16Ej/	p
+.	16Gj/JJ	.
+=177	=177	=177
 *^	*	*
-16B-/LL	4D\ 4F\	4.r	.
-16c/	.	.	.
-16d/	.	.	.
-16B-/	.	.	.
-16G#/	8C\ 8E\	.	.
-16A/JJ	.	.	.
-=175	=175	=175	=175
-16Gn/LL	4BB-\ 4D\	4.r	.
-16A/	.	.	.
-16B-/	.	.	.
-16G/	.	.	.
-16E/	8AA\ 8C\	.	.
-16F/JJ	.	.	.
-=176	=176	=176	=176
-16G/LL	8BB-\L	4.r	.
-16B-/	.	.	.
-16A/	8C\	.	.
-16F/	.	.	.
-16E/	8CC\J	.	.
-16G/JJ	.	.	.
-=177	=177	=177	=177
 8F/	8FF\	8r	.
-8r	8r	8cc'\L	f
-8r	8r	8a'\J	.
+8r	8ryy	8cc'\L	p
+8r	8ryy	8a'\J	.
 *v	*v	*	*
 =178	=178	=178
 8r	8f'/	.
@@ -1120,12 +1127,13 @@
 =190	=190	=190
 8FF/	8a\ 8cc\ 8ff\	.
 8r	8r	.
-==:|!	==:|!	==:|!
+=:|!	=:|!	=:|!
 *-	*-	*-
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/24/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2016/07/31/
 !!!title: @{OTL}, K 280 (189e), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"

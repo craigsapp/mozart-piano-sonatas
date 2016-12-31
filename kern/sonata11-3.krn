@@ -50,22 +50,22 @@
 8c\ 8e\	8aa'\L	.
 8c'\ 8e'\J	8ccc'\J	.
 =5	=5	=5
-.	32ggnQ/LLL	.
-.	32aaQ/JJJ	.
+.	32ggnq/LLL	.
+.	32aaq/JJJ	.
 8E'\L	8bb'\L	.
 8B'\ 8e'\	8ff#'\ 8aa'\	.
 8B'\ 8e'\	8ee'\ 8gg'\	.
 8B'\ 8e'\J	8ff#'\ 8aa'\J	.
 =6	=6	=6
-.	32ggQ/LLL	.
-.	32aaQ/JJJ	.
+.	32ggq/LLL	.
+.	32aaq/JJJ	.
 8E'\L	8bb'\L	.
 8B'\ 8e'\	8ff#'\ 8aa'\	.
 8B'\ 8e'\	8ee'\ 8gg'\	.
 8B'\ 8e'\J	8ff#'\ 8aa'\J	.
 =7	=7	=7
-.	32ggQ/LLL	.
-.	32aaQ/JJJ	.
+.	32ggq/LLL	.
+.	32aaq/JJJ	.
 8E'\L	8bb'\L	.
 8B'\ 8e'\	8ff#'\ 8aa'\	.
 8BB'\	8ee'\ 8gg'\	.
@@ -182,65 +182,65 @@
 4r	8a\ 8aa\L	f
 .	8b\ 8bb\J	.
 =25	=25	=25
-32AAQ/LLL	.	.
-32C#Q/	.	.
-32EQ/JJJ	.	.
+32AAq/LLL	.	.
+32C#q/	.	.
+32Eq/JJJ	.	.
 8A\L	4cc#\ 4ccc#\	.
 8A\	.	.
 8A\	8a\ 8aa\L	.
 8A\J	8b\ 8bb\J	.
 =26	=26	=26
-32AAQ/LLL	.	.
-32C#Q/	.	.
-32EQ/JJJ	.	.
+32AAq/LLL	.	.
+32C#q/	.	.
+32Eq/JJJ	.	.
 8A\L	8cc#\ 8ccc#\L	.
 8A\	8b\ 8bb\	.
 8A\	8a\ 8aa\	.
 8A\J	8g#\ 8gg#\J	.
 =27	=27	=27
-32DDQ/LLL	.	.
-32FF#Q/	.	.
-32AAQ/JJJ	.	.
+32DDq/LLL	.	.
+32FF#q/	.	.
+32AAq/JJJ	.	.
 8D\L	8f#\ 8ff#\L	.
 8D\J	8g#\ 8gg#\	.
-32DD#Q/LLL	.	.
-32FF#Q/	.	.
-32AAQ/JJJ	.	.
+32DD#q/LLL	.	.
+32FF#q/	.	.
+32AAq/JJJ	.	.
 8D#\L	8a\ 8aa\	.
 8D#\J	8b\ 8bb\J	.
 =28	=28	=28
-32EEQ/LLL	.	.
-32GG#Q/	.	.
-32BBQ/JJJ	.	.
+32EEq/LLL	.	.
+32GG#q/	.	.
+32BBq/JJJ	.	.
 8E\L	8g#\ 8gg#\L	.
 8E\	8e\ 8ee\	.
 8E\	8a\ 8aa\	.
 8E\J	8b\ 8bb\J	.
 =29	=29	=29
-32AAQ/LLL	.	.
-32C#Q/	.	.
-32EQ/JJJ	.	.
+32AAq/LLL	.	.
+32C#q/	.	.
+32Eq/JJJ	.	.
 8A\L	4cc#\ 4ccc#\	.
 8A\	.	.
 8A\	8a\ 8aa\L	.
 8A\J	8b\ 8bb\J	.
 =30	=30	=30
-32AAQ/LLL	.	.
-32C#Q/	.	.
-32EQ/JJJ	.	.
+32AAq/LLL	.	.
+32C#q/	.	.
+32Eq/JJJ	.	.
 8A\L	8cc#\ 8ccc#\L	.
 8A\	8b\ 8bb\	.
 8A\	8a\ 8aa\	.
 8A\J	8g#\ 8gg#\J	.
 =31	=31	=31
-32DDQ/LLL	.	.
-32FF#Q/	.	.
-32AAQ/JJJ	.	.
+32DDq/LLL	.	.
+32FF#q/	.	.
+32AAq/JJJ	.	.
 8D\L	8f#\ 8ff#\L	.
 8D\J	8b\ 8bb\	.
-32EEQ/LLL	.	.
-32GG#Q/	.	.
-32BBQ/JJJ	.	.
+32EEq/LLL	.	.
+32GG#q/	.	.
+32BBq/JJJ	.	.
 8E\L	8g#\ 8gg#\	.
 8E\J	8e\ 8ee\J	.
 =32	=32	=32
@@ -460,9 +460,9 @@
 4r	8a\ 8aa\L	f
 .	8b\ 8bb\J	.
 =57	=57	=57
-32AAQ/LLL	.	.
-32C#Q/	.	.
-32EQ/JJJ	.	.
+32AAq/LLL	.	.
+32C#q/	.	.
+32Eq/JJJ	.	.
 8A\L	4cc#\ 4ccc#\	.
 8A\	.	.
 8A\	8a\ 8aa\L	.

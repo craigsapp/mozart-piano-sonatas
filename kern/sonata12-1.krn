@@ -152,9 +152,9 @@
 8A\	8ff\	.
 8F\J)	8dd\J)	.
 =25	=25	=25
-.	32cc#Q/LLL	.
-.	32eeQ/	.
-.	32ggQ/JJJ	.
+.	32cc#q/LLL	.
+.	32eeq/	.
+.	32ggq/JJJ	.
 4EE/ 4E/	4.bb-\	.
 4E\ 4G\ 4B-\ 4c#\	.	.
 .	(16aa\LL	.
@@ -268,9 +268,9 @@
 8E-/	4ff#\)	.
 8C/J)	.	.
 =37	=37	=37
-.	32gQ/LLL	.
-.	32bnQ/	.
-.	32ddQ/JJJ	.
+.	32gq/LLL	.
+.	32bnq/	.
+.	32ddq/JJJ	.
 (8GG/L	(2gg\	.
 8BBn/	.	.
 8D/	.	.
@@ -301,8 +301,8 @@
 4GG'/	4g'/	.
 4r	4r	.
 =41	=41	=41
-32CQ/LLL	(32gQ/	.
-32GQ/JJJ	.	.
+32Cq/LLL	(32gq/	.
+32Gq/JJJ	.	.
 4c\	8een\)	p
 .	8r	.
 4r	8ee\	.
@@ -310,8 +310,8 @@
 4r	8ee\	.
 .	8r	.
 =42	=42	=42
-32GQ/LLL	16bnQ/	.
-32dQ/JJJ	.	.
+32Gq/LLL	16bnq/	.
+32dq/JJJ	.	.
 4f\	(4.gg\	.
 4r	.	.
 .	8ff\	.
@@ -331,9 +331,9 @@
 =45	=45	=45
 (4A\	(4.ff\	.
 4c\ 4f\)	.	.
-.	32ggQ/LLL	.
-.	32ffQ/	.
-.	32eeQ/JJJ	.
+.	32ggq/LLL	.
+.	32ffq/	.
+.	32eeq/JJJ	.
 .	8ff\L	.
 4r	8gg\	.
 .	8aa\J)	.
@@ -405,9 +405,9 @@
 (8A/L	4.ff\	f
 8c/	.	.
 8f/	.	.
-!!.	32ggQ/LLL	.
-!!.	32ffQ/	.
-!!.	32eeQ/JJJ	.
+!!.	32ggq/LLL	.
+!!.	32ffq/	.
+!!.	32eeq/JJJ	.
 8c/	(8ff\L	.
 8A/	8gg\	.
 8c/J	8aa\J)	.
@@ -1063,9 +1063,9 @@
 8A\)	8ff\	.
 8F\J	8dd\J)	.
 =157	=157	=157
-.	(32cc#Q/LLL	.
-.	32eeQ/	.
-.	32ggQ/JJJ	.
+.	(32cc#q/LLL	.
+.	32eeq/	.
+.	32ggq/JJJ	.
 4EE/ 4E/	4.bb-\)	.
 4E\ 4G\ 4B-\ 4c#\	.	.
 .	(16aa\LL	.
@@ -1214,9 +1214,9 @@
 8A-\	4ff\)	.
 8F\J)	.	.
 =173	=173	=173
-.	32ccQ/LLL	.
-.	32eenQ/	.
-.	32ggQ/JJJ	.
+.	32ccq/LLL	.
+.	32eenq/	.
+.	32ggq/JJJ	.
 8C\L	(2ccc\	.
 8En\	.	.
 (8G\	.	.
@@ -1247,8 +1247,8 @@
 4CC'/ 4C'/	4c'/	.
 4r	4r	.
 =177	=177	=177
-32FFQ/LLL	32cQ/	.
-32CQ/JJJ	.	.
+32FFq/LLL	32cq/	.
+32Cq/JJJ	.	.
 4F\	8an'/	p
 .	8r	.
 4r	8a'/	.
@@ -1256,8 +1256,8 @@
 4r	8a'/	.
 .	8r	.
 =178	=178	=178
-32CQ/LLL	32eQ/	.
-32GQ/JJJ	.	.
+32Cq/LLL	32eq/	.
+32Gq/JJJ	.	.
 4B-\	(4.cc\	.
 4r	.	.
 .	8b-\)	.
@@ -1277,9 +1277,9 @@
 =181	=181	=181
 (4D\	4.b-\	.
 4F\ 4B-\)	.	.
-.	32ccQ/LLL	.
-.	32b-Q/	.
-.	32aQ/JJJ	.
+.	32ccq/LLL	.
+.	32b-q/	.
+.	32aq/JJJ	.
 .	(8b-\L	.
 4r	8cc\	.
 .	8dd\J)	.
@@ -1349,9 +1349,9 @@
 (8d/L	4.bb-\	f
 8f/	.	.
 8b-/	.	.
-.	32cccQ/LLL	.
-.	32bb-Q/	.
-.	32aaQ/JJJ	.
+.	32cccq/LLL	.
+.	32bb-q/	.
+.	32aaq/JJJ	.
 8f/	(8bb-\L	.
 8d/	8ccc\	.
 8f/J	8ddd\J)	.

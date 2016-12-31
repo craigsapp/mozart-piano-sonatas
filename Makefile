@@ -638,3 +638,14 @@ ifeq ($(shell which keycor),)
 endif
 
 
+###########################################################################
+##
+## non-general targets.
+##
+
+import:
+	cp ../*.krn kern
+
+
+
+

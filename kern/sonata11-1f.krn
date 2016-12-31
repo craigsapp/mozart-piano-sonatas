@@ -369,9 +369,9 @@
 32e\JJJ	.	.
 32G#\LLL	.	.
 32e\	.	.
-!	!32cc#Q/LLL	!.
-!	!32bQ/	!.
-!	!32a#Q/JJJ	!.
+.	32cc#q/LLL	.
+.	32bq/	.
+.	32a#q/JJJ	.
 32A\	32b\LL	.
 32e\JJJ	32cc#\JJJ	.
 32B\LLL	16ee\LL	.
@@ -415,9 +415,9 @@
 =17	=17	=17
 *^	*^	*
 4A/ 4c#/	4.E\	16ee\LL	8r	f
-!	!	!32ff#Q/LLL	!.	!.
-!	!	!32eeQ/	!.	!.
-!	!	!32dd#Q/JJJ	!.	!.
+.	.	32ff#q/LLL	.	.
+.	.	32eeq/	.	.
+.	.	32dd#q/JJJ	.	.
 .	.	32ee\L	.	.
 .	.	32ff#\JJJ	.	.
 .	.	8.a\L	8.a/L	.
@@ -429,8 +429,8 @@
 *v	*v	*	*	*
 *	*v	*v	*
 =18	=18	=18
-!	!32eQ/LLL	!.
-!	!32aQ/JJJ	!.
+.	32eq/LLL	.
+.	32aq/JJJ	.
 32AA\LLL	([8cc#\L	f
 32C#\	.	.
 (32E\	.	.
