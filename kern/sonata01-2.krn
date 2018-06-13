@@ -347,7 +347,7 @@
 16r	.	16cc	f
 *clefG2	*	*	*
 =29	=29	=29	=29
-!LO:TX:t=legato	!	!	!
+!LO:TX:i:t=legato	!	!	!
 12cL	.	4gg'	.
 12e	.	.	.
 12gJ	.	.	.
@@ -539,8 +539,8 @@
 12GJ	.	12gJ)	.
 12CL	.	(12fL	.
 12F	.	12a	.
-12AJ	.	(12fJ)	.
-12CL	.	12eL	.
+12AJ	.	12fJ)	.
+12CL	.	(12eL	.
 12G	.	12g	.
 12B-J	.	12eJ)	.
 =46	=46	=46	=46
@@ -734,7 +734,7 @@
 12A 12aJ)	.	.	.
 =62	=62	=62	=62
 *^	*	*^	*
-(4B-	4BB-	.	12r	4d	.
+(4B-	4BB-	.	12r	4d	p
 .	.	.	(12aL	.	.
 .	.	.	12gnJ)	.	.
 4A	2C	.	12r	4c	.
@@ -746,7 +746,7 @@
 *v	*v	*	*	*	*
 *	*	*v	*v	*
 =63	=63	=63	=63
-12r	.	(16b- 16ddLK	f
+12r	.	(16b- 16ddLK>	f
 .	.	8.a) 8.ccJ	.
 (12EE 12EL	.	.	.
 12FF) 12FJ	.	.	.
@@ -756,7 +756,7 @@
 12GG) 12GJ	.	.	.
 12r	.	(16g 16b-LK	.
 .	.	8.f) 8.aJ	.
-(12GG# 12G#L	.	.	.
+(12GG# 12G#L>	.	.	.
 12AA) 12AJ	.	.	.
 *clefG2	*	*	*
 =64	=64	=64	=64
@@ -849,11 +849,11 @@
 .	.	12g 12eenJ	.
 =72	=72	=72	=72
 *^	*	*	*
-4FF 4F	2ryy	.	12a 12ffL	.
+4FF 4F	4ryy	.	12a 12ffL	.
 .	.	.	(12aa	f
 .	.	.	12cccJ)	.
 *clefG2	*clefG2	*	*	*
-12r	.	.	(8.cccTTL	.
+12r	4ryy	.	(8.cccTTL	.
 (<12fL	.	.	.	.
 12aJ)	.	.	.	.
 .	.	.	32bbnLL	.
@@ -889,5 +889,5 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/27/
+!!!EEV: 2018/06/13/
 !!!title: @{OTL}, K 279 (189d), @{OMV}
