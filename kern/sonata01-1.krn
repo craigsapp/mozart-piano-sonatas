@@ -80,7 +80,7 @@
 .	16ddJJ)	.
 *clefG2	*	*
 =5	=5	=5
-!LO:TX:t=legato	!	!
+!LO:TX:i:t=legato	!	!
 16cLL	8ccL	.
 16g	.	.
 .	(32ddqq/	.
@@ -167,7 +167,7 @@
 16c'	.	.
 16f'JJ	.	.
 4r	16a'LL	.
-.	16cc	.
+.	16cc'	.
 .	16ff'	.
 .	16aa'JJ	.
 =10	=10	=10
@@ -519,7 +519,7 @@
 .	32aqJJJ)	.
 =31	=31	=31
 16GLL	8gL	.
-16e	.	.
+16d	.	.
 16B	16gg'L	.
 16dJJ)	16gg'JJ	.
 8G	(16ggLL	.
@@ -1032,7 +1032,7 @@
 .	16ddJJ)	.
 *clefG2	*	*
 =62	=62	=62
-!LO:TX:t=legato	!	!
+!LO:TX:i:t=legato	!	!
 16cLL	8ccL	.
 16g	.	.
 .	(32ddqq/	.
@@ -1441,12 +1441,12 @@
 .	.	32ddqLLL>	.
 .	.	32eeqJJJ	.
 8BJ)	.	(8ddJ)	.
-4r	2.ryy	16r	p
+4r	4ryy	16r	p
 .	.	(16ggLL	.
 .	.	16ff	.
 .	.	16eeJJ)	.
 *clefG2	*	*	*
-(<16fLL	.	4dd	.
+(<16fLL	2ryy	4dd	.
 16cc	.	.	.
 16b	.	.	.
 16ccJJ	.	.	.
@@ -1695,5 +1695,5 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/27/
+!!!EEV: 2018/06/13/
 !!!title: @{OTL}, K 279 (189d), @{OMV}
