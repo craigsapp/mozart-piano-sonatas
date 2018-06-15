@@ -29,8 +29,8 @@
 .	.	16a-k	.
 .	.	8gJ	.
 8B-] 8d-]	8ffL]	8g	.
-8r	8ee-X	8r	.
-8r	8dd-J	8r	.
+8r	8ee-X	8re	.
+8r	8dd-J	8re	.
 =3	=3	=3	=3
 8.cL	2.cc	[4.en [4.g	p
 16d-k	.	.	.
@@ -332,16 +332,16 @@
 *^	*	*	*
 16r	8G)	16ffLL]	8bn)	.
 (16dnLL	.	(16ff	.	.
-16c#	8r	16een	8r	.
+16c#	8rBB	16een	8rg	.
 16d	.	16ff	.	.
-16e-X	8r	16ggn	8r	.
+16e-X	8rBB	16ggn	8rg	.
 16dJJ)	.	16ffJJ)	.	.
 16r	8F#	4.ryy	16r	.
 !	!	!	!LO:S:a	!
 (16cnLL	.	.	(16ee-LL	.
-16Bn	8r	.	16ddn	.
+16Bn	8rBB	.	16ddn	.
 16c	.	.	16ee-	.
-16d	8r	.	16ff	.
+16d	8rBB	.	16ff	.
 16cJJ)	.	.	16ee-JJ	.
 *v	*v	*	*	*
 *	*v	*v	*
@@ -368,8 +368,8 @@
 .	.	16e-k	.
 .	.	8dJ	.
 8F] 8A-]	8ccL]	8d	.
-8r	8b-X	8r	.
-8r	8a-J	8r	.
+8r	8b-X	8rc	.
+8r	8a-J	8rc	.
 =35	=35	=35	=35
 8.GL	[2.g	[4.Bn [4.dn	p
 16A-k	.	.	.
@@ -382,8 +382,8 @@
 16D-Xk	.	.	.
 8CJ)	.	.	.
 4.C	8en 8gL]	8c]	.
-.	8f (8a-	8r	.
-.	8g 8b-XJ)	8r	.
+.	8f (8a-	8rA	.
+.	8g 8b-XJ)	8rA	.
 *	*v	*v	*
 =37	=37	=37
 4F 4A-	8.cctL 8.a-	f
@@ -464,7 +464,7 @@
 16D-	.	.
 16BB-	8b-	.
 16D-JJ	.	.
-.	(16a-qq	.
+.	(32a-qq	.
 16BB-LL	8g-X)	.
 16D-	.	.
 16B-	8r	.
@@ -638,10 +638,10 @@
 8CC	8en 8gJ	8B-	.
 8FF	8f	8A-	.
 8r	8ryy	8r	.
-(8AAn (8An	8ryy	(<(8g- 8ee-X	p
+(<8AAn (>(8An	8ryy	(<(>8g- 8ee-X	p
 *	*v	*v	*
 =59	=59	=59
-8BB-) 8B-)	8f 8dd-))	.
+8BB-) 8B-))	8f 8dd-))	.
 8r	8r	.
 8Bn 8dn	8a- 8ff	f)
 4c	(8.f 8.a-L	.
@@ -654,13 +654,13 @@
 8r	8r	.
 =:|!	=:|!	=:|!
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/25/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/13/
-!!!title: @{OTL}, K 280 (189e), @{OMV}
-!!!RDF**kern: > = above
-!!!RDF**kern: < = below
+!!!EEV: 2018/06/15/
+!!!title: @{OTL}, K 280 (189e), @{OMV}:w
