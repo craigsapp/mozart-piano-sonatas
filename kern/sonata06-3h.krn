@@ -68,9 +68,9 @@
 8F 8A 8dL	.	.
 8F 8A 8d	4r	.
 8F 8A 8dJ	.	.
-!	!LO:TX:b:i:t=cresc.	!
 8r	(4.ddTT	.
 8F 8A 8dL	.	.
+!	!LO:TX:b:i:t=cresc.	!
 8F 8A 8d	.	.
 8F 8A 8dJ	16cc#LL	.
 .	16ddJJ	.
@@ -122,12 +122,12 @@
 8FJ)	.	.	.
 =11	=11	=11	=11
 8E'	(8cc#L	8g'	p
-8r	8dd	8r	.
-4r	8een	4r	.
+8r	8dd	8re	.
+4r	8een	4re	.
 .	8ddJ)	.	.
 8F'	(8ddL	8a'	.
-8r	8ee	8r	.
-4r	8ff	4r	.
+8r	8ee	8re	.
+4r	8ff	4re	.
 .	8eeJ)	.	.
 =12	=12	=12	=12
 8A	8ee	8cc#	.
@@ -185,5 +185,5 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/01/
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 284 (205b), @{OMV}

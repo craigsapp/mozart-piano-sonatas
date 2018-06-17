@@ -59,7 +59,7 @@
 [4DD [4D	8a 8aaL	.
 .	8g 8ggJ	.
 =5	=5	=5
-8DD] 8DL]	8f# 8ff#L	.
+8DD] 8DL]	8f# 8ff#L>	.
 8CC# 8C#	8e 8eeJ	.
 8BBB 8BB	4.d 4.dd	.
 8AAA 8AAJ	.	.
@@ -129,7 +129,7 @@
 =13	=13	=13
 4AA/ 4A/	8c# 8cc#L	.
 .	8d 8ddJ	.
-8AA 8AL	4e 4ee	.
+8AA 8AL>	4e 4ee	.
 8GGn 8GnJ	.	.
 8FF# 8F#L	4d 4dd	.
 8EE 8EJ	.	.
@@ -168,11 +168,13 @@
 4d	4r	.
 ==:|!	==:|!	==:|!
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/03/
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 284 (205b), @{OMV}

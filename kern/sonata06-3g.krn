@@ -24,7 +24,7 @@
 =1	=1	=1
 *	*^	*
 4DD 4D	4ryy	16r	.
-.	.	(>16dLL	.
+.	.	(>16dLL<	.
 .	.	16f#	.
 .	.	16dJJ)	.
 4ryy	4aa	16r	.
@@ -45,20 +45,20 @@
 .	.	16b	.
 .	.	16eJJ	.
 4EE 4E	4ryy	16r	.
-.	.	16g#LL	.
+.	.	16g#LL<	.
 .	.	16b	.
 .	.	16g#JJ	.
 4CC# 4C#	4ryy	16r	.
-.	.	16gnLL	.
+.	.	16gnLL<	.
 .	.	16ee	.
 .	.	16gJJ	.
 4AAA 4AA	4ryy	16r	.
-.	.	16gLL	.
+.	.	16gLL<	.
 .	.	16cc#	.
 .	.	16gJJ	.
 =3	=3	=3	=3
 4DD 4D	4ryy	16r	.
-.	.	16f#LL	.
+.	.	16f#LL<	.
 .	.	16dd	.
 .	.	16f#JJ	.
 4ryy	4aa	16r	.
@@ -66,7 +66,7 @@
 .	.	16dd	.
 .	.	16f#JJ	.
 4GG 4G	4ryy	16r	.
-.	.	16eLL	.
+.	.	16eLL<	.
 .	.	16dd	.
 .	.	16eJJ	.
 4ryy	4bb	16r	.
@@ -86,7 +86,7 @@
 4FF# 4F#	4ryy	.	.
 =5	=5	=5	=5
 4DD 4D	4ryy	16r	.
-.	.	16f#LL	.
+.	.	16f#LL<	.
 .	.	16a	.
 .	.	16f#JJ	.
 4ryy	4ddd	16r	.
@@ -107,20 +107,20 @@
 .	.	16dd	.
 .	.	16eJJ	.
 4BBB 4BB	4ryy	16r	.
-.	.	16g#LL	.
+.	.	16g#LL<	.
 .	.	16dd	.
 .	.	16g#JJ	.
 4EE 4E	4ryy	16r	.
-.	.	16g#LL	.
+.	.	16g#LL<	.
 .	.	16b	.
 .	.	16g#JJ	.
 4DD 4D	4ryy	16r	.
-.	.	16g#LL	.
+.	.	16g#LL<	.
 .	.	16b	.
 .	.	16g#JJ	.
 =7	=7	=7	=7
 4CC# 4C#	4ryy	16r	.
-.	.	16aLL	.
+.	.	16aLL<	.
 .	.	16cc#	.
 .	.	16aJJ	.
 4ryy	4ee	16r	.
@@ -128,7 +128,7 @@
 .	.	16a	.
 .	.	16c#JJ	.
 4EE 4E	4ryy	16r	.
-.	.	16BLL	.
+.	.	16BLL<	.
 .	.	16g#	.
 .	.	16BJJ	.
 4ryy	4g#X	16r	.
@@ -229,7 +229,7 @@
 =14	=14	=14
 *	*^	*
 4DD 4D	4ryy	16r	.
-.	.	16dLL	.
+.	.	16dLL<	.
 .	.	16f#	.
 .	.	16dJJ	.
 4ryy	4aa	16r	.
@@ -250,20 +250,20 @@
 .	.	16b	.
 .	.	16eJJ	.
 4EE 4E	4ryy	16r	.
-.	.	16g#LL	.
+.	.	16g#LL<	.
 .	.	16b	.
 .	.	16g#JJ	.
 4CC# 4C#	4ryy	16r	.
-.	.	16gnLL	.
+.	.	16gnLL<	.
 .	.	16ee	.
 .	.	16gJJ	.
 4AAA 4AA	4ryy	16r	.
-.	.	16gLL	.
+.	.	16gLL<	.
 .	.	16cc#	.
 .	.	16gJJ	.
 =16	=16	=16	=16
 4DD 4D	4ryy	16r	.
-.	.	16f#LL	.
+.	.	16f#LL<	.
 .	.	16dd	.
 .	.	16f#JJ	.
 4ryy	4bb	16r	.
@@ -271,7 +271,7 @@
 .	.	16dd	.
 .	.	16gJJ	.
 4AA 4A	4ryy	16r	.
-.	.	16f#LL	.
+.	.	16f#LL<	.
 .	.	16dd	.
 .	.	16f#JJ	.
 4ryy	4cc#	16r	.
@@ -299,5 +299,5 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/01/
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 284 (205b), @{OMV}

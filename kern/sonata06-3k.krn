@@ -93,7 +93,7 @@
 *v	*v	*	*
 =5	=5	=5
 *	*^	*
-16F#LL	8r	4a	.
+16F#LL	8raa	4a	.
 16f#	.	.	.
 16F#	4aa	.	.
 16f#JJ	.	.	.
@@ -242,7 +242,7 @@
 16gJJ	.	.
 =14	=14	=14
 *	*^	*
-16F#LL	8r	4a	.
+16F#LL	8raa	4a	.
 16f#	.	.	.
 16F#	4aa	.	.
 16f#JJ	.	.	.
@@ -285,7 +285,7 @@
 .	16ee	.
 .	16e	.
 .	16eeJJ	.
-4AA 4A	16gLL	.
+4AA/ 4A/	16gLL	.
 .	16gg	.
 .	16g	.
 .	16ggJJ	.
@@ -306,5 +306,5 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/03/
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 284 (205b), @{OMV}

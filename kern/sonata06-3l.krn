@@ -194,10 +194,10 @@
 16a	.	.
 16f#JJ)	.	.
 *clefF4	*	*
-(16F#LL	(32ggWLLK	.
+(16F#LL	(32ggMLLK	.
 .	16.ff#)	.
 16A	.	.
-16d	(32eeWK	.
+16d	(32eeMK	.
 .	16.ddJJ)	.
 16AJJ)	.	.
 (16GLL	(64bLLLL	.
@@ -327,7 +327,7 @@
 *clefG2	*	*	*
 *	*v	*v	*
 =17	=17	=17
-(<(>4a 4ccn	(4dd#	.
+(</(>4a 4ccn/	(4dd#	.
 8g# 8b))	8ee)	.
 8r	16.r	.
 .	32bb	.
@@ -448,7 +448,7 @@
 .	16cc# 16ccc#	.
 .	16dd 16dddJJ	.
 *clefF4	*	*
-(16ALL	2eeT	.
+(16ALL	2eeTT	.
 16d	.	.
 16e	.	.
 16dJJ	.	.
@@ -569,7 +569,7 @@
 .	16A'	.
 .	16A'JJ	.
 4AA 4C#	4A	.
-.	(128AqLLLLL	.
+.	(>128AqLLLLL<	.
 .	128Bq	.
 .	128c#q	.
 .	128dq	.
@@ -690,5 +690,5 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/02/03/
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 284 (205b), @{OMV}
