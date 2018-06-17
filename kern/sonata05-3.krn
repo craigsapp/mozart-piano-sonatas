@@ -32,7 +32,7 @@
 8G	.	.
 8GJ	8dd 8ff#)	.
 =4	=4	=4
-.	(32ff#/qq	.
+.	(<32ff#/qq	.
 8GL	4cc) (4ee	.
 8G	.	.
 8GJ	8b 8dd)	.
@@ -51,7 +51,7 @@
 8G	.	.
 8GJ	8b 8dd)	.
 =8	=8	=8
-.	(32dd/qq	.
+.	(<32dd/qq	.
 8GL	4a) (4cc	.
 8G	.	.
 8GJ	8g 8b)	.
@@ -208,8 +208,8 @@
 .	16dd#JJ)	.
 *clefG2	*	*
 =33	=33	=33
-16cLL	(4ee	.
-(16g	.	.
+(16cLL	(4ee	.
+16g	.	.
 16f#	.	.
 16g	.	.
 16d	8ddn)	.
@@ -444,7 +444,7 @@
 16A	.	.
 16f#JJ	.	.
 =72	=72	=72
-16ALL	4.eeT	.
+16ALL	4.eeTT	.
 16g	.	.
 16c#	.	.
 16g	.	.
@@ -483,7 +483,7 @@
 8B 8d	8ff#'	.
 =80	=80	=80
 *^	*	*
-4d	8GL	4.eeT	.
+4d	8GL	4.eeTT	.
 .	8E	.	.
 8c#	8AJ	.	.
 *v	*v	*	*
@@ -660,8 +660,8 @@
 8C 8E 8AL	.	.
 8C 8E 8AJ	8ee)	.
 =115	=115	=115
-8D#: 8F#: 8A: 8c:	8r	.
-8r	(16aaLL	f
+8D#: 8F#: 8A: 8c:	8r	f
+8r	(16aaLL	.
 .	16ccc	.
 8r	16ff#X	.
 .	16aaJJ	.
@@ -813,7 +813,7 @@
 16B	.	.
 16gJJ	.	.
 =137	=137	=137
-16BLL	4.ff#t	.
+16BLL	4.ff#tt	.
 16a	.	.
 16d#	.	.
 16a	.	.
@@ -908,13 +908,13 @@
 .	8ee (8ggL	.
 .	8ffn 8gg#J	.
 =159	=159	=159
-8c#)	8ee (8aaL)	.
-8r	8a 8ee	.
+8c#)	8ee 8aaL)	.
+8r	(8a 8ee	.
 8r	8b- 8ggnJ	.
 =160	=160	=160
 8d	8a 8ff#X	.
-8r	(8ddL)	f
-8r	8cc#J	.
+8r	8ddL)	f
+8r	(8cc#J	.
 =161	=161	=161
 4.r	8ddL	.
 .	8cc#	.
@@ -925,7 +925,7 @@
 (8dL	.	.
 8c#J	.	.
 =163	=163	=163
-8dL	4.g 4.b-T	.
+8dL	4.g 4.b-TT	.
 8c#	.	.
 8dJ)	.	.
 .	16aq/LL	.
@@ -944,7 +944,7 @@
 (8e- 8gL	.	.
 8d 8f#J	8bb-)	.
 =167	=167	=167
-8e- 8gL	4.cc#t	.
+8e- 8gL	4.cc#tt	.
 8d 8f#	.	.
 8e-) 8gJ	.	.
 .	16bq/LL	.
@@ -985,8 +985,8 @@
 8G	.	.
 8GJ	8dd 8ff#)	.
 =175	=175	=175
-.	32ff#qq/	.
-8GL	4cc (4ee	.
+.	(<32ff#qq/	.
+8GL	4cc ()4ee	.
 8G	.	.
 8GJ	8b 8dd)	.
 =176	=176	=176
@@ -1004,7 +1004,7 @@
 8G	.	.
 8GJ	8b 8dd)	.
 =179	=179	=179
-.	(32dd/qq	.
+.	(<32dd/qq	.
 8GL	4a) (4cc	.
 8G	.	.
 8GJ	8g 8b)	.
@@ -1296,15 +1296,15 @@
 =227	=227	=227
 *	*^	*
 8g)	8ryy	8bb')	.
-8r	16bbLL	8ggL	f
-.	(16ddd	.	.
+8r	(16bbLL	8ggL	f
+.	16ddd	.	.
 8r	16ccc	8aaJ	.
 .	16eeeJJ	.	.
 *clefF4	*	*	*
 =228	=228	=228	=228
 8G (8gL	8ddd)	8bb	.
-8F# 8f#	4ryy	8r	.
-8A 8aJ)	.	8r	.
+8F# 8f#	8ryy	8r	.
+8A 8aJ)	8ryy	8r	.
 *	*v	*v	*
 =229	=229	=229
 *^	*	*
@@ -1315,14 +1315,14 @@
 16cJJ	.	.	.
 =230	=230	=230	=230
 8B)	8G	(8e 8eeL	.
-4ryy	8r	8d# 8dd#	.
-.	8r	8f#) 8ff#J	.
+8r	8r	8d# 8dd#	.
+8r	8r	8f#) 8ff#J	.
 *v	*v	*	*
 =231	=231	=231
 *	*^	*
 4.r	8e 8ee	8ryy	.
-.	16eLL	8cL	.
-.	(16g	.	.
+.	(16eLL	8cL	.
+.	16g	.	.
 .	16fn	8dnJ	.
 .	16aJJ	.	.
 =232	=232	=232	=232
@@ -1395,7 +1395,7 @@
 16d	.	.
 16bJJ	.	.
 =243	=243	=243
-16dLL	4.aaT	.
+16dLL	4.aaTT	.
 16cc	.	.
 16f#	.	.
 16cc	.	.
@@ -1433,7 +1433,7 @@
 8e' 8g'	8bb'	.
 =251	=251	=251
 *^	*	*
-4g	8cL	4.aaT	.
+4g	8cL	4.aaTT	.
 .	8A	.	.
 8f#	8dJ	.	.
 *v	*v	*	*
@@ -1527,7 +1527,7 @@
 .	16aaJJ	.	.
 =268	=268	=268	=268
 8GG 8G	8dd 8gg	8b	.
-8r	4r	8r	.
+8r	4ryy	8r	.
 8B'	.	8b'	p
 *	*v	*v	*
 =269	=269	=269
@@ -1565,11 +1565,13 @@
 4.r	4.r	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/06/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/16
 !!!title: @{OTL}, K 283 (189h), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"
-!!!ONB: Not proofread
