@@ -440,7 +440,7 @@
 *clefF4	*	*	*
 (16ALL\	4.ryy	16ff#	.
 16c#JJ\	.	16aaJJ)	.
-16BLL\	.	(4ggT	.
+16BLL\	.	(4ggTT	.
 16d\	.	.	.
 16c#\	.	.	.
 16eJJ\	.	.	.
@@ -455,7 +455,7 @@
 .	16gg	.
 (16ALL	16ff#	.
 16c#JJ	16aaJJ)	.
-16BLL	(4ggT	.
+16BLL	(<4ggTT	.
 16d	.	.
 16c#	.	.
 16eJJ)	.	.
@@ -722,8 +722,8 @@
 8d	(4cc	.
 8AJ)	.	.
 =75	=75	=75
-8G'	4b)	f
-8B (8dL	.	.
+8G'	4b)	.
+8B (8dL	.	f
 8A 8c	4r	.
 8G# 8BJ)	.	.
 4r	(8.eeL	p
@@ -894,7 +894,7 @@
 8dJ)	.	.
 *clefG2	*	*
 =94	=94	=94
-(16bLL	8r	.
+(>16bLL	8r	.
 16dd	.	.
 16b	(16dddLL	.
 16ddJJ	16eeeJJ	.
@@ -1078,7 +1078,7 @@
 .	.	16ccc	.
 (16dLL	.	16bb	.
 16f#JJ	.	16dddJJ)	.
-16eLL	.	(4cccT	.
+16eLL	.	(4cccTT	.
 16g	.	.	.
 16f#	.	.	.
 16aJJ	.	.	.
@@ -1094,7 +1094,7 @@
 *clefF4	*	*
 (16DLL	16b	.
 16F#JJ	16ddJJ)	.
-16ELL	(4ccT	.
+16ELL	(<4ccTT	.
 16G	.	.
 16F#	.	.
 16AJJ	.	.
@@ -1193,12 +1193,13 @@
 4r	4r	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/05/
-!!!EEV: 2016/12/28/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 283 (189h), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"
-!!!ONB: Not proofread
