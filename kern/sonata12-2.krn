@@ -21,7 +21,7 @@
 16f	.	.
 16d	.	.
 16fJJ	.	.
-16B-LL	(8.ddSL	.
+16B-LL	(8.ddSsSL	.
 16f	.	.
 16d	.	.
 16fJJ	16ee-Jk)	.
@@ -34,11 +34,11 @@
 16c	8r	.
 16fJJ	.	.
 =2	=2	=2
-16GLL	(8.ee-XSL	.
+16GLL	(8.ee-XSSsL	.
 16e-	.	.
 16B-	.	.
 16e-JJ	16ffJk)	.
-16E-LL	(8.ggSL	.
+16E-LL	(8.ggSSSL	.
 16B-	.	.
 16G	.	.
 16B-JJ	16aaJk)	.
@@ -88,11 +88,11 @@
 8r	16ee-	.
 .	16ccJJ)	.
 =5	=5	=5
-16B-LL	(8.b-SL	.
+16B-LL	(8.b-SSsL	.
 16f	.	.
 16d-	.	.
 16fJJ	16ccJk)	.
-16B-LL	(8.dd-SL	.
+16B-LL	(8.dd-SSsL	.
 16f	.	.
 16d-	.	.
 16fJJ	16ee-Jk)	.
@@ -105,11 +105,11 @@
 16c	8r	.
 16fJJ	.	.
 =6	=6	=6
-16G-LL	(8.ee-XSL	.
+16G-LL	(8.ee-XSSsL	.
 16e-	.	.
 16B-	.	.
 16e-JJ	16ffJk)	.
-16E-LL	(8.gg-SL	.
+16E-LL	(8.gg-SSsL	.
 16B-	.	.
 16G-	.	.
 16B-JJ	16aa-Jk)	.
@@ -146,7 +146,7 @@
 16GJJ	16dd-Jk)	.
 =8	=8	=8
 *^	*^	*
-2ryy	16CLL	4ryy	(>8.ccSL	.
+2ryy	16CLL	4ryy	(>8.ccSsSL	.
 .	16A-	.	.	.
 .	16F	.	.	.
 .	16A-JJ	.	16dd-Jk)	.
@@ -215,10 +215,10 @@
 .	.	16ddJJ)	.
 =12	=12	=12	=12
 *	*	*^	*
-4ryy	(8A 8fnL	(<24ccLL	4ryy	.
+4ryy	(8A 8fnL	(<24ccLL>	4ryy	.
 .	.	24b-	.	.
 .	.	24aJJ	.	.
-.	8B- 8dJ)	24gLL	.	.
+.	8B- 8dJ)	24gLL>	.	.
 .	.	24b-	.	.
 .	.	24ddJJ)	.	.
 (8AL	4C	(8fnL	(8fnL	.
@@ -276,7 +276,7 @@
 .	.	16a 16ccn	.
 .	.	16g 16b-	.
 .	.	16f#) 16aJJ	.
-.	(4D 4F# 4A (4c	[4d 4f# (>4a	sfp
+.	(4D 4F# 4A (4c	[4d 4f# (>4a	sf
 (8B-L)	4G)	16d] 16g 16b-)	p
 .	.	(16b-TLL)	.
 .	.	16aqLL>	.
@@ -313,9 +313,9 @@
 .	(>16ALL	.	.
 .	.	32aaJk)	.
 .	16c	[8ffnJ	.
-.	[16fJJ)	.	.
+.	[>16fJJ)	.	.
 *	*^	*	*
-8r	4A	4f/]	(16ffLL]	.
+8rc	4A	4f/]	(16ffLL]	.
 .	.	.	16ee-X	.
 8e-X\	.	.	16dd	.
 .	.	.	16cc#JJ	.
@@ -350,7 +350,7 @@
 16AJJ	32ffJJJ)	.
 .	64r	.
 .	64f'	.
-16CLL	2gT	.
+16CLL	2gTT	.
 16B-	.	.
 16En	.	.
 16B-JJ	.	.
@@ -377,7 +377,7 @@
 16c	.	16ffJJ)	.
 16f	.	32r	.
 .	.	32ffLLK	.
-16e-JJ	.	(16ffJJ	.
+16e-JJ	.	(16ffTJJ	.
 .	.	32eeqLLL>	.
 .	.	32ffqJJJ	.
 8dL	.	16cccLL	.
@@ -410,7 +410,7 @@
 16f	.	.
 16d	.	.
 16fJJ	.	.
-16B-LL	(8.ddSL	.
+16B-LL	(8.ddSsSL	.
 16f	.	.
 16d	.	.
 16fJJ	16ee-Jk)	.
@@ -423,11 +423,11 @@
 16c	8r	.
 16fJJ	.	.
 =22	=22	=22
-16GLL	(8.ee-XSL	.
+16GLL	(8.ee-XSSsL	.
 16e-	.	.
 16B-	.	.
 16e-JJ	16ffJk)	.
-16E-LL	(8.ggSL	.
+16E-LL	(8.ggSSSL	.
 16B-	.	.
 16G	.	.
 16B-JJ	16aaJk)	.
@@ -482,11 +482,11 @@
 .	32ee-	)
 .	32ccJJJ)	]
 =25	=25	=25
-(16B-LL	(8.b-SL	p
+(16B-LL	(8.b-SSsL	p
 16f	.	.
 16d-	.	.
 16fJJ)	16ccJk)	.
-(16B-LL	(8.dd-SL	.
+(16B-LL	(8.dd-SSsL	.
 16f	.	.
 16d-	.	.
 16fJJ)	16ee-Jk)	.
@@ -526,7 +526,7 @@
 .	64ggn	.
 .	64aa-	.
 .	64aanJJJJ)	.
-(16DnLL	(8.aaSL	.
+(16DnLL	(8.aaSsSL	.
 16B-	.	.
 16F	.	.
 16B-JJ)	16bb-Jk)	.
@@ -559,7 +559,7 @@
 .	24dd-JJ)	.
 =28	=28	=28
 *^	*^	*
-2ryy	(>16CLL	4ryy	(>8.ccSL	.
+2ryy	(>16CLL	4ryy	(>8.ccSsSL	.
 .	16A-	.	.	.
 .	16F	.	.	.
 .	16A-JJ)	.	16dd-Jk)	.
@@ -624,8 +624,8 @@
 .	.	16cc 16ee-	.
 .	.	16bn 16ddJJ	.
 *clefG2	*	*	*
-(4G 4Bn 4d 4f	4ryy	[4g 4b (4dd)	sfp
-(8e-L)	4c	16g] 16cc 16ee-)	.
+(>&(4G 4Bn 4d 4f	4ryy	[4g 4b (4dd)	sfp
+(8e-L)	4c&)	16g] 16cc 16ee-)	.
 .	.	(16ee-TLL	.
 .	.	16ddqLL>	.
 .	.	16ee-qJJ	.
@@ -696,16 +696,16 @@
 16d 16fn	.	16dd 16ffn	.
 16c 16e-	.	16cc 16ee-	.
 16Bn) 16dJJ	.	16bn 16ddJJ)	.
-(4G 4B 4d (4f	.	[4g 4b (4dd	sfp
-(8e-L)	4c	16g] 16cc 16ee-LL)	.
+(&(>4G 4B 4d (4f	.	[4g 4b (4dd	sfp
+(8e-L)	4c&)	16g] 16cc 16ee-LL)	.
 .	.	(16ee-T	.
 .	.	16ddqLL>	.
 .	.	16ee-qJJ	.
 8aJ)	.	16ff	.
 .	.	16ggJJ)	.
 =36	=36	=36	=36
-(8d 8b-L	4ryy	(24ffLL	.
-.	.	24bb-	.
+(8d 8b-XL	4ryy	(24ffLL	.
+.	.	24bb-X	.
 .	.	24ddJJ	.
 8e-) 8gJ	.	24ggLL	.
 .	.	24ee-	.
@@ -733,7 +733,7 @@
 4ryy	16r	(16.ffLL	.
 .	(>16DLL	.	.
 .	.	32b-Jk)	.
-.	16F	[8bb-J	.
+.	16F	[8bb-XJ	.
 .	[>16B-JJ)	.	.
 4D\	8B-L>]	16bb-LL]	.
 .	.	(16aa-	.
@@ -766,7 +766,7 @@
 16d	16gg'	.
 16B-	16aa'	.
 16dJJ	16bb-JJ)	.
-16FLL	2cc	.
+16FLL	2ccTT	.
 16e-	.	.
 16A	.	.
 16e-JJ	.	.
@@ -813,8 +813,8 @@
 16c 16e-JJ	.	.	.
 .	.	32aJJk)	.
 *clefF4	*clefF4	*	*
-2ryy	[4BB- [>4B-)	(4c 4e- [4f (4a	.
-.	8BB-] 8D 8F 8B-]	8d) 8f] 8b-)	.
+2ryy	[4BB- [>4B-)	(>4c 4e- [4f ((4a	.
+.	8BB-] 8D 8F 8B-]	8d) 8f] 8b-))	.
 .	8r	8r	.
 *v	*v	*	*
 ==	==	==
@@ -826,6 +826,6 @@
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15/
-!!!EEV: 2017/01/22/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/18/
 !!!title: @{OTL}, K 332 (300k), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"
