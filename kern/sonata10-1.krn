@@ -32,7 +32,7 @@
 16cJJ	32cc	.
 .	32bJJJ)	.
 =2	=2	=2
-16eLL	(8.ccTL	.
+16eLL	(8.ccTTL	.
 16c	.	.
 16e	.	.
 .	16bq/LL	.
@@ -56,7 +56,7 @@
 16cJJ	32cc	.
 .	32bJJJ)	.
 =4	=4	=4
-16eLL	(8.ccTL	.
+16eLL	(8.ccTTL	.
 16c	.	.
 16e	.	.
 .	16bq/LL	.
@@ -239,7 +239,7 @@
 16cJk	.	16eeJk	.
 8B)	16r	8dd)	.
 .	(>16GGLL	.	.
-8r	16BB	8r	.
+8rA	16BB	8r	.
 .	16DJJ	.	.
 *v	*v	*	*
 =19	=19	=19
@@ -402,8 +402,8 @@
 .	32ccJJJ	.
 *clefF4	*	*
 =30	=30	=30
-8G	16bLL	.
-.	(32ggL)	.
+8G	16bLL)	.
+.	(32ggL	.
 .	32aaJJJ	.
 8r	32bbLLL	.
 .	32aa	.
@@ -434,7 +434,7 @@
 *	*^	*
 8r	(>16eeLL\	4.ryy	.
 .	16gnJJ)\	.	.
-[8Dn (8B	(4g	.	.
+[8Dn (8B	(>4g	.	.
 4D] 4c)	.	.	.
 .	16bLL	8f#	.
 .	16aJJ)	.	.
@@ -804,7 +804,7 @@
 16B	.	.
 16G	.	.
 16BJJ	.	.
-16DLL	(8.ccTL	.
+16DLL	(8.ccTTL	.
 16A	.	.
 16F#	.	.
 16AJJ)	32bLL	.
@@ -877,7 +877,7 @@
 16d	.	.
 16f	.	.
 16dJJ	.	.
-16GLL	8.b-TL	.
+16GLL	8.b-TTL	.
 16c	.	.
 16e	.	.
 16cJJ	32aLL	.
@@ -1004,18 +1004,18 @@
 =84	=84	=84
 *^	*	*
 8dL	8G	8ff	.
-16r	8r	32r	.
+16rc	8r	32r	.
 .	.	(32ggLLL	.
 (16c#Jk	.	32ee	.
 .	.	32ggJJJ	.
 8dL)	8G	8ff)	.
-16r	8r	32r	.
+16rc	8r	32r	.
 .	.	(32ggLLL	.
 (16c#Jk	.	32ee	.
 .	.	32ggJJJ	.
 =85	=85	=85	=85
 8dL)	8G	8ff)	.
-16r	8r	32r	.
+16rc	8r	32r	.
 .	.	(32ggLLL	.
 (16c#Jk	.	32ee	.
 .	.	32ggJJJ	.
@@ -1061,7 +1061,7 @@
 .	32bJJJ)	.
 =89	=89	=89
 !LO:TX:b:i:t=legato	!	!
-16eLL	(8.ccTL	.
+16eLL	(8.ccTTL	.
 16c	.	.
 16e	.	.
 .	16bq/LL	.
@@ -1085,7 +1085,7 @@
 16cJJ	32cc	.
 .	32bJJJ)	.
 =91	=91	=91
-16eLL	(8.ccTL	.
+16eLL	(8.ccTTL	.
 16c	.	.
 16e	.	.
 .	16bqLL/	.
@@ -1148,7 +1148,7 @@
 .	32bbJJJ/	.
 16f>LL	8ccc)/	.
 16c>	.	.
-16f>	8r	.
+16f>	8rff	.
 16c>JJ	.	.
 =97	=97	=97
 16e>LL	(>32gLLL/	.
@@ -1161,7 +1161,7 @@
 .	32bbJJJ/	.
 16e>LL	8ccc)/	.
 16c>	.	.
-16e>	8r	.
+16e>	8rff	.
 16c>JJ	.	.
 =98	=98	=98
 *^	*	*
@@ -1219,7 +1219,7 @@
 .	32aa	.
 .	32bb	.
 .	32cccJJJ	.
-.	16gg'LL)	.
+.	16ggLL)	.
 .	16gg'JJ	.
 =102	=102	=102
 8G' 8e'L	32r	.
@@ -1268,7 +1268,7 @@
 16cJk	.	16eeJk	.
 8B)	16r	8dd)	.
 .	(>16GGLL	.	.
-8r	16BB	8r	.
+8rc	16BB	8r	.
 .	16DJJ	.	.
 *v	*v	*	*
 =106	=106	=106
@@ -1619,7 +1619,7 @@
 .	.	32ee	.
 .	.	32ddJJJ	.
 8c (8eL	4G	8ccL	.
-8d 8fJ)	.	8bTJ	.
+8d 8fJ)	.	8btJ	.
 .	.	16aqLL/	.
 .	.	16bqJJ/	.
 *clefG2	*	*	*
@@ -1656,7 +1656,7 @@
 .	32bbJJJ	.
 =137	=137	=137
 *^	*	*
-8c 8e 8g	8r	16ccc'LL)	.
+8c 8e 8g	8ryy	16ccc'LL)	.
 .	.	16ccc'JJ	.
 4g	(8fL	32r	.
 .	.	(32ggLLL	.
@@ -1710,8 +1710,8 @@
 .	.	32ff	.
 .	.	32ee	.
 .	.	32ddJJJ)	.
-8c (8eL	4G	(8ccTL	.
-8d 8fJ)	.	8bJ)	.
+8c (8eL	4G	(8ccL	.
+8d 8fJ)	.	8btJ)	.
 .	.	16aqLL/	.
 .	.	16bqJJ/	.
 *clefG2	*	*	*
@@ -1828,5 +1828,6 @@
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/08/
+!!!EED: Craig Stuart Sapp
 !!!EEV: 2017/01/20/
 !!!title: @{OTL}, K 330 (300h), @{OMV}
