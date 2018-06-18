@@ -41,7 +41,7 @@
 8GJ	8b' 8dd'J	.
 =4	=4	=4
 8cL	(8dd 8ffL	.
-8CJ	8cc 8eeTJ)	.
+8CJ	8cc 8eetJ)	.
 8GL	4b 4dd	.
 8GGJ	.	.
 =5	=5	=5
@@ -112,7 +112,7 @@
 =12	=12	=12
 16CLL	8dd (8ffL	.
 16E	.	.
-16G	8cc 8eeTJ)	.
+16G	8cc 8eetJ)	.
 16cJJ	.	.
 16GGLL	4b 4dd	.
 16BB	.	.
@@ -562,7 +562,7 @@
 .	16eeJJ)	.
 =54	=54	=54
 *^	*^	*
-8r	8ryy	(4.g	4.ryy	.
+8r	8ryy	(>4.g	4.ryy	.
 (8B-L	8C#	.	.	.
 8Bn	4D	.	.	.
 8cnJ)	.	16bLL	8f#	.
@@ -709,9 +709,9 @@
 8r	8bL)	.
 8D	8c 8aJ	.
 =68	=68	=68
-8GL	(4c 4a	.
+8GL	(>(4c 4a	.
 8D	.	.
-8GGJ	8B) 8g	.
+8GGJ	8B) 8g)	.
 8r	8r	.
 =69:|!|:	=69:|!|:	=69:|!|:
 *>B	*>B	*>B
@@ -740,7 +740,7 @@
 8r	8ryy	8r	.
 *v	*v	*	*
 =73	=73	=73
-4r	(8ddL>	.
+4r	(8ddL<	.
 .	8g)	.
 (>4BB 4D	(8g	.
 .	8g#tJ)	.
@@ -975,8 +975,8 @@
 8r	(16ggLL	.
 .	16ff)	.
 8B 8g	(16ff	.
-.	16ddJJ	.
-8r	(16ffLL)	.
+.	16ddJJ)	.
+8r	(16ffLL	.
 .	16ee)	.
 8c 8g	(16ee	.
 .	16ccJJ)	.
@@ -1301,7 +1301,7 @@
 .	24dJJ)	.
 *clefG2	*	*
 =131	=131	=131
-(16GLL	4b	.
+(>16GLL	4b	.
 16g	.	.
 16f#	.	.
 16gJJ	.	.
@@ -1425,7 +1425,7 @@
 16D	16ff)	.
 16FJJ	16ff'JJ	.
 =144	=144	=144
-16AALL	8ff	.
+16AALL>	8ff	.
 16F	.	.
 16C	8r	.
 16FJJ	.	.
@@ -1593,15 +1593,15 @@
 16c	16gg'	.
 16eJJ	16gg'JJ	.
 16GLL	(16aaLL	.
-16e	16gg	.
-16c	16ff')	.
+16e	16gg)	.
+16c	16ff'	.
 16eJJ	16ee'JJ	.
 =159	=159	=159
 16GLL	(4ee	.
 16g	.	.
 16c	.	.
 16gJJ	.	.
-16GLL	8.ddTL	.
+16GLL	8.ddTTL	.
 16f	.	.
 16B	.	.
 16fJJ	32ccLL	.
@@ -1702,12 +1702,12 @@
 4E	4C	8ccc)	.
 .	.	(16.gLL	p
 .	.	32ccJJk	.
-4ryy	8r	8eeL)	.
+4ryy	8r	8eeL>)	.
 .	8G#	8f 8ddJ	.
 *v	*v	*	*
 =169	=169	=169
-4.A	(4f (4dd	.
-.	8e) 8cc)	.
+4.A	(>4f ((4dd	.
+.	8e) 8cc))	.
 8r	8r	.
 =170	=170	=170
 8FF 8F	8a 8dd 8ff 8aa	f
@@ -1727,6 +1727,6 @@
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/08/
-!!!EEV: 2017/01/21/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/16/
 !!!title: @{OTL}, K 330 (300h), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"
