@@ -14,7 +14,7 @@
 *D:	*D:	*D:
 *M6/8	*M6/8	*M6/8
 *MM120	*MM120	*MM120
-.	(32aqq/	.
+.	(>32aqq/	.
 4r	(4aa)	p
 8r	8ff#)	.
 *clefG2	*	*
@@ -30,7 +30,7 @@
 =2	=2	=2
 4.A 4.a	(4dd 4ff#	.
 .	8cc# 8ee)	.
-.	(32gqq	.
+.	(>32gqq	.
 4r	(4gg)	.
 8r	8ee)	.
 =3	=3	=3
@@ -67,7 +67,7 @@
 .	16ff#	.
 8r	16ee	.
 .	16ddJJ)	.
-.	(32dd/qq	.
+.	(>32dd/qq	.
 (8GL	4bb)	.
 8g	.	.
 8eJ)	8ccc#	.
@@ -88,7 +88,7 @@
 8A 8a	8cc# 8ee 8aa	.
 8r	8r	.
 8r	8r	.
-.	(32a/qq	.
+.	(>32a/qq	.
 4r	(4aa)	p
 8r	8ff#)	.
 *clefG2	*	*
@@ -104,7 +104,7 @@
 =10	=10	=10
 4.A 4.a	4dd (4ff#	.
 .	8cc# 8ee)	.
-.	(32g/qq	.
+.	(>32g/qq	.
 4r	(4gg)	.
 8r	8ee)	.
 =11	=11	=11
@@ -255,7 +255,7 @@
 =28	=28	=28
 4CC# 4C#	4c#	.
 8r	8r	.
-.	(32eez/qq	.
+.	(>32eez/qq	.
 4r	[4.aa)	.
 8r	.	.
 *clefG2	*	*
@@ -281,13 +281,13 @@
 .	(32BqLLL	.
 .	32Anq	.
 .	32G#qJJJ	.
-4AAA 4AA	4A)	.
+4AAA 4AA	4Any)	.
 8AAA 8AA	8A	.
 =32	=32	=32
 4GGG# 4GG#	4G#	.
 8r	8r	.
-.	32ee/qq	.
-4r	[4.ddd	.
+.	(>32ee/qq	.
+4r	[4.ddd)	.
 8r	.	.
 =33	=33	=33
 !	!LO:TX:i:b:t=legato	!
@@ -458,8 +458,8 @@
 8AAn)	8ryy	8cc# 8ff#	.
 *	*v	*v	*
 =52	=52	=52
-(4GG#	4b 4ee	.
-8EE)	8g# 8dd	.
+(4GG#	(4b 4ee	.
+8EE)	8g# 8dd)	.
 (8AAL	4an 4cc#	.
 8BB	.	.
 8C#J)	8r	.
@@ -665,8 +665,8 @@
 8r	8bnJ)	.
 *clefF4	*	*
 =72	=72	=72
-8D 8A	8r	.
-8r	8e#\' 8ee#\'L	f
+8D 8A	8r	f
+8r	8e#\' 8ee#\'L	.
 8r	8f#\' 8ff#\'J	.
 8D 8A	8r	.
 8r	8a' 8aa'L	.
@@ -705,7 +705,7 @@
 16D	.	.
 16C#	8ff# 8ddd	.
 16DJJ)	.	.
-.	(32b/qq	.
+.	(>32b/qq	.
 (16EELL	4aa)	.
 16E	.	.
 16D#	.	.
@@ -713,7 +713,7 @@
 16D#	8gg#t	.
 16EJJ)	.	.
 .	32ff#LLLq/	.
-.	32ggJJJq/	.
+.	32gg#JJJq/	.
 =77	=77	=77
 (16AALL	8aa	.
 16A	.	.
@@ -728,52 +728,48 @@
 16E#/	8cc# 8aaJ	.
 16F#JJ/)	.	.
 =78	=78	=78
-16DDLL	4dd (4bb	.
+(16DDLL	4dd (4bb	.
 16D	.	.
 16C#	.	.
 16D	.	.
 16C#	8ff# 8ddd)	.
-16DJJ	.	.
-.	(32b/qq	.
-16EELL	4aa)	.
+16DJJ)	.	.
+.	(>32b/qq	.
+(16EELL	4aa)	.
 16E	.	.
 16D#	.	.
 16E	.	.
 16D#	8gg#t	.
-16EJJ	.	.
+16EJJ)	.	.
 .	32ff#LLLq/	.
-.	32ggJJJq/	.
+.	32gg#JJJq/	.
 =79	=79	=79
 8AA	8aa'	.
 8r	(8cc#L	p
 8r	8ddJ	.
-4r	8eeL	.
-.	8ff#	.
-!LO:S:b	!	!
-(8E 8B 8d	8gg#J	.
+8r	8eeL	.
+8r	8ff#	.
+(<8E 8B 8d	8gg#J	.
 =80	=80	=80
 8A 8c#)	8aaL)	.
 8r	(8cc#	.
 8r	8ddJ	.
-4r	8eeL	.
-.	8ff#	.
-!LO:S:b	!	!
-(8E 8B 8d	8gg#J	.
+8r	8eeL	.
+8r	8ff#	.
+(<8E 8B 8d	8gg#J	.
 =81	=81	=81
 8A 8c#)	8aa)	.
-!LO:S:a	!	!
-(8C#\L	8r	.
+(>8C#\L	8r	.
 8D\J	8r	.
-8EL	4r	.
-8F#	.	.
-!	!LO:S:a	!
-8G#J	8e 8b (8dd	.
+8EL	8r	.
+8F#	8r	.
+8G#J	8e 8b (>8dd	.
 =82	=82	=82
 8AL)	8e 8a 8cc#)	.
 (8C#	8r	.
 8DJ	8r	.
-8EL	4r	.
-8F#	.	.
+8EL	8r	.
+8F#	8r	.
 8G#J	8e 8b 8dd	.
 =83	=83	=83
 8A)	8r	.
@@ -799,7 +795,7 @@
 =86	=86	=86
 2.r	4r	.
 .	8r	.
-.	(32a/qq	.
+.	(>32a/qq	.
 .	(4aa)	p
 .	8ff#)	.
 *clefG2	*	*
@@ -815,7 +811,7 @@
 =88	=88	=88
 4.A 4.a	(4dd 4ff#	.
 .	8cc# 8ee)	.
-.	(32g/qq	.
+.	(>32g/qq	.
 4r	(4gg)	.
 8r	8ee)	.
 =89	=89	=89
@@ -873,7 +869,7 @@
 8A 8a	8cc# 8ee 8aa	.
 8r	8r	.
 8r	8r	.
-.	(32aqq/	.
+.	(>32aqq/	.
 4r	(4aa)	p
 8r	8ff#)	.
 *clefG2	*	*
@@ -890,7 +886,7 @@
 *	*^	*
 4.A 4.c#	(4dd#	4.a	.
 .	8ee)	.	.
-.	.	(32g/qq	.
+.	.	(>32g/qq	.
 4r	4.ryy	4gg)	.
 8r	.	8ee	.
 *	*v	*v	*
@@ -950,13 +946,11 @@
 =102	=102	=102
 8d 8f#	8dd	.
 8r	8r	.
-!LO:S:a	!LO:S:a	!
-(16FF#LL	(16f#LL	ff
+(>16FF#LL	(>16f#LL	ff
 16AAJJ	16aJJ	.
 8D)	8dd)	.
 8r	8r	.
-!LO:S:a	!	!
-(16AALL	(16aLL	.
+(>16AALL	(16aLL	.
 16DJJ	16ddJJ	.
 =103	=103	=103
 8F#)	8ff#)	.
@@ -1192,7 +1186,7 @@
 .	16gg	.
 8eJ	16ee	.
 .	16ggJJ	.
-(8f#TL	16bLL	.
+(8f#tL	16bLL	.
 .	16gg	.
 8e)	16b	.
 .	16gg	.
@@ -1275,8 +1269,7 @@
 .	16ee\	.
 8FF#)	16f#\	.
 .	16ee\	.
-!LO:S:a	!	!
-(8BJ	16f#\	.
+(>8BJ	16f#\	.
 .	16dd\JJ	.
 =136	=136	=136
 8G#L	16eLL	.
@@ -1292,8 +1285,7 @@
 8GnJ)	16d	.
 .	16bJJ	.
 =137	=137	=137
-!	!LO:S:a	!
-2.CCn 2.Cn	(16eLL	.
+2.CCn 2.Cn	(>16eLL	.
 .	16b	.
 .	16a	.
 .	16g#	.
@@ -1317,11 +1309,11 @@
 16AAJJ)	.	.
 =139	=139	=139
 4GG	8r	.
-.	(8dd'L	p
+.	8dd'L	p
 8r	8dd'J	.
 4r	8dd'L	.
 .	8dd'	.
-8r	8dd'J)	.
+8r	8dd'J	.
 =140	=140	=140
 8r	(4.dd	.
 8A 8cn 8dL	.	.
@@ -1448,13 +1440,12 @@
 .	8cc#X	.
 .	8ccnJ	.
 .	8bL	.
-.	8cc	.
-.	8aJT)	.
+.	8cc)	.
+.	8aJT	.
 =154	=154	=154
 8G	8g	.
 8r	8r	.
-!LO:S:a	!	!
-(16BBLL	(16BLL	f
+(>16BBLL	(16BLL	f
 16DJJ	16dJJ	.
 8G)	8g)	.
 8r	8r	.
@@ -1463,8 +1454,7 @@
 =155	=155	=155
 8B)	8b)	.
 8r	8r	.
-!	!LO:S:a	!
-(16GLL	(16gLL	.
+(16GLL	(>16gLL	.
 16BJJ	16bJJ	.
 8d)	8dd)	.
 8r	8r	.
@@ -1578,21 +1568,21 @@
 8AA 8AJ	16a	.
 .	16eJJ	.
 =169	=169	=169
-8AA 8G#L	16bLL	<
+8AA 8G#L>	16bLL	<
 .	16e	.
 8AA 8G#	16d	.
 .	16e	.
 8AA 8G#J	16b	.
 !	!LO:TX:b:i:t=cresc.	!
 .	16eJJ	.
-8AA 8G#L	16bLL	.
+8AA 8G#L>	16bLL	.
 .	16e	.
 8AA 8G#	16d	.
 .	16e	.
 8AA 8G#J	16b	.
 .	16eJJ	.
 =170	=170	=170
-8AA 8GnL	16cc#LL	.
+8AA 8GnL>	16cc#LL	.
 .	16gn	.
 8AA 8G	16e	.
 .	16g	.
@@ -1659,25 +1649,28 @@
 =-	=-	=-
 8ryy	(16f#LL	.
 .	16gJJ	.
-.	16gq#/LL	.
-.	16aq	.
-.	16a#q	.
-.	16bq	.
-.	16ccnq	>
-.	16cc#q	)
-.	16ddq	)
-.	16dd#q	)
-.	16eeq	)
-.	16ffnq	)
-.	16ff#q	)
-.	16ggq	)
-.	16gg#q	)
-.	16aaq	)
-.	16aa#/qJJ	)
+*	*cue	*
+!!!OMD: Presto
+4ryy	16g#/LL	.
+.	16a	.
+.	16a#	.
+.	16b	.
+4ryy	16ccn	>
+.	16cc#	)
+.	16dd	)
+.	16dd#	)
+4ryy	16ee	)
+.	16ffn	)
+.	16ff#	)
+.	16gg	)
+8.ryy	16gg#	)
+.	16aa	)
+.	16aa#/JJ	)
+*	*Xcue	*
 8ryy	8bb/)	]
 8ryy	8r;	.
 =-	=-	=-
-!! Adagio
+!!!OMD: Adagio
 8ryy	(16aanLL	p
 .	16ggn'JJ)	.
 8ryy	8r	.
@@ -1701,7 +1694,7 @@
 .	8aaJ)	.
 =174||	=174||	=174||
 !! Tempo primo
-.	(32aqq/	.
+.	(>32aqq/	.
 4r	(4aa)	fp
 8r	8ff#)	.
 *clefG2	*	*
@@ -1717,7 +1710,7 @@
 =176	=176	=176
 4.A 4.a	4dd (4ff#	.
 .	8cc# 8ee)	.
-.	(32gqq/	.
+.	(>32gqq/	.
 4r	(4gg)	.
 8r	8ee)	.
 =177	=177	=177
@@ -1754,7 +1747,7 @@
 .	16ff#	.
 8r	16ee	.
 .	16ddJJ)	.
-.	(32dd/qq	.
+.	(>32dd/qq	.
 8GL	(4bb)	.
 8g	.	.
 8eJ	8ccc#)	.
@@ -1775,7 +1768,7 @@
 8A 8a	8cc# 8ee 8aa	.
 8r	8r	.
 8r	8r	.
-.	(32Aqq	.
+.	(>32Aqq	.
 4r	(4a)	p
 8r	8f#)	.
 =183	=183	=183
@@ -1790,7 +1783,7 @@
 =184	=184	=184
 4.AA 4.A	(4d 4f#	.
 .	8c#) 8e	.
-.	(32Gqq	.
+.	(>32Gqq	.
 4r	(4g)	.
 8r	8e)	.
 =185	=185	=185
@@ -1866,7 +1859,7 @@
 =192	=192	=192
 4CCn 4Cn	4cn	.
 8r	8r	.
-.	(32a/qq	.
+.	(>32a/qq	.
 4r	[4.aaz)	.
 8r	.	.
 *clefG2	*	*
@@ -1897,7 +1890,7 @@
 =196	=196	=196
 4FFF# 4FF#	4F#/j	.
 8r	8r	.
-.	(32dd/qq	.
+.	(>32dd/qq	.
 4r	[4.cccnz)	.
 8r	.	.
 =197	=197	=197
@@ -2045,9 +2038,9 @@
 (8AL	(4aa	(8cc#L	.
 8B	.	8dd	.
 8c#J	8gg)	8eeJ)	.
-8dL	8ff#	8dd	.
-8e	4r	8r	.
-8f#J)	.	8r	.
+8dL	4ff#	4dd	.
+8e	.	.	.
+8f#J)	8r	8r	.
 *clefG2	*	*	*
 *	*v	*v	*
 =211	=211	=211
@@ -2070,8 +2063,7 @@
 8B 8d	.	8gg'J	.
 *v	*v	*	*
 =214	=214	=214
-!LO:S:a	!	!
-[4.A (4.d	(4ff#	.
+[4.A (>4.d	(4ff#	.
 .	16ggLL	.
 .	16ff#JJ	.
 8A] 8c#)	8ee)	.
@@ -2343,7 +2335,7 @@
 16G	.	.
 16F#	8b 8gg)	.
 16GJJ)	.	.
-.	(32e/qq	.
+.	(>32e/qq	.
 (16AALL	4dd)	.
 16A	.	.
 16G#	.	.
@@ -2372,7 +2364,7 @@
 16G	.	.
 16F#	8b 8gg	.
 16GJJ)	.	.
-.	(32e/qq	.
+.	(>32e/qq	.
 (16AALL	4dd)	.
 16A	.	.
 16G#	.	.
@@ -2381,24 +2373,21 @@
 16AJJ)	.	.
 =245	=245	=245
 8D	8dd	.
-!	!LO:S:a	!
-8r	(8f#L	p
+8r	(>8f#L	p
 8r	8aJ	.
 4r	8bL	.
 .	8cc#	.
 8r	8ddJ	.
 =246	=246	=246
 8A 8c#	8ee)	.
-!	!LO:S:a	!
-8r	(8aL	.
+8r	(>8aL	.
 8r	8bJ	.
 4r	8cc#L	.
 .	8dd	.
 8r	8eeJ	.
 =247	=247	=247
 8D 8d	8ff#)	.
-!	!LO:S:a	!
-8r	8f# (8aL	.
+8r	8f# (>8aL	.
 8r	8a 8cc#J	.
 4r	8b 8ddL	.
 .	8cc# 8ee	.
@@ -2414,7 +2403,7 @@
 8d 8f#	8ff# 8aa)	.
 8r	8r	.
 8r	8r	.
-.	(32a/qq	.
+.	(>32a/qq	.
 4r	(4aa)	.
 8r	8ff#)	.
 *clefG2	*	*
@@ -2430,7 +2419,7 @@
 =251	=251	=251
 4.A 4.a	4dd (4ff#	.
 .	8cc# 8ee)	.
-.	(32g/qq	.
+.	(>32g/qq	.
 4r	(4gg)	.
 8r	8ee)	.
 =252	=252	=252
@@ -2487,22 +2476,20 @@
 8r	16ff#	.
 .	16ee	.
 8r	16dd	.
-.	16cc#JJ)	.
+.	16cc#JJ	.
 =257	=257	=257
-8d 8f#	8dd	.
+8d 8f#	8dd)	.
 8r	8r	.
 (16DDLL	(16dLL	ff
 16FF#JJ	16f#JJ	.
 8AA)	8a)	.
 8r	8r	.
-!	!LO:S:a	!
-(16FF#LL	(16f#LL	.
+(16FF#LL	(>16f#LL	.
 16AAJJ	16aJJ	.
 =258	=258	=258
 8D)	8dd)	.
 8r	8r	.
-!LO:S:a	!	!
-(16AALL	(16aLL	.
+(>16AALL	(16aLL	.
 16DJJ	16ddJJ	.
 8F#)	8ff#)	.
 8r	8r	.
@@ -2559,7 +2546,7 @@
 8r	8ryy	8r	.
 8r	8ryy	8r	.
 *clefF4	*	*	*
-4.BB	2.ryy	4.F# 4.B 4.d	p
+4.BB	4.ryy	4.F# 4.B 4.d	p
 *v	*v	*	*
 =266	=266	=266
 4.GG	4.B 4.d 4.e	.
@@ -2604,11 +2591,13 @@
 8r	8r	.
 ==	==	==
 *-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15/
+!!!EED: Craig Stuart Sapp
 !!!EEV: 2016/12/29/
 !!!title: @{OTL}, K 311 (284c), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"
