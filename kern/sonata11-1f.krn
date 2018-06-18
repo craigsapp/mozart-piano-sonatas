@@ -194,7 +194,7 @@
 =8	=8	=8
 *>A1	*>A1	*>A1
 *^	*^	*
-4A (4c#	4.E	8ryy	(>16.eeSSLL	.
+4A (4c#	4.E	8ryy	(>16.eeSSsLL	.
 .	.	.	32ff#JJk)	.
 .	.	(8.aL	8.aL	.
 8B 8d)	.	.	.	.
@@ -208,7 +208,7 @@
 .	.	64a	.	.
 .	.	64g#	.	.
 .	.	64bJJJJ	.	.
-.	.	64aLLLL	.	.
+.	.	64aLLLL>	.	.
 .	.	64cc#	.	.
 .	.	64b	.	.
 .	.	64ddnJJJJ)	.	.
@@ -217,16 +217,16 @@
 =9:|!	=9:|!	=9:|!
 *>A2	*>A2	*>A2
 *^	*^	*
-4A (4c#	4.E	8ryy	(>16.eeSSLL	.
+4A (4c#	4.E	8ryy	(>16.eeSSsLL	.
 .	.	.	32ff#JJk)	.
 .	.	(8.aL	8.aL	.
 8B 8d)	.	.	.	.
 .	.	32cc#LL	16g#Jk	.
 .	.	32bJJJ)	.	.
 (8dL	4A	(8bL	4e 4g#	.
-8c#J)	.	16.aSL	.	.
+8c#J)	.	16.aSSsL	.	.
 .	.	32bk	.	.
-8r	8ryy	16.cc#S	8ryy	.
+8r	8ryy	16.cc#SsS	8ryy	.
 .	.	32ddJJk)	.	.
 *v	*v	*	*	*
 *	*v	*v	*
@@ -261,7 +261,7 @@
 32AJJJ)	.	.
 =11	=11	=11
 *^	*	*
-(<32AALLL	4ryy	(>64dLLLL]	.
+(<32AALLL>	4ryy	(>64dLLLL]	.
 .	.	64f#	.
 32F#	.	64e	.
 .	.	64dJJJJ	.
@@ -269,7 +269,7 @@
 .	.	64f#	.
 32F#JJJ	.	64gn	.
 .	.	64aJJJJ	.
-32AALLL	.	64bLLLL	.
+32AALLL>	.	64bLLLL	.
 .	.	64cc#	.
 32F#	.	64dd	.
 .	.	64eeJJJJ	.
@@ -277,7 +277,7 @@
 .	.	48ggn'	.
 32F#JJJ	.	.	.
 .	.	48aa'JJJ	.
-32AALLL	8ryy	32bb'LLL	.
+32AALLL>	8ryy	32bb'LLL	.
 32F#	.	32ccc#'	.
 32D	.	32.ddd'	.
 32F#JJJ)	.	.	.
@@ -535,5 +535,6 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2017/01/31/
+!!!EEV: 2018/06/17/
 !!!title: @{OTL}, K 331 (300i), @{OMV}
+
