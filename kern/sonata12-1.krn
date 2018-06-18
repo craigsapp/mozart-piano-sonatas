@@ -71,9 +71,9 @@
 =10	=10	=10	=10
 4AA	(8ddL	4f]	.
 .	8cc	.	.
-4r	8b-	4r	.
+4r	8b-	4rA	.
 .	8a	.	.
-4D	8g	4r	.
+4D	8g	4rA	.
 .	8fJ	.	.
 *	*v	*v	*
 =11	=11	=11
@@ -320,9 +320,9 @@
 *	*^	*
 4C	(8ddL	4e	.
 .	8ccJ)	.	.
-4E	2ryy	(>4.g 4.cc	.
+4E	2ryy	(<(>\4.g 4.cc\	.
 4G	.	.	.
-.	.	8bn 8dd)	.
+.	.	8bn 8dd))	.
 =44	=44	=44	=44
 4c	(2dd	(2bn	.
 4C	.	.	.
@@ -391,8 +391,8 @@
 .	.	8ccJ)	.
 *clefF4	*	*	*
 4E	(8ddL	4g	.
-.	8ccJ	.	.
-4G	(8eeL)	4bn	.
+.	8ccJ)	.	.
+4G	(8eeL	4bn	.
 .	8ddJ)	.	.
 =52	=52	=52	=52
 4c	(4.dd	(2bn	.
@@ -635,7 +635,7 @@
 16E	.	.
 16G	.	.
 16cJJ	.	.
-16CLL	(8.eetL	.
+16CLL	(8.eettL	.
 16E	.	.
 16G	.	.
 16cJJ	32ddLL	.
@@ -649,7 +649,7 @@
 16E	.	.
 16G	.	.
 16cJJ	.	.
-16CLL	(8.bbntL	.
+16CLL	(8.bbnttL	.
 16F	.	.
 16G	.	.
 16cJJ	32aaLL	.
@@ -663,7 +663,7 @@
 16E	.	.
 16G	.	.
 16cJJ	.	.
-16CLL	(8.eetL	.
+16CLL	(8.eettL	.
 16E	.	.
 16G	.	.
 16cJJ	32ddLL	.
@@ -677,7 +677,7 @@
 16E	.	.
 16G	.	.
 16cJJ	.	.
-16CLL	(8.bbntL	.
+16CLL	(8.bbnttL	.
 16F	.	.
 16G	.	.
 16cJJ)	32aaLL	.
@@ -691,7 +691,7 @@
 4.C 4.c	4.ccc	sf
 8E	8ee	.
 =92	=92	=92
-(8.FTL	(8.ffTL	.
+(8.FTTL	(8.ffTTL	.
 32ELL	32eeLL	.
 32DJJJ	32ddJJJ	.
 4Gn)	4ggn)	.
@@ -712,9 +712,9 @@
 =96	=96	=96	=96
 4r	(4gg	4r	.
 (4E	4cc	2g	.
-4C)	4ee	.	.
+4C)	4ee)	.	.
 =97	=97	=97	=97
-2.G	2cc (2ee)	2.g	.
+2.G	2cc (2ee	2.g	.
 .	4bn 4dd)	.	.
 *	*v	*v	*
 =98	=98	=98
@@ -742,8 +742,8 @@
 (4E	4c	.
 4C)	4e)	.
 =103	=103	=103
-2.GG 2.G	(2c 2e	.
-.	4Bn) 4d	.
+2.GG 2.G	(>(2c 2e	.
+.	4Bn) 4d)	.
 =104	=104	=104
 *	*^	*
 4r	(4g	4r	.
@@ -751,8 +751,8 @@
 4C)	4e)	.	.
 *	*v	*v	*
 =105	=105	=105
-2.GG 2.G	(2c 2e	.
-.	4Bn) 4d	.
+2.GG 2.G	(>(2c 2e	.
+.	4Bn) 4d)	.
 =106	=106	=106
 4FF 4AA 4D	(4A	.
 4r	4d	.
@@ -1266,14 +1266,14 @@
 *	*^	*
 4FF	(8gL	4A	.
 .	8fJ)	.	.
-4AA	(4.c 4.f	2ryy	.
+4AA	(>(4.c 4.f	2ryy	.
 4C	.	.	.
-.	8e 8g)	.	.
+.	8e 8g))	.	.
 *	*v	*v	*
 =180	=180	=180
-4F	(2e (2g	.
+4F	(>2e ((2g	.
 4FF	.	.
-4r	4f) 4a)	.
+4r	4f) 4a))	.
 =181	=181	=181
 (4D	4.b-	.
 4F 4B-)	.	.
@@ -1333,13 +1333,13 @@
 =187	=187	=187
 *	*^	*
 4F 4A)	4ryy	(8ggL	.
-.	.	8ffJ	.
-4A	(8ggL)	4cc	.
-.	8ffJ	.	.
-4c	(8aaL)	4ee	.
-.	8ggJ	.	.
+.	.	8ffJ)	.
+4A	(8ggL	4cc	.
+.	8ffJ)	.	.
+4c	(8aaL	4ee	.
+.	8ggJ)	.	.
 =188	=188	=188	=188
-4f	(4.gg)	(2ee	.
+4f	(4.gg	(2ee	.
 4c	.	.	.
 .	8gg#	.	.
 4F	4aa)	4ff)	.
@@ -1477,7 +1477,7 @@
 .	8a) 8ccJ	.
 =207	=207	=207
 *	*^	*
-4B-X	4b- 4dd	4ryy	.
+4B-X	4b-/ 4dd/	4ryy	.
 4B-	4b- 4dd	4fn	.
 4B-	4b- 4dd	4f	.
 =208	=208	=208	=208
@@ -1490,8 +1490,8 @@
 4C	4g 4b-	4e	.
 *	*v	*v	*
 =210	=210	=210
-(>2C	(2e 2g 2b-	.
-4D)	4f) 4a	.
+(>2C	(>(2e 2g 2b-	.
+4D)	4f) 4a)	.
 =211	=211	=211
 4BB-	(8a 8ccL	.
 .	8g) 8b-J	.
@@ -1571,9 +1571,9 @@
 8CC 8C	16r	.
 .	(16gLL<	.
 8r	16ee	.
-.	16gJJ	.
+.	16gJJ)	.
 =222	=222	=222
-(16FFLL	4a 4cc 4ff)	.
+(16FFLL	4a 4cc 4ff	.
 16AA	.	.
 16C	.	.
 16FJJ	.	.
@@ -1581,7 +1581,7 @@
 16AA	.	.
 16C	.	.
 16FJJ	.	.
-16FFLL	(>8.aTL	.
+16FFLL	(>8.attL	.
 16AA	.	.
 16C	.	.
 16FJJ	32gLL	.
@@ -1595,7 +1595,7 @@
 16AA	.	.
 16C	.	.
 16FJJ	.	.
-16FFLL	(8.eetL	.
+16FFLL	(8.eettL	.
 16BB-	.	.
 16C	.	.
 16FJJ	32ddLL	.
@@ -1609,7 +1609,7 @@
 16AA	.	.
 16C	.	.
 16FJJ	.	.
-16FFLL	(8.aaTL	.
+16FFLL	(8.aaTTL	.
 16AA	.	.
 16C	.	.
 16FJJ	32ggLL	.
@@ -1623,7 +1623,7 @@
 16AA	.	.
 16C	.	.
 16FJJ	.	.
-16FFLL	(8.eeetL	.
+16FFLL	(8.eeettL	.
 16BB-	.	.
 16C	.	.
 16FJJ)	32dddLL	.
@@ -1637,7 +1637,7 @@
 4.F 4.f	4.ff	sf
 8A	8a	.
 =228	=228	=228
-(8.B-TL	(8.b-TL	.
+(8.B-TTL	(8.b-TTL	.
 32ALL	32aLL	.
 32GJJJ	32gJJJ	.
 4cn)	4ccn)	.
@@ -1655,6 +1655,5 @@
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/12/
-!!!EEV: 2017/01/22/ proof-read for verovio
-!!!EEV: 2011/06/30/ (BA fixed alignment problem in measure 51)
+!!!EEV: 2018/06/17/ 
 !!!title: @{OTL}, K 332 (300k), @{OMV}
