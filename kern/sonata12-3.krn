@@ -172,9 +172,9 @@
 .	16ee-JJ)	.
 8r	8r	.
 8r	8r	.
-16BB-LL	8r	.
+N(16BB-LL	8r	.
 16B-JJ	.	.
-8r	(>16dLL	.
+8r	16dLL	.
 .	16g	.
 8r	16b-	.
 .	16ddJJ	.
@@ -185,7 +185,7 @@
 .	16g	.
 .	16fn	.
 .	16eJJ	.
-8F 8A)	8fL)	.
+8F 8A)	8fLN)	.
 8r	8c	p
 8r	8cJ	.
 =15	=15	=15
@@ -222,7 +222,7 @@
 8A 8cJ	8r	.
 =19	=19	=19
 .	(>32eqq	.
-8CL	[4.b-)	.
+8CL	[4.b-X)	.
 8B- 8c	.	.
 8B- 8cJ	.	.
 8B- 8cL	8b-L]	.
@@ -260,13 +260,13 @@
 4r	([4.bb-	.
 8r	.	.
 *clefG2	*	*
-(4.B- 4.c 4.e 4.g	8bb-L]	.
+(>(4.B- 4.c 4.e 4.g	8bb-L]	.
 .	16aaL	.
 .	16gg	.
 .	16ff	.
 .	16eeJJ	.
 =25	=25	=25
-8A) 8c 8f	8ff'L)	.
+8A) 8c 8f)	8ff'L)	.
 8r	8gg'	.
 8r	8aa'J	.
 (4c	(4a/ 4cc/	p
@@ -295,13 +295,13 @@
 4r	([4.bb-	.
 8r	.	.
 *clefG2	*	*
-(4.B- 4.c 4.e 4.g	8bb-L]	.
+(>(4.B-/ 4.c/ 4.e/ 4.g/	8bb-L]	.
 .	16aaL	.
 .	16gg	.
 .	16ff	.
 .	16eeJJ	.
 =30	=30	=30
-8A) 8c 8f	32ffLLL	.
+8A) 8c 8f)	32ffLLL	.
 .	32ggJ	.
 .	16aaJJ)	.
 8r	8r	.
@@ -320,14 +320,15 @@
 .	.	8f)	.
 =32	=32	=32	=32
 *	*	*^	*
-8FL	(4.F	(4f	4.f	.
+(8FL	4.F	(4f	4.f	.
 8A	.	.	.	.
 8cJ	.	8a	.	.
+!	!	!LO:TX:i:t=calando	!	!
 8FL	4.F	8ccL	4.e	.
 8G	.	8b-	.	.
 8B-J)	.	8gJ)	.	.
 =33	=33	=33	=33	=33
-8FL	(4.F	(8fL	4.f	.
+(8FL	4.F	(8fL	4.f	.
 8A	.	8c	.	.
 8cJ	.	8aJ	.	.
 8FL	4.F	8ccL	4.e	.
@@ -335,7 +336,7 @@
 8B-J)	.	8gJ)	.	.
 *	*	*v	*v	*
 =34	=34	=34	=34
-8FL	(4.F	(8fL	pp
+(8FL	4.F	(8fL	pp
 8A	.	8c	.
 8cJ	.	8aJ	.
 8FL	4.F	8fL	.
@@ -343,11 +344,12 @@
 8cJ)	.	8aJ)	.
 *v	*v	*	*
 =35	=35	=35
-[4.FF [4.F	(4.B- 4.g	.
-8FF] 8F]	8A) 8f	.
+[4.FF [4.F	(>(4.B- 4.g	.
+8FF] 8F]	8A) 8f)	.
 8r	8r	.
 8r	8r	.
 =36	=36	=36
+!	!LO:TX:a:t=a tempo	!
 2.r	4.a 4.aa	f
 .	4.a 4.gg	.
 =37	=37	=37
@@ -357,7 +359,7 @@
 4.FF 4.F	4.a 4.dd	.
 4.EE 4.E	4.g 4.a 4.cc#	.
 =39	=39	=39
-8DL	(16ddLL	.
+8DL	(16ddLL<	.
 .	16a	.
 8F	16f	.
 .	16a	.
@@ -432,8 +434,9 @@
 .	16gg#JJ)	.
 *clefF4	*	*
 =46	=46	=46
+!	!LO:TX:i:t=legato	!
 8F'L	16aaLL	.
-.	16bb-	.
+.	16bb-X	.
 8f'J	16aa	.
 .	16ggn	.
 8r	16ff	.
@@ -485,6 +488,7 @@
 16e	8r	.
 16dJJ)	.	.
 =50	=50	=50
+!LO:TX:i:t=legato	!	!
 8cL	[4.ee-	p
 8e-	.	.
 8gJ	.	.
@@ -506,7 +510,7 @@
 8d	8gg'	.
 8gJ	8ffn'J	.
 =53	=53	=53
-8cL	(4ee-	.
+8cL	(4ee-T	.
 8e-	.	.
 .	16ddqLL	.
 .	16ee-qJJ	.
@@ -518,7 +522,7 @@
 8e-L	(4.ccc	.
 8g	.	.
 8ccJ	.	.
-8dL	4bb-	.
+8dL	4bb-X	.
 8f	.	.
 8b-J	8ccc	.
 =55	=55	=55
@@ -588,11 +592,11 @@
 8FJ	8aa-	.
 =64	=64	=64
 *	*^	*
-8GL	4.r	4.cc	p
+8GL	4.ryy	4.cc	p
 8c	.	.	.
 8e-J	.	.	.
 *	*v	*v	*
-.	16ee-q	.
+.	16ee-qq	.
 *	*^	*
 8GL	4.dd	4.bn	.
 8d	.	.	.
@@ -667,7 +671,7 @@
 8r	4.A 4.f#	.
 (8AAL	.	.
 8CJ	.	.
-8E-L	4.A- 4.fn	.
+8E-L>	4.A- 4.fn	.
 8D	.	.
 [8CJ	.	.
 =71	=71	=71
@@ -688,7 +692,7 @@
 *^	*^	*
 (4.e	2.G	4.cc	4.g	.
 *	*	*v	*v	*
-.	.	16eeq	.
+.	.	16eeqq	.
 *	*	*^	*
 4.f)	.	4.dd	4.bn	.
 *v	*v	*	*	*
@@ -760,9 +764,9 @@
 .	16gJJ)	.
 =79	=79	=79
 8r	4.A 4.f#	.
-(8AAL	.	.
+(>8AAL	.	.
 8CJ	.	.
-8E-L	4.A- 4.fn	.
+8E-L>	4.A- 4.fn	.
 8D	.	.
 [8CJ	.	.
 =80	=80	=80
@@ -799,11 +803,11 @@
 .	16cccJJ	.
 =84	=84	=84
 *	*^	*
-8GL	4.r	4.cc)	.
+8GL	4.ryy	4.cc)	.
 8c	.	.	.
 8eJ	.	.	.
 *	*v	*v	*
-.	32eeq	.
+.	32eeqq	.
 *	*^	*
 8GL	([4dd	4.bn	.
 8d	.	.	.
@@ -838,23 +842,23 @@
 .	16dJJ	.
 =87	=87	=87
 *^	*	*
-4.r	4C 4E	16cLL	.
+4.ryy	4C 4E	16cLL	.
 .	.	16e	.
 .	.	16d	.
 .	.	16c	.
 .	8r	16Bn	.
 .	.	16AJJ)	.
-16GLL	4GG 4BBn 4F	4.r	.
+16GLL	4GG 4BBn 4F	4.ryy	.
 16A	.	.	.
 16G	.	.	.
 16F	.	.	.
-16E	8r	.	.
+16E	8rGG	.	.
 16DJJ	.	.	.
 =88	=88	=88	=88
-8C'L	8CC'L	4.r	.
+8C'L	8CC'L	4.ryy	.
 8E'	8EE'	.	.
 8G'J	8GG'J	.	.
-4.r	8C'L	8c'L	.
+4.ryy	8C'L	8c'L	.
 .	8E'	8e'	.
 .	8G'J	8g'J	.
 *v	*v	*	*
@@ -967,12 +971,12 @@
 16cJJ	.	.
 16d)	16r	.
 16r	(16f#	.
-4.r	16cc)	.
+4.r	16cc/)	.
 .	(16dLL	.
 .	16f#	.
 .	16aJJ)	.
 .	16cc	.
-.	(16ff#	.
+.	(16ff#/	.
 =99	=99	=99
 2.r	16cccLL	.
 .	16bb-	.
@@ -995,7 +999,7 @@
 .	16ffJJ	.
 8A-L	16ccLL	.
 .	16ff	.
-8B-	16dd-	.
+8B-X	16dd-	.
 .	16ff	.
 8A-J	16cc	.
 .	16ffJJ	.
@@ -1008,7 +1012,7 @@
 .	16ffJJ	.
 8A-L	16ccLL	.
 .	16ff	.
-8B-	16dd-	.
+8B-X	16dd-	.
 .	16ff	.
 8A-J)	16cc	.
 .	16ffJJ	.
@@ -1018,13 +1022,13 @@
 16Bn	8r	.
 16dnJJ	.	.
 16f)	16r	.
-16r	(16b	.
-4.r	16ff)	.
+16r	(16b/	.
+4.r	16ff/)	.
 .	(16gLL	.
 .	16bn	.
 .	16ddJJ	.
 .	16ff)	.
-.	(16bbn	.
+.	(16bbn/	.
 =103	=103	=103
 2.r	16fffLL	.
 .	16eee-	.
@@ -1069,14 +1073,14 @@
 (16CLL	.	.
 16E	8r	.
 16GJJ	.	.
-16B-)	16r	.
+16B-X)	16r	.
 16r	(16e	.
-4.r	16b-)	.
+4.r	16b-/)	.
 .	(16cLL	.
 .	16e	.
 .	16gJJ	.
 .	16b-)	.
-.	(16ee	.
+.	(16ee/	.
 =107	=107	=107
 2.r	16bb-LL	.
 .	16aa	.
@@ -1122,13 +1126,13 @@
 16cn	8r	.
 16e-JJ	.	.
 16f)	16r	.
-16r	(16an	.
-4.r	16ee-)	.
+16ryy	(16an	.
+4.ryy	16ee-/)	.
 .	(16fLL	.
 .	16a	.
 .	16ccJJ	.
 .	16ee-)	.
-.	(16aa	.
+.	(16aa/	.
 =111	=111	=111
 2.r	16eee-LL	.
 .	16ddd	.
@@ -1143,6 +1147,7 @@
 .	16dd	.
 .	16ccJJ	.
 =112	=112	=112
+!LO:TX:i:t=legato	!	!
 8B-L	8dd)	p
 8d	8r	.
 8fJ	(8dd	.
@@ -1150,7 +1155,7 @@
 8c	8r	.
 8fJ	(8cc	.
 =113	=113	=113
-8GL	[4.ee-	.
+8GL	[4.ee-	sfp
 8B-	.	.
 8e-J	.	.
 8F#L	4ee-]	.
@@ -1164,7 +1169,7 @@
 8A	8r	.
 8dJ	(8dd	.
 =115	=115	=115
-8E-L	[4.gg	.
+8E-L	[4.gg	sfp
 8G	.	.
 8cJ	.	.
 8DL	4gg]	.
@@ -1183,9 +1188,9 @@
 8B-J	4b-	.
 8G-L	.	.
 8B-	8ccL	.
-8d-J	8dd-J	.
+8d-J	[8dd-J	.
 =118	=118	=118
-8E-L	(8dd-L)	.
+8E-L	8dd-L]	.
 8G-	8ccJ	.
 8B-J	4dd-	.
 8EnL	.	.
@@ -1199,6 +1204,7 @@
 8E-	8r	.
 8CJ	8r	.
 =120	=120	=120
+!	!LO:TX:i:a:t=legato	!
 4BB- 4B-	16ddnLL	f
 .	16b-	.
 .	16f	.
@@ -1251,60 +1257,60 @@
 8DD 8D	16ff	.
 .	16b-JJ	.
 =124	=124	=124
-16CLL	8.r	.
+N(16CLL	8.ryy	.
 16G	.	.
 16B-JJ	.	.
-8.r	16gLL	.
+8.ryy	16gLL	.
 .	16b-	.
-.	16eenJJ	.
-16F#LL	8.r	.
+.	16eenJJN)	.
+N(16F#LL	8.ryy	.
 16A	.	.
 16cJJ	.	.
-8.r	16aLL	.
+8.ryy	16aLL	.
 .	16cc	.
-.	16ee-JJ	.
+.	16ee-JJN)	.
 =125	=125	=125
-16GLL	8.r	.
+N(16GLL	8.ryy	.
 16B-	.	.
 16dJJ	.	.
-8.r	16gLL	.
+8.ryy	16gLL	.
 .	16b-	.
-.	16ddJJ	.
-16E-LL	8.r	.
+.	16ddJJN)	.
+N(16E-LL	8.ryy	.
 16G	.	.
 16cJJ	.	.
-8.r	16e-LL	.
+8.ryy	16e-LL	.
 .	16g	.
-.	16ccJJ	.
+.	16ccJJN)	.
 =126	=126	=126
-16FFLL	8.r	.
+N(>16FFLL	8.ryy	.
 16D	.	.
 16FJJ	.	.
-8.r	16dLL	.
+8.ryy	16dLL	.
 .	16f	.
-.	16b-JJ	.
-16FFLL	8.r	.
+.	16b-JJN)	.
+N(>16FFLL	8.ryy	.
 16C	.	.
 16FJJ	.	.
-8.r	16e-LL	.
+8.ryy	16e-LL	.
 .	16f	.
-.	16aJJ	.
+.	16aJJN)	.
 =127	=127	=127
-[4.BBB-	2.r	.
+[4.BBB-z	2.r	.
 8BBB-L]	.	.
-(8DD	.	.
+(<8DD	.	.
 8FFJ	.	.
 =128	=128	=128
 *^	*	*
-8r	2.BB-)	4.r	.
-8DL	.	.	.
+8rA	2.BB-)	4.ryy	p
+N(8DL	.	.	.
 8FJ	.	.	.
-4.r	.	8B-L	p
+4.ryy	.	8B-<L	.
 .	.	8d	.
 .	.	8fJ	.
 *v	*v	*	*
 =129	=129	=129
-[2.AA [2.C (2.E-	8f#L	.
+[2.AA [2.C (>2.E-	8f#L	.
 .	8a	.
 .	8ccJ	.
 .	8ee-L	.
@@ -1330,7 +1336,7 @@
 .	8aaJ	.
 .	8bb-L	.
 .	8ff#	.
-.	8ggJ	.
+.	8ggJN)	.
 =133	=133	=133
 4B- 4d-	8r	.
 .	(8ffnL	.
@@ -1379,7 +1385,7 @@
 *v	*v	*	*
 =139	=139	=139
 4C 4c	8r	.
-.	8e 8g (8ccL	f
+.	8e 8g (8ccL<	f
 8r	8f 8bn 8ddnJ)	.
 4C 4c	8r	.
 .	8f 8b (8ddL	.
@@ -1399,7 +1405,7 @@
 .	8cc 8ff# (8aaL	.
 8r	8ee 8gg 8bb-J)	.
 =142	=142	=142
-8CC'L	2.ee 2.gg ([2.bb-	.
+8CC'L	2.ee 2.gg [2.bb-	.
 8EE'	.	.
 8GG'J	.	.
 8C'L	.	.
@@ -1443,7 +1449,7 @@
 .	16g	.
 .	16f	.
 .	16e	.
-.	16dJJ)	.
+.	16dJJ	.
 =146	=146	=146
 16cLL	2.r	.
 16c#	.	.
@@ -1473,6 +1479,7 @@
 =148	=148	=148
 4FF 4AA 4C 4F	16r	.
 .	16cccLL	f
+!	!LO:TX:i:t=legato	!
 .	16bbn	.
 .	16ccc	.
 8r	16fff	.
@@ -1497,7 +1504,7 @@
 .	16ff	.
 .	16ccJJ	.
 =150	=150	=150
-4r	16b-LL	.
+4r	16b-XLL<	.
 .	16a	.
 .	16g#	.
 .	16a	.
@@ -1572,7 +1579,7 @@
 .	16ff	.
 .	16ccJJ	.
 =156	=156	=156
-4r	16b-LL	.
+4r	16b-XLL<	.
 .	16a	.
 .	16g#	.
 .	16a	.
@@ -1611,12 +1618,12 @@
 8c)	16a	.
 .	16ffJJ	.
 =159	=159	=159
-8Bn	16a-LL	.
-.	16ffJJ	.
+8Bn	(16a-LL	.
+.	16ffJJ)	.
 8r	8r	.
 8r	8r	.
-8B-	16gLL	.
-.	16eeJJ	.
+8B-	(16gLL	.
+.	16eeJJ)	.
 8r	8r	.
 8r	8r	.
 =160	=160	=160
@@ -1624,9 +1631,9 @@
 .	16ee-JJ)	.
 8r	8r	.
 8r	8r	.
-16BB-LL	8r	.
+N(16BB-LL	8r	.
 16B-JJ	.	.
-8r	(16dLL	.
+8r	16dLL	.
 .	16g	.
 8r	16b-	.
 .	16ddJJ	.
@@ -1637,11 +1644,12 @@
 .	16g	.
 .	16fn	.
 .	16eJJ	.
-8F 8A)	8fL)	.
+8F 8A)	8fLN)	.
 8r	8c	p
 8r	8cJ	.
 =162	=162	=162
-.	(32eq	.
+.	(32eqq	.
+!	!LO:TX:i:t=dolce	!
 8CL	[4.b-)	.
 8B- 8c	.	.
 8B- 8cJ	.	.
@@ -1649,7 +1657,7 @@
 8B- 8c	8a'	.
 8B- 8cJ	8g'J	.
 =163	=163	=163
-.	gq	.
+.	8gqq	.
 8FL	4.f	.
 8A 8c	.	.
 8A 8cJ	.	.
@@ -1657,8 +1665,8 @@
 8A 8c	.	.
 8A 8cJ	.	.
 =164	=164	=164
-.	32eq	.
-8CL	[4.b-	.
+.	(>32eqq	.
+8CL	[4.b-)	.
 8G 8c	.	.
 8G 8cJ	.	.
 8G 8cL	8b-L]	.
@@ -1672,8 +1680,8 @@
 8A 8c	8r	.
 8A 8cJ	8r	.
 =166	=166	=166
-.	32eq	.
-8CL	[4.b-	.
+.	(>32eqq	.
+8CL	[4.b-X)	.
 8B- 8c	.	.
 8B- 8cJ	.	.
 8B- 8cL	8b-L]	.
@@ -1682,14 +1690,14 @@
 =167	=167	=167
 8FL	4f	.
 8A 8c	.	.
-8A 8cJ	[8a	.
+8A 8cJ	[8a	sfp
 8A 8cL	4a]	.
 8A 8c	.	.
-8A 8cJ	[8cc	.
+8A 8cJ	[8cc	sfp
 =168	=168	=168
 8CL	4cc]	.
 8G 8c	.	.
-8G 8cJ	[8b-	.
+8G 8cJ	[8b-	sfp
 8B- 8cL	4b-]	.
 8B- 8c	.	.
 8B- 8cJ	8g	.
@@ -1739,7 +1747,7 @@
 4E)	(4ccc	.
 8r	16dddLL	.
 .	16cccJJ)	.
-4r	(4bb-	.
+4r	(4bb-X	.
 8r	16cccLL	.
 .	16bb-JJ)	.
 *clefG2	*	*
@@ -1842,14 +1850,15 @@
 8r	16g	.
 .	16f	.
 8r	16e	.
-.	16dJJ)	.
-16r	16c	.
+.	16dJJ	.
+16r	16c)	.
 (16dLL	16r	.
 16c	8r	.
-16B-	.	.
+16B-X	.	.
 16A	8r	.
 16GJJ)	.	.
 =185	=185	=185
+!LO:TX:i:t=legato	!	!
 8FL	[4.a-	p
 8A-	.	.
 8cJ	.	.
@@ -1871,7 +1880,7 @@
 8G	8cc'	.
 8cJ	8b-'J	.
 =188	=188	=188
-8FL	(4a-	.
+8FL	(4a-T	.
 8A-	.	.
 .	16gqLL	.
 .	16a-qJJ	.
@@ -1946,7 +1955,7 @@
 8BB-L	4.dd- (4.ddd-	.
 8En	.	.
 8GJ	.	.
-8AA-L	8cc 8ccc)	.
+8AA-L<	8cc 8ccc)	.
 8C	8r	.
 8FJ	16r	.
 .	16fff	.
@@ -1955,16 +1964,14 @@
 8CL	4.ff	4.cc	p
 8F	.	.	.
 8A-J	.	.	.
-*	*v	*v	*
-.	16aa-q	.
-*	*^	*
+.	16aa-qq	.	.
 8CL	4.gg	4.ee	.
 8G	.	.	.
 8B-J	.	.	.
 *	*v	*v	*
 =200	=200	=200
-4F 4An	16ffLL	f
-.	(16cc	.
+4F 4An	(16ffLL	f
+.	16cc	.
 .	16bn	.
 .	16cc	.
 8r	16ddn	.
@@ -1989,8 +1996,8 @@
 8C'J	16b-	.
 .	16ccJJ	.
 =202	=202	=202
-4F	16a	.
-.	(16cccLL)	.
+4F	16a)	.
+.	(16cccLL	.
 .	16bbn	.
 .	16ccc	.
 8r	16ddd	.
@@ -2067,20 +2074,18 @@
 =209	=209	=209
 *^	*^	*
 (4.a	2.c	4.ff	4.cc	.
-*	*	*v	*v	*
-.	.	16aaq	.
-*	*	*^	*
+.	.	16aaqq	.	.
 4.b-)	.	4.gg	4.ee	.
 *	*	*v	*v	*
 =210	=210	=210	=210
-4a	4f	16ffLL	f
-.	.	(16cc	.
+4a	4f	(16ffLL	f
+.	.	16cc	.
 .	.	16bn	.
 .	.	16cc	.
 8r	8r	16ddn	.
 .	.	16ccJJ	.
 *clefF4	*clefF4	*	*
-8G'L	4.r	16b-LL	.
+8G'L	4.ryy	16b-LL	.
 .	.	16cc	.
 8E'	.	16b-	.
 .	.	16cc	.
@@ -2178,8 +2183,8 @@
 *clefG2	*	*
 =219	=219	=219
 *	*^	*
-(4.c (4.a	(4.ff	2.cc	.
-4.B-) 4.g)	4.ee)	.	.
+(>4.c ((4.a	(4.ff	2.cc	.
+4.B-) 4.g))	4.ee)	.	.
 *	*v	*v	*
 =220	=220	=220
 (8AL	(16bbnLL	f
@@ -2200,7 +2205,7 @@
 8f	.	.	.
 8aJ	.	.	.
 *	*v	*v	*
-.	(32aaq	.
+.	(<32aaqq	.
 *	*^	*
 8cL	([4gg)	4.ee	.
 8g	.	.	.
@@ -2249,10 +2254,10 @@
 .	16GJJ)	.
 =225	=225	=225
 *^	*	*
-8F'L	8FFL	4.r	.
+8F'L	8FF'L	4.ryy	.
 8A'	8AA'	.	.
 8cJ	8C'J	.	.
-4.r	8F'L	8f'L	.
+4.ryy	8F'L	8f'L	.
 .	8A'	8a'	.
 .	8c'J	8cc'J	.
 *v	*v	*	*
@@ -2280,7 +2285,7 @@
 *	*^	*
 [2.C 2.An	2.f	2.c	p
 =231	=231	=231	=231
-2.C] 2.B-	(8a	2.c 2.e	.
+2.C] 2.B-X	(8a	2.c 2.e	.
 .	[4g)	.	.
 .	(4g]	.	.
 .	8f)	.	.
@@ -2297,7 +2302,7 @@
 8A'	8a'	.
 8C#'J	8c#'J	.
 8D'L	8d'L	.
-8B-'	8b-'	.
+8B-X'	8b-X'	.
 8E'J	8e'J	.
 *clefG2	*	*
 =234	=234	=234
@@ -2312,7 +2317,7 @@
 8A) 8c 8f	8ff'L)	.
 8r	8gg'	.
 8r	8aa'J	.
-(4c	(4a 4cc	p
+(4c	(4a/ 4cc/	p
 8c#)	8g) 8b-	.
 =236	=236	=236
 [4.d	(4.g 4.b-	.
@@ -2324,7 +2329,7 @@
 8r	8r	.
 8r	8r	.
 8AA'	8A'	f
-8BB-'L	8B-'L	.
+8BB-'L<	8B-'L	.
 8G'	8g'	.
 8BBn'J	8Bn'J	.
 =238	=238	=238
@@ -2332,19 +2337,19 @@
 8A'	8a'	.
 8C#'J	8c#'J	.
 8D'L	8d'L	.
-8B-'	8b-'	.
+8B-X'	8b-X'	.
 8E'J	8e'J	.
 *clefG2	*	*
 =239	=239	=239
 4r	([4.bb-	.
 8r	.	.
-(4.B- 4.c 4.e 4.g	8bb-L]	.
+(>(4.B- 4.c 4.e 4.g	8bb-L]	.
 .	16aaL	.
 .	16gg	.
 .	16ff	.
 .	16eeJJ	.
 =240	=240	=240
-8A) 8c 8f	32ffLLL	.
+8A) 8c 8f)	32ffLLL	.
 .	32ggJ	.
 .	16aaJJ)	.
 8r	8r	.
@@ -2358,10 +2363,11 @@
 =241	=241	=241
 *^	*^	*
 (4.A	2.C	4.f	2.c	p
-.	.	16aq	.	.
-4.B-)	.	4e (4g	.	.
+.	.	(<16aqq	.	.
+4.B-)	.	4e ()4g	.	.
 .	.	8f)	.	.
 =242	=242	=242	=242	=242
+!	!	!LO:TX:i:t=calando	!	!
 (8FL	4.F	(4f	4.f	.
 8A	.	.	.	.
 8cJ)	.	8a	.	.
@@ -2369,7 +2375,7 @@
 8G	.	8b-	.	.
 8B-J)	.	8gJ)	.	.
 =243	=243	=243	=243	=243
-8FL	(4.F	(8fL	4.f	.
+(8FL	4.F	(8fL	4.f	.
 8A	.	8c	.	.
 8cJ)	.	8aJ	.	.
 (8FL	4.F	8ccL	4.e	.
@@ -2377,7 +2383,7 @@
 8B-J)	.	8gJ)	.	.
 *	*	*v	*v	*
 =244	=244	=244	=244
-8FL	(4.F	(8fL	pp
+(8FL	4.F	(8fL	pp
 8A	.	8c	.
 8cJ)	.	8aJ	.
 (8FL	4.F	8fL	.
@@ -2385,19 +2391,20 @@
 8cJ)	.	8aJ)	.
 *v	*v	*	*
 =245	=245	=245
-[4.FF [4.F	(4.B- 4.g	.
-8FF] 8F]	8A) 8f	.
+[4.FF [4.F	(>(4.B- 4.g	.
+8FF] 8F]	8A) 8f)	.
 8r	8r	.
 8r	8r	.
 ==	==	==
 *-	*-	*-
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
+!!!RDF**kern: N = linked
 !!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15/
-!!!EEV: 2017/01/22/ to measure 31
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/18/
 !!!title: @{OTL}, K 332 (300k), @{OMV}
-!!!hum2abc: --no-tempo -s 0.65 --spacing 2.0 -p "%gracespace  0 6.0 12.0"
