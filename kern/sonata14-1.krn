@@ -2,7 +2,8 @@
 !!!CDT: 1756/01/27/-1791/12/05/
 !!!CNT: German
 !!!OTL: Piano Sonata No. 14 in C minor
-!!!SCT1: K 457
+!!!SCT1: K<sup>1</sup> 310
+!!!SCT2: K<sup>6</sup> 300d
 !!!OMV: Mvmt. 1
 !!!OMD: Allegro
 !!!ODT: 1784///
@@ -181,7 +182,7 @@
 .	16ee-JJ)	.
 *clefF4	*	*
 =21	=21	=21
-2BBB-X 2BB-X	(12aa-L	.
+2BBB- 2BB-	(12aa-L	.
 .	12bb-	.
 .	12cccJ	.
 .	12bb-L	.
@@ -455,7 +456,8 @@
 4BB-\' 4E\'	4d-) 4dd-	.
 2r	2r	.
 =51	=51	=51
-1AA- 1C 1F	(>12cc/L	.
+!	!LO:S:a	!
+1AA- 1C 1F	(12cc/L	.
 .	12ff/	.
 .	12g/J	.
 .	12a-L	.
@@ -483,18 +485,19 @@
 .	12EEn<J)	.
 *	*tuplet	*
 =53	=53	=53
-1r	(>4.FF<	.
+!	!LO:S:a	!
+1r	(4.FF<	.
 .	8CC<	.
-.	8AA-<L>	.
+.	8AA-<L	.
 .	8FF<	.
 .	8C<	.
 .	8AA-<J	.
 =54	=54	=54
-1r	8F<L>	.
+1r	8F<L	.
 .	8C<	.
 .	8A-<	.
-.	8FJ<	.
-.	8c<L>	.
+.	8F<J	.
+.	8c<L	.
 .	8A-<	.
 .	8f	.
 .	8cJ	.
@@ -524,9 +527,11 @@
 *clefG2	*	*
 =58	=58	=58
 *^	*^	*
-4r	4ryy	2.ryy	(>8ffL	.
+!	!	!	!LO:S:a	!
+4r	4ryy	2.ryy	(8ffL	.
 .	.	.	8ee-J)	.
-(4g	2.B-	.	(>2ee-	.
+!	!	!	!LO:S:a	!
+(4g	2.B-	.	(2ee-	.
 2a-)	.	.	.	.
 .	.	8ggnL	4dd	.
 .	.	8ffJ	.	.
@@ -792,7 +797,7 @@
 12FL	2r	.
 12G	.	.
 12FJ	.	.
-12E-L	.	.
+12E-XL	.	.
 12F	.	.
 12E-J	.	.
 *tuplet	*	*
@@ -826,7 +831,8 @@
 *	*tuplet	*
 =87	=87	=87
 *Xtuplet	*	*
-(>12GL	2b-)	.
+!LO:S:a	!	!
+(12GL	2b-)	.
 12B-	.	.
 12dJ	.	.
 12cL	.	.
@@ -858,7 +864,7 @@
 12GL	.	.
 12B	.	.
 12dJ	.	.
-12A-L	4dd'	.
+12A-XL	4dd'	.
 12B	.	.
 12dJ	.	.
 12GL	4ff'	.
@@ -1218,7 +1224,7 @@
 .	16FJJ	.
 8dL	8GL	.
 8g	8F	.
-8e-X	8E-	.
+8e-	8E-	.
 8gJ	8DJ	.
 =134	=134	=134
 8fL	2C	.
@@ -1253,7 +1259,8 @@
 8gJ	.	.
 *	*clefF4	*clefF4
 =137	=137	=137
-8e-L	(>4.G	.
+!	!LO:S:a	!
+8e-L	(4.G	.
 8g	.	.
 8c	.	.
 8gJ	16F#LL	.
@@ -1326,8 +1333,8 @@
 .	.	8ddJ)	.	.
 *	*	*v	*v	*
 =145	=145	=145	=145
-(8E-L	4C	2c 2cc	f
-8G	.	.	.
+8E-L	4C	2c 2cc	f
+(8G	.	.	.
 8E-	4C	.	.
 8GJ	.	.	.
 8EnL	4BB-X	2d- 2dd-	.
@@ -1337,7 +1344,7 @@
 =146	=146	=146	=146
 8CL	4AAn	4c 4cc	.
 8FJ	.	.	.
-4C' 4F#')	4AA-	4e- 4ee-	.
+4C 4F#)	4AA-'	4e- 4ee-	.
 2r	2ryy	8r	.
 .	.	(8ee-L	p
 .	.	8ddn	.
@@ -1360,39 +1367,40 @@
 4r	8c	.
 .	8B-J	.
 =149	=149	=149
-1FFF 1FF	(>12A-<L>	f
-.	12c<	.
-.	12En<J	.
-.	12F<L>	.
-.	12A-<	.
-.	12BBn<J	.
+!	!LO:S:a	!
+1FFF 1FF	(12A-Lj	f
+.	12cj	.
+.	12EnJj	.
+.	12FLj	.
+.	12A-j	.
+.	12BBnJj	.
 *	*Xtuplet	*
-.	12C<L>	.
-.	12F<	.
-.	12GG<J	.
-.	12AA-<L>	.
-.	12C<	.
-.	12EEn<J	.
+.	12CLj	.
+.	12Fj	.
+.	12GGJj	.
+.	12AA-Lj	.
+.	12Cj	.
+.	12EEnJj	.
 =150	=150	=150
-1r	12FF<L>	.
-.	12CC<	.
-.	12FF<J	.
-.	12AA-<L>	.
-.	12FF<	.
-.	12AA-<J	.
-.	12C<L>	.
-.	12AA-<	.
-.	12C<J	.
-.	12F<L>	.
-.	12C<	.
-.	12F<J	.
+1r	12FFLj	.
+.	12CCj	.
+.	12FFJj	.
+.	12AA-Lj	.
+.	12FFj	.
+.	12AA-Jj	.
+.	12CLj	.
+.	12AA-j	.
+.	12CJj	.
+.	12FLj	.
+.	12Cj	.
+.	12FJj	.
 =151	=151	=151
-1r	12A-<L>	.
-.	12F<	.
-.	12A-<J	.
-.	12c<L>	.
-.	12A-<	.
-.	12c<J	.
+1r	12A-Lj	.
+.	12Fj	.
+.	12A-Jj	.
+.	12cLj	.
+.	12A-j	.
+.	12cJj	.
 .	12fL	.
 .	12c	.
 .	12fJ	.
@@ -1432,9 +1440,11 @@
 *clefG2	*	*
 =155	=155	=155
 *^	*^	*
-(8e-L	1G	2.ryy	(>8ddL	.
+!	!	!	!LO:S:a	!
+(8e-L	1G	2.ryy	(8ddL	.
 8g	.	.	8ccJ)	.
-8e-	.	.	(>2cc	.
+!	!	!	!LO:S:a	!
+8e-	.	.	(2cc	.
 8gJ	.	.	.	.
 8fL	.	.	.	.
 8g	.	.	.	.
@@ -1498,7 +1508,8 @@
 .	16ee-JJ	.
 8DL	8ff'L)	.
 8Bn	8ff'J	.
-8G	(>8ffTL	.
+!	!LO:S:a	!
+8G	(8ffTL	.
 8BJ)	16ee-L	.
 .	16ffJJ	.
 =162	=162	=162
@@ -1537,7 +1548,7 @@
 .	12ee-	.
 .	12ccJ	.
 =165	=165	=165
-4G 4d	4bn)	.
+4G 4d 4f	4bn)	.
 4r	(12ffL	.
 .	12een	.
 .	12ggJ	.
@@ -1549,7 +1560,8 @@
 .	12ddJ	.
 =166	=166	=166
 4c 4e-	4cc)	.
-4r	(>12ggL	.
+!	!LO:S:a	!
+4r	(12ggL	.
 .	12ff#	.
 .	12aa-J	.
 4r	12ggL	.
@@ -1597,7 +1609,8 @@
 .	4ccc'	.
 4AAAn' 4AAn'	4r	.
 *	*tuplet	*
-4CC' 4C'	(>12cccL	.
+!	!LO:S:a	!
+4CC' 4C'	(12cccL	.
 .	12eee-	.
 .	12cccJ	.
 =173	=173	=173
@@ -1766,12 +1779,12 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf & Härtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf & Härtel in Leipzig
+!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
 !!!ONB: Ausgegeben 1878
+!!!RDF**kern: j = place on staff below
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29/
-!!!EEV: 2017/01/01/
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/18/
-!!!title: @{OTL}, @{SCT1}, @{OMV}
+!!!EEV: 2018/06/20/
+!!!title: @{OTL}, K 457, @{OMV}
