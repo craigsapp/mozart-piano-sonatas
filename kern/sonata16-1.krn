@@ -153,8 +153,8 @@
 4r	4r	.
 =23	=23	=23
 *^	*	*
-8GL	2.E-	(>2e-	p
 !LO:TX:b:i:t=legato	!	!	!
+8GL	2.E-	(>2e-	p
 8B-	.	.	.
 8G	.	.	.
 8B-	.	.	.
@@ -242,7 +242,7 @@
 8d	.	4r	.
 8fJ	.	.	.
 =35	=35	=35	=35
-4c	4en	16r	.
+4en	4c	16r	.
 .	.	(16ccLL	f
 .	.	16bn	.
 .	.	16ccJJ	.
@@ -559,7 +559,7 @@
 16F	8fff'J	.
 16AJJ	.	.
 =68	=68	=68
-16CLL	(<2.ggT	.
+16CLL	(<2.ggTT	.
 16B-	.	.
 16En	.	.
 16B-JJ	.	.
@@ -676,8 +676,8 @@
 4r	4r	.
 =81	=81	=81
 *^	*	*
-8FL	2.D-	(2d-	p
 !LO:TX:b:i:t=legato	!	!	!
+8FL	2.D-	(2d-	p
 8A-	.	.	.
 8F	.	.	.
 8A-	.	.	.
@@ -789,7 +789,7 @@
 .	16ddJJ	.
 4r	16eenLL	.
 .	16dd	.
-.	16cc#	.
+.	16cc#	[
 .	16ddJJ)	f
 (4ccn	16r	.
 .	(16ddLL	.
@@ -1194,8 +1194,8 @@
 4r	4r	.
 =155	=155	=155
 *^	*	*
-8GL	2.E-	(>2e-	p
 !LO:TX:b:i:t=legato	!	!	!
+8GL	2.E-	(>2e-	p
 8B-	.	.	.
 8G	.	.	.
 8B-	.	.	.
@@ -1716,5 +1716,6 @@
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/08/
-!!!EEV: 2017/01/24/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/20/
 !!!title: @{OTL}, K 576, @{OMV}
