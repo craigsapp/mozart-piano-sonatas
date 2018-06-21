@@ -37,25 +37,26 @@ Graphical notation for the data files can be viewed online at
 
 | Number  | NMA | key | K<sup>1</sup>  | K<sup>6</sup>  | mvmt. 1  | mvmt. 2  | mvmt. 3 | 
 |---|---|---|---|---|---|---|---|
-| 1 | 1 | C major  | 279  | 189d  | Allegro  | Andante  | Allegro |
-| 2 | 2 |   |   |   |   |   |   |
-| 3 | 3 |   |   |   |   |   |   |
-| 4 | 4 |   |   |   |   |   |   |
-| 5 | 5 |   |   |   |   |   |   |
-| 6 | 6 |   |   |   |   |   |   |
-| 7 | 7 |   |   |   |   |   |   |
-| 8 | 8 |   |   |   |   |   |   |
-| 9 | 9 |   |   |   |   |   |   |
-|10 |10 |   |   |   |   |   |   |
-|11 |11 |   |   |   |   |   |   |
-|12 |12 |   |   |   |   |   |   |
-|13 |13 |   |   |   |   |   |   |
-|14 |14 |   |   |   |   |   |   |
-|15 |15 |   |   |   |   |   |   |
-|16 |17 |   |   |   |   |   |   |
-|17 |18 |   |   |   |   |   |   |
+| 1 | 1 | C major       | 279  | 189d  | Allegro                   | Andante                           | Allegro                      |
+| 2 | 2 | F major       | 280  | 189e  | Allegro assai             | Adagio                            | Presto                       |
+| 3 | 3 | B-flat major  | 281  | 189f  | Allegro                   | Andante amoroso                   | Rondo: Allegro               |
+| 4 | 4 | E-flat major  | 282  | 189g  | Allegro                   | Menuett I &amp; II                | Allegro                      |
+| 5 | 5 | G major       | 283  | 189h  | Allegro                   | Andante                           | Presto                       |
+| 6 | 6 | D major       | 284  | 205b  | Allegro                   | Rondeau en polonaise: Andante     | Thema                        |
+| 7 | 7 | C major       | 309  | 284b  | Allegro con spirito       | Andante un poco adagio            | Rondo: Allegretto grazioso   |
+| 8 | 8 | A minor       | 310  | 300d  | Allegro maestoso          | Andante cantabile con expressione | Presto                       |
+| 9 | 9 | D major       | 311  | 284c  | Allegro con spirito       | Andante con expressione           | Rondo: Allegro               |
+|10 |10 | C major       | 330  | 300h  | Allegro moderato          | Andante cantabile                 | Allegretto                   |
+|11 |11 | A major       | 331  | 300i  | Thema: Andante grazioso   | Menuetto &amp; Trio               | Alla Turca: Allegretto       |
+|12 |12 | F major       | 332  | 300k  | Allegro                   | Adagio                            | (Allegro assai)              |
+|13 |13 | B-flat major  | 333  | 315c  | Allegro                   | Andante cantabile                 | Allegretto grazioso          |
+|14 |14 | C minor       | 457  |       | Allegro                   | Adagio                            | Molto allegro                |
+|15 |16 | C major       | 545  |       | Allegro                   | Andante                           | Rondo: Allegretto            |
+|16 |17 | B-flat major  | 570  |       | Allegro                   | Adagio                            | Allegretto                   |
+|17 |18 | D major       | 576  |       | Allegro                   | Adagio                            | Allegretto                   |
 
 
+`NMA` stands for [Neue Mozart-Ausgabe](https://en.wikipedia.org/wiki/Neue_Mozart-Ausgabe).
 
 
 Analysis & Manipulation tools
