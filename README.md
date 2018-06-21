@@ -84,9 +84,18 @@ error in the VHV notation and PDF scan of the corresponding spot.
 
 For example, here is a slur missing on beat three of measure three from a sonata:
 
-<img src="https://user-images.githubusercontent.com/3487289/41737006-e9c1f9d6-7542-11e8-8a06-520c617091bd.png" width="300" />
-
-<img src="https://user-images.githubusercontent.com/3487289/41737010-ed39c1f2-7542-11e8-998d-f8bf86870529.png" width="300" />
+<table>
+<tr>
+   <td>
+      <i>Snapshot from VHV:</i> <br/>
+      <img src="https://user-images.githubusercontent.com/3487289/41737006-e9c1f9d6-7542-11e8-8a06-520c617091bd.png" width="250" />
+   </td>
+   <td>
+      <i>Snapshot from PDF:</i> <br/>
+      <img src="https://user-images.githubusercontent.com/3487289/41737010-ed39c1f2-7542-11e8-998d-f8bf86870529.png" width="250" />
+   </td>
+   </tr>
+</table>
 
 
 Images can be added to the issue report by dragging-and-dropping them into the report form.
