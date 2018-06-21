@@ -75,8 +75,23 @@ If you think that there is a mistake in the data, verify that there is a problem
 [alt-p](http://doc.verovio.humdrum.org/commands/alt-p) to compare to a scan of the source edition.
 
 If an error is found, there are two methods for fixing it.  A simple method is to report the problem
-on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository. More
-advanced users can submit a [pull request](https://help.github.com/articles/about-pull-requests)
+on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository.  You
+should cite the work and movement numbers with a description of the error.  Preferrably you should alto mention
+the page number and system in the PDF where the error occurs, since the source edition does not have 
+measure numbers.  Cite the measure number in the source edition (visible at the start of the systems
+in VHV, as well as after `=` signs in the data.  Also preferrably you should include a snapshot of the 
+error in the VHV notation and PDF scan of the corresponding spot.  
+
+For example, here is a slur missing on beat three of measure three from a sonata:
+
+![Error in data](https://user-images.githubusercontent.com/3487289/41737006-e9c1f9d6-7542-11e8-8a06-520c617091bd.png)
+
+![Correct version in scan](https://user-images.githubusercontent.com/3487289/41737010-ed39c1f2-7542-11e8-998d-f8bf86870529.png)
+
+Images can be added to the issue report by dragging-and-dropping them into the report form.
+
+
+More advanced users can submit a [pull request](https://help.github.com/articles/about-pull-requests)
 after first making a [fork](https://help.github.com/articles/fork-a-repo/) (i.e., a copy) into 
 their Github account.
 
