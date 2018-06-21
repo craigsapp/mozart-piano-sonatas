@@ -609,9 +609,9 @@
 =54	=54	=54
 4r	8fL	.
 .	8f	.
-(4D (4F	8b-	.
+(<4D ((4F	8b-	.
 .	8b-J	.
-8E-) 8B-)	(8a-L	.
+8E-) 8B-))	(8a-L	.
 8r	8g)	.
 4r	8f'	.
 .	8e-'J	.
@@ -857,7 +857,7 @@
 .	.	8ddJ)	.
 4f	(8ccL	4a	.
 .	8ffJ)	.	.
-(4f#	2r	(>4cc 4ee-X	.
+(4f#	2ryy	(>4cc 4ee-X	.
 8g)	.	8b- 8dd)	.
 *clefF4	*	*	*
 8GG'	.	8r	.
@@ -981,5 +981,6 @@
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/08/
-!!!EEV: 2017/01/24/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/20/
 !!!title: @{OTL}, K 576, @{OMV}
