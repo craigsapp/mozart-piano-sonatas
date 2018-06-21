@@ -86,17 +86,18 @@ For example, here is a slur missing on beat three of measure three from a sonata
 
 <table>
 <tr>
-   <td>
+   <td style="vertical-align:top">
       <i>Snapshot from VHV:</i> <br/>
       <img src="https://user-images.githubusercontent.com/3487289/41737006-e9c1f9d6-7542-11e8-8a06-520c617091bd.png" width="250" />
    </td>
-   <td>
+   <td style="vertical-align:top">
       <i>Snapshot from PDF:</i> <br/>
       <img src="https://user-images.githubusercontent.com/3487289/41737010-ed39c1f2-7542-11e8-998d-f8bf86870529.png" width="250" />
    </td>
    </tr>
 </table>
 
+How you generate the snapshots will depend on your operating system.  On MacOS computers, type `command-shift-4` and then draw a box around the region to capture.
 
 Images can be added to the issue report by dragging-and-dropping them into the report form.
 
