@@ -533,39 +533,38 @@
 2ryy	8E-' 8G'L)	8e-'L)	2ryy	p
 .	8E-' 8G'J	8e-'J	.	.
 .	4r	4r	.	.
+*	*	*clefF4	*	*
 =24	=24	=24	=24	=24
-2ryy	16AAA-LL<	2ryy	4cc 4aa-	.
+2ryy	16AAA-LL<	2ryy	4E- 4c	.
 .	16AA-	.	.	.
 .	16AA-	.	.	.
 .	16AA-JJ	.	.	.
-.	16AA-LL<	.	4b-X 4gg	.
+.	16AA-LL<	.	4D-X 4B-	.
 .	16AA-	.	.	.
 .	16AA-	.	.	.
 .	16AA-JJ	.	.	.
-4C	16AA-LL	[4ccc	4ff	.
+4C	16AA-LL	[4e-	4A-	.
 .	16AA-	.	.	.
 .	16AA-	.	.	.
 .	16AA-JJ	.	.	.
-4BB-	16EE-LL	(32cccLLL]	32ee-	<
-.	.	32ddd	16.ryy	.
-.	16EE-	32ccc	.	.
-.	.	32dddJJJ	.	.
-.	16EE-	32bb-LLL>	8ryy	.
-.	.	32ccc	.	.
-.	16EE-JJ	32bb-	.	.
-.	.	32cccJJJ)	.	.
+4BB-	16EE-LL	(32e-LLL]	32E-	<
+.	.	32f	16.ryy	.
+.	16EE-	32e-	.	.
+.	.	32fJJJ	.	.
+.	16EE-	32d-LLL>	8ryy	.
+.	.	32e-	.	.
+.	16EE-JJ	32d-	.	.
+.	.	32e-JJJ)	.	.
 =25	=25	=25	=25	=25
-2ryy	16AAA-LL<	4cc 4aa-	2ryy	f
+2ryy	16AAA-LL<	4E- 4c	2ryy	f
 .	16AA-	.	.	.
 .	16AA-	.	.	.
 .	16AA-JJ	.	.	.
-.	16AA-LL<	4b- 4gg	.	.
+.	16AA-LL<	4D- 4B-	.	.
 .	16AA-	.	.	.
 .	16AA-	.	.	.
 .	16AA-JJ	.	.	.
-*	*	*v	*v	*
-*	*	*clefG2	*clefG2
-*	*	*^	*
+*	*	*clefG2	*	*
 4C	16AA-LL	[4e-	4A-	.
 .	16AA-	.	.	.
 .	16AA-	.	.	.
@@ -641,85 +640,98 @@
 .	32ccJJJ)	.
 =29	=29	=29
 *^	*	*
-2r	(16DLL	8b- 8ddn 8ff 8aa-	f
+2ryy	(16DnLL	8b-X 8ddn 8ff 8aa-	f
 .	16F	.	.
 .	16B-	4aa-	.
 .	16FJJ	.	.
 .	8D)	.	.
-.	8r	32aa-LLL	.
+*	*	*cue	*
+.	8ryy	(32ggLLL	.
+.	.	32aa-	.
 .	.	32bb-	.
 .	.	32aa-	.
-.	.	32gg	.
-.	.	ffqL	.
-.	.	ee-q	.
-.	.	ddq	.
-.	.	ccq	.
-.	.	b-q	.
-.	.	a-q	.
-.	.	gq	.
-.	.	fq	.
-.	.	e-q	.
-.	.	dq	.
-.	.	cq	.
-.	.	B-q	.
-.	.	A-qJJJJ	.
-8r	(16EE-LL	8G	.
+8ryy	8ryy	32gg	.
+.	.	64ffL	.
+.	.	64ee-	.
+.	.	64dd	.
+.	.	64cc	.
+.	.	64b-	.
+.	.	64a-	.
+16ryy	16ryy	64g	.
+.	.	64f	.
+.	.	64e-	.
+.	.	64d	.
+32ryy	32ryy	64c	.
+.	.	64B-	.
+64ryy	64ryy	64A-JJJJ	.
+*	*	*Xcue	*
+8ryy	(<16EE-LL	8G)	.
 .	16GG	.	.
-4E-	16BB-	8r	.
+4E-	16BB-	8ryy	.
 .	16GGJJ	.	.
-.	8EE-)	4r	.
-32FLLL	8r	.	.
-32E-	.	.	.
-32D	.	.	.
-32E-	.	.	.
+.	8EE-)	8ryy	.
 *v	*v	*	*
-=30	=30	=30
-32Fq	cqLLLL	.
-32Gq	dq	.
-32A-qJJJ	e-q	.
-.	fq	.
-.	gq	.
-.	a-q	.
-.	b-q	.
-.	ccq	.
-.	ddq	.
-.	ee-q	.
-.	ffq	.
-.	ggq	.
-.	aa-q	.
-.	bb-q	.
-.	cccq	.
-.	dddqJJJJ	.
-(16CLL	8eee-	.
+=-	=-	=-
+*cue	*cue	*
+32FLLL	8ryy	.
+32E-	.	.
+32D	.	.
+32E-	.	.
+32F	8ryy	.
+32G	.	.
+32A-	.	.
+32B-JJJ	.	.
+8ryy	64cLLLL<	.
+.	64d	.
+.	64e-	.
+.	64f	.
+.	64g	.
+.	64a-	.
+.	64b-	.
+.	64cc	.
+8ryy	64dd	.
+.	64ee-	.
+.	64ff	.
+.	64gg	.
+.	64aa-	.
+.	64bb-	.
+.	64ccc	.
+.	(64dddJJJJ	.
+=	=	=
+*Xcue	*Xcue	*
+(16CLL	8eee-)	.
 16E-	.	.
 16An	4eee-	.
 16E-JJ	.	.
 8C)	.	.
-8r	(32dddLLL	.
+*	*cue	*
+8ryy	(32dddLLL<	.
 .	32eee-	.
 .	32fff	.
 .	32eee-	.
-.	32dddq	.
-.	32cccq	.
-.	32bb-q	.
-.	aanqL	.
-.	ggq	.
-.	ffq	.
-.	ee-q	.
-.	ddq	.
-.	ccq	.
-.	b-q	.
-.	anq	.
-.	gq	.
-.	fq	.
-.	e-qJJJJ	.
+8ryy	32ddd	.
+.	32ccc	.
+.	32bb-	.
+.	64aanL	.
+.	64gg	.
+8ryy	64ff	.
+.	64ee-	.
+.	64dd	.
+.	64cc	.
+.	64b-	.
+.	64an	.
+.	64g	.
+.	64f	.
+64ryy	64e-JJJJ	.
+*Xcue	*Xcue	*
+=-	=-	=-
 8BB-	32dLLL	.
 .	32fJJ	.
 .	8b-)	.
 *clefG2	*	*
-(8d (8a-	.	.
+(>8d ((8a-X	.	.
 .	[16b-Jk	.
-4e-) 4g-)	16b-LL]	p
+4e-) 4g-))	16b-LL]	p
 .	(16ee-	.
 .	16cc-	.
 .	16anJJ	.
@@ -879,71 +891,71 @@
 16e-	16eee-	.
 16cJJ)	16ff#JJ	.
 =38	=38	=38
-1r	32gg)	p
-.	32GLLL	.
-.	32Bn	.
+1ryy	32gg)	p
+.	(32G<LLL<	.
+.	32Bn<	.
 .	32dJJJ	.
-.	32g	.
-.	32bnLLL	.
+.	32g\)	.
+.	(32bnLLL>	.
 .	32dd	.
 .	32ggJJJ	.
-.	32ff#	.
-.	32GLLL	.
-.	32c	.
+.	32ff#/)	.
+.	(32G<LLL<	.
+.	32c<	.
 .	32e-JJJ	.
-.	32f#	.
-.	32anLLL	.
+.	32f#\)	.
+.	(32anLLL>	.
 .	32cc	.
 .	32ff#JJJ	.
-.	32gg	.
-.	32GLLL	.
-.	32B	.
+.	32gg/)	.
+.	(32G<LLL<	.
+.	32B<	.
 .	32dJJJ	.
-.	32g	.
-.	32bLLL	.
+.	32g\)	.
+.	(32bLLL>	.
 .	32dd	.
 .	32ggJJJ	.
-.	32ff#	.
-.	32GLLL	.
-.	32c	.
+.	32ff#/)	.
+.	(32G<LLL<	.
+.	32c<	.
 .	32e-JJJ	.
-.	32f#	.
-.	32aLLL	.
+.	32f#\)	.
+.	(32aLLL>	.
 .	32cc	.
 .	32ff#JJJ	.
 =39	=39	=39
-1r	32gg	.
-.	32GLLL	.
-.	32Bn	.
+1ryy	32gg)	.
+.	(32G<LLL<	.
+.	32Bn<	.
 .	32dJJJ	.
-.	32g	.
-.	32bnLLL	.
+.	32g\)	.
+.	(32bnLLL>	.
 .	32dd	.
 .	32ff#JJJ	.
-.	32gg	.
-.	32GLLL	.
-.	32B	.
+.	32gg/)	.
+.	(32G<LLL<	.
+.	32B<	.
 .	32dJJJ	.
-.	32g	.
-.	32bLLL	.
+.	32g\)	.
+.	(32bLLL>	.
 .	32dd	.
 .	32ggJJJ	.
-.	32aa-	.
-.	32FnLLL	.
-.	32B	.
+.	32aa-/)	.
+.	(32Fn<LLL<	.
+.	32B<	.
 .	32dJJJ	.
-.	32fn	.
-.	32bLLL	.
+.	32fn\)	.
+.	(32bLLL>	.
 .	32dd	.
 .	32aa-JJJ	.
-.	32aan	.
-.	32E-LLL	.
-.	32An	.
+.	32aan/)	.
+.	(32E-X<LLL<	.
+.	32An<	.
 .	32cJJJ	.
-.	32e-	.
-.	32ccLLL	.
+.	32e-X\)	.
+.	(32ccLLL>	.
 .	32ffn	.
-.	32aaJJJ	.
+.	32aaJJJ)	.
 =40	=40	=40
 4D	(32bb-XLLL	f
 .	32bbn	.
@@ -1492,4 +1504,6 @@ N(>64BB-LLLL	8ryy	.
 !!!ONB: Ausgegeben 1878
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/01/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/20/
 !!!title: @{OTL}, K 457, @{OMV}
