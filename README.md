@@ -83,6 +83,24 @@ their Github account.
 In both case, you will have to create a [free account](https://github.com/join) on Github.
 
 
+Some mistakes are intentional and are related to limitations in [verovio](http://www.verovio.org) which is used to 
+render the graphical notation, or in the converter from Humdrum-to-MEI which is part of [humlib](http://humlib.humdrum.org).  You
+can report these errors, but they will be fixed over time on their own by magical programming gnomes.  Errors worth
+reporting include wrong pitches, invisible accidentals (correct pitch, but cautionary accidental matching the source edition is not
+available).  Slurs starting/stopping on wrong notes (cross staff slurs are only partially implemented in verovio).  The wrong
+stem directions on notes or beams, or slurs are on the wrong sides of the staves.  Missing dynamics (dynamics placement is currently
+limited to the middle of the grand staff and cannot yet be shown below the staff).  
+
+The vertical positions of rests are intended to match the source edition as well.  These are currently being implemented in the converter, with
+some rests requiring manual placement in the data.  Rests requiring automatic positining have a few bugs which should improve over time.
+
+Slur angles are determined solely by verovio and are not interesting to submit as bug reports (only slur orientation and note attachments are of
+interest for error correction).
+
+Stem lengths and beam angles are not encoded in the data and are left to verovio to determine (and verovio still needs work on this point).
+
+Line/page breaks and staff spacings are dependent on verovio and not taken from the source edition.
+
 
 Command-line analysis & manipulation tools
 =================================
