@@ -56,7 +56,9 @@ Graphical notation for the data files can be viewed online at
 |17 |18 | D major       | 576  |       | [Allegro](http://verovio.humdrum.org?k=e&file=mozart/sonata/sonata17-1.krn)                   | [Adagio](http://verovio.humdrum.org?k=e&file=mozart/sonata/sonata17-2.krn)                            | [Allegretto](http://verovio.humdrum.org?k=e&file=mozart/sonata/sonata17-3.krn)                   |
 
 
-`NMA` stands for [Neue Mozart-Ausgabe](https://en.wikipedia.org/wiki/Neue_Mozart-Ausgabe).
+* `NMA` stands for [Neue Mozart-Ausgabe](https://en.wikipedia.org/wiki/Neue_Mozart-Ausgabe).
+
+* You can hide the underlying musical data in VHV by using the [alt-y](http://doc.verovio.humdrum.org/commands/alt-y).
 
 
 Corrections
