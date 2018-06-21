@@ -35,6 +35,26 @@ Graphical notation for the data files can be viewed online at
 [Verovio Humdrum Viewer](http://verovio.humdrum.org/?file=mozart/sonatas&k=e).  Here are links to the individual movements:
 
 
+| Number  | NMA | key | K<sup>1</sup>  | K<sup>6</sup>  | mvmt. 1  | mvmt. 2  | mvmt. 3 | 
+|---|---|---|---|---|---|---|---|
+| 1 | 1 | C major  | 279  | 189d  | Allegro  | Andante  | Allegro |
+| 2 | 2 |   |   |   |   |   |   |
+| 3 | 3 |   |   |   |   |   |   |
+| 4 | 4 |   |   |   |   |   |   |
+| 5 | 5 |   |   |   |   |   |   |
+| 6 | 6 |   |   |   |   |   |   |
+| 7 | 7 |   |   |   |   |   |   |
+| 8 | 8 |   |   |   |   |   |   |
+| 9 | 9 |   |   |   |   |   |   |
+|10 |10 |   |   |   |   |   |   |
+|11 |11 |   |   |   |   |   |   |
+|12 |12 |   |   |   |   |   |   |
+|13 |13 |   |   |   |   |   |   |
+|14 |14 |   |   |   |   |   |   |
+|15 |15 |   |   |   |   |   |   |
+|16 |17 |   |   |   |   |   |   |
+|17 |18 |   |   |   |   |   |   |
+
 
 
 
