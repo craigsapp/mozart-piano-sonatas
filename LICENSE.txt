@@ -1,0 +1,10 @@
+A digital edition of Mozart piano sonatas
+from volume 20 of the Alte Mozart-Ausgabe (1878)
+================================================
+
+Copyright (C) 2004-2018 Craig Stuart Sapp
+https://github.com/craigsapp/mozart-piano-sonatas
+
+Licensed with Attribution-NonCommercial-ShareAlike 4.0 International 
+(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+
