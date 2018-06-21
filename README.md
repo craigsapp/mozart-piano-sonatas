@@ -1,8 +1,48 @@
 Digital edition of Mozart piano sonatas
 ==========================================
 
-This repository is a digital edition of the 17 piano sonatas composed
-by Wolfgang Amadeus Mozart, encoded in the Humdrum file format.  Tools for
+This repository is a digital edition of 17 piano sonatas
+composed by Wolfgang Amadeus Mozart, encoded in the
+Humdrum file format.  The reference edition is the [Alte
+Mozart-Ausgabe](https://en.wikipedia.org/wiki/Alte_Mozart-Ausgabe), volume
+20 published in 1878 by Breitkopf &amp; H&auml;rtel, Leipzig, Germany.
+
+Downloading
+==================
+
+The files can be downloaded by clicking on the green "Clone or download" 
+button that should be near the top right corner of this page.  Then
+choose "Download ZIP" in the drop-down menu that appears.
+
+To download with `git`:
+
+```bash
+git clone https://github.com/craigsapp/mozart-piano-sonatas
+```
+
+To update your copy with any new changes to the data, type this command
+within the mozart-piano-sonatas directory:
+
+```bash
+git pull
+```
+
+
+Online viewing
+==================
+
+Graphical notation for the data files can be viewed online at 
+[Verovio Humdrum Viewer](http://verovio.humdrum.org/?file=mozart/sonatas&k=e).  Here are links to the individual movements:
+
+
+
+
+
+Analysis & Manipulation tools
+=================================
+
+
+Tools for
 processing the encodings in this format on the command-line can be found
 online at https://github.com/humdrum-tools
 
