@@ -59,7 +59,23 @@ Graphical notation for the data files can be viewed online at
 `NMA` stands for [Neue Mozart-Ausgabe](https://en.wikipedia.org/wiki/Neue_Mozart-Ausgabe).
 
 
-Analysis & Manipulation tools
+Corrections
+================================
+
+If you think that there is a mistake in the data, verify that there is a problem by typing
+[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) to view a scan of the source edition.
+
+If an error is found, there are two methods for fixing it.  A simple method is to post the problem
+on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository. More
+advanced users can submit a [pull request](https://help.github.com/articles/about-pull-requests)
+after first making a [fork](https://help.github.com/articles/fork-a-repo/) (i.e., a copy) into 
+their Github account.
+
+In both case, you will have to create a [free account](https://github.com/join) on Github.
+
+
+
+Command-line analysis & manipulation tools
 =================================
 
 
