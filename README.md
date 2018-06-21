@@ -58,16 +58,23 @@ Graphical notation for the data files can be viewed online at
 
 * `NMA` stands for [Neue Mozart-Ausgabe](https://en.wikipedia.org/wiki/Neue_Mozart-Ausgabe).
 
-* You can hide the underlying musical data in VHV by using the [alt-y](http://doc.verovio.humdrum.org/commands/alt-y).
+* You can hide the underlying musical data in VHV by using the [alt-y](http://doc.verovio.humdrum.org/interface/getting_started/) command.
 
+* Use the left/right arrow keys to changes pages
+
+* Use shift left/right arrow keys to change movements (or click on the left/right buttons at the top left corner of the VHV page).
+
+* Online conversion to MEI data can be done by typing the [alt-m](http://doc.verovio.humdrum.org/commands/alt-m) command.
+
+* Press the space bar or click the play button to listen to the music.  MIDI file conversions cannot be download online, but can be produced via command-line tools.
 
 Corrections
 ================================
 
 If you think that there is a mistake in the data, verify that there is a problem by typing
-[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) to view a scan of the source edition.
+[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) to compare to a scan of the source edition.
 
-If an error is found, there are two methods for fixing it.  A simple method is to post the problem
+If an error is found, there are two methods for fixing it.  A simple method is to report the problem
 on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository. More
 advanced users can submit a [pull request](https://help.github.com/articles/about-pull-requests)
 after first making a [fork](https://help.github.com/articles/fork-a-repo/) (i.e., a copy) into 
