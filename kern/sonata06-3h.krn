@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 6 in D major
 !!!SCT1: K<sup>1</sup> 284
 !!!SCT2: K<sup>6</sup> 205b
-!!!OMV: Mvmt. 3h
+!!!OMV: 3h
 !!!OMD: Variation 7: Minore
 !!!ODT: 1775///
 **kern	**kern	**dynam
@@ -179,11 +179,9 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/09/22/
+!!!END: 2009/09/22
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16/
-!!!title: @{OTL}, K 284 (205b), @{OMV}
+!!!EEV: 2018/06/16
+!!!title: @{OTL}, K 284 (205b), mvmt. @{OMV}

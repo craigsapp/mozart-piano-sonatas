@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 14 in C minor
 !!!SCT1: K<sup>1</sup> 310
 !!!SCT2: K<sup>6</sup> 300d
-!!!OMV: Mvmt. 1
+!!!OMV: 1
 !!!OMD: Allegro
 !!!ODT: 1784///
 **kern	**kern	**dynam
@@ -1368,39 +1368,39 @@
 .	8B-J	.
 =149	=149	=149
 !	!LO:S:a	!
-1FFF 1FF	(12A-Lj	f
-.	12cj	.
-.	12EnJj	.
-.	12FLj	.
-.	12A-j	.
-.	12BBnJj	.
+1FFF 1FF	(12A-<L	f
+.	12c<	.
+.	12En<J	.
+.	12F<L	.
+.	12A-<	.
+.	12BBn<J	.
 *	*Xtuplet	*
-.	12CLj	.
-.	12Fj	.
-.	12GGJj	.
-.	12AA-Lj	.
-.	12Cj	.
-.	12EEnJj	.
+.	12C<L	.
+.	12F<	.
+.	12GG<J	.
+.	12AA-<L	.
+.	12C<	.
+.	12EEn<J	.
 =150	=150	=150
-1r	12FFLj	.
-.	12CCj	.
-.	12FFJj	.
-.	12AA-Lj	.
-.	12FFj	.
-.	12AA-Jj	.
-.	12CLj	.
-.	12AA-j	.
-.	12CJj	.
-.	12FLj	.
-.	12Cj	.
-.	12FJj	.
+1r	12FF<L	.
+.	12CC<	.
+.	12FF<J	.
+.	12AA-<L	.
+.	12FF<	.
+.	12AA-<J	.
+.	12C<L	.
+.	12AA-<	.
+.	12C<J	.
+.	12F<L	.
+.	12C<	.
+.	12F<J	.
 =151	=151	=151
-1r	12A-Lj	.
-.	12Fj	.
-.	12A-Jj	.
-.	12cLj	.
-.	12A-j	.
-.	12cJj	.
+1r	12A-<L	.
+.	12F<	.
+.	12A-<J	.
+.	12c<L	.
+.	12A-<	.
+.	12c<J	.
 .	12fL	.
 .	12c	.
 .	12fJ	.
@@ -1779,12 +1779,9 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
-!!!RDF**kern: j = place on staff below
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/09/29/
+!!!END: 2009/09/29
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/20/
-!!!title: @{OTL}, K 457, @{OMV}
+!!!EEV: 2018/06/20
+!!!title: @{OTL}, K 457, mvmt. @{OMV}

@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 11 in A major
 !!!SCT1: K<sup>1</sup> 331
 !!!SCT2: K<sup>6</sup> 300i
-!!!OMV: Mvmt. 3
+!!!OMV: 3
 !!!OMD: Alla Turca: Allegretto
 !!!ODT: 1778-1873///
 **kern	**kern	**dynam
@@ -1089,10 +1089,9 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/09/30/
-!!!EEV: 2018/06/17/
-!!!title: @{OTL}, K 331 (300i), @{OMV}
+!!!END: 2009/09/30
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2018/06/17
+!!!title: @{OTL}, K 331 (300i), mvmt. @{OMV}

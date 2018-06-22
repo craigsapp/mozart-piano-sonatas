@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 13 in B-flat major
 !!!SCT1: K<sup>1</sup> 332
 !!!SCT2: K<sup>6</sup> 300k
-!!!OMV: Mvmt. 2
+!!!OMV: 2
 !!!OMD: Andante cantabile
 !!!ODT: ~1783///
 **kern	**kern	**dynam
@@ -1022,11 +1022,9 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/10/09/
+!!!END: 2009/10/09
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/18/
-!!!title: @{OTL}, K 309 (284b), @{OMV}
+!!!EEV: 2018/06/18
+!!!title: @{OTL}, K 309 (284b), mvmt. @{OMV}

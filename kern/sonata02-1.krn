@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 2 in F major
 !!!SCT1: K<sup>1</sup> 280
 !!!SCT2: K<sup>6</sup> 189e
-!!!OMV: Mvmt. 1
+!!!OMV: 1
 !!!OMD: Allegro assai
 !!!ODT: 1774///
 **kern	**dynam	**kern	**dynam
@@ -758,16 +758,16 @@
 .	.	16fJJ)	.
 =75	=75	=75	=75
 4BB- 4B-	.	4dd: 4ff: 4gg#: 4ddd:	.
-(<4c#\jj	.	(>4ejj	p
-4d\jj)	.	4fjj)	.
+(<4c#>\	.	(>4e	p
+4d>\)	.	4f)	.
 =76	=76	=76	=76
 4AA 4A	.	4dd: 4ff: 4aa: 4ddd:	f
-(<4c#\jj	.	(>4e	p
-4d\jj)	.	4f)	.
+(<4c#>\	.	(>4e	p
+4d>\)	.	4f)	.
 =77	=77	=77	=77
 4GG# 4G#	.	4dd: 4ff: 4bbn: 4ddd:	f
-(<4c#\jj	.	(>4e	p
-4d\jj)	.	4f)	.
+(<4c#>\	.	(>4e	p
+4d>\)	.	4f)	.
 =78	=78	=78	=78
 [2.AA [2.A	.	12c#L	f
 .	.	(12a	.
@@ -1482,11 +1482,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/09/24/
+!!!END: 2009/09/24
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/13/
-!!!title: @{OTL}, K 280 (189e), @{OMV}
+!!!EEV: 2018/06/13
+!!!title: @{OTL}, K 280 (189e), mvmt. @{OMV}

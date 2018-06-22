@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 1 in C major
 !!!SCT1: K<sup>1</sup> 279
 !!!SCT2: K<sup>6</sup> 189d
-!!!OMV: Mvmt. 2
+!!!OMV: 2
 !!!OMD: Andante
 !!!ODT: 1774///
 **kern	**dynam	**kern	**dynam
@@ -337,10 +337,10 @@
 .	.	32gJJJ)	.
 4GG\	.	12r	.
 .	.	(>12fnL	p
-.	.	12Fj 12Bnj 12dJ)	.
+.	.	12F< 12Bn< 12dJ)	.
 =28	=28	=28	=28
-[2CC\	.	(>2Fj 2Bnj 2d	.
-8CC\]	.	8Ej 8Gj 8c)	.
+[2CC\	.	(>2F< 2Bn< 2d	.
+8CC\]	.	8E< 8G< 8c)	.
 16r	.	16r	.
 =:|!|:	=:|!|:	=:|!|:	=:|!|:
 *>B	*	*>B	*>B
@@ -883,11 +883,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/10/15/
+!!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/13/
-!!!title: @{OTL}, K 279 (189d), @{OMV}
+!!!EEV: 2018/06/13
+!!!title: @{OTL}, K 279 (189d), mvmt. @{OMV}

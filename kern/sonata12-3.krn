@@ -4,7 +4,7 @@
 !!!OTL: Piano Sonata No. 12 in F major
 !!!SCT1: K<sup>1</sup> 332
 !!!SCT2: K<sup>6</sup> 300k
-!!!OMV: Mvmt. 3
+!!!OMV: 3
 !!!OMD: Allegro assai
 !!!ODT: ~1783///
 **kern	**kern	**dynam
@@ -2400,11 +2400,9 @@ N(16BB-LL	8r	.
 !!!RDF**kern: < = below
 !!!RDF**kern: > = above
 !!!RDF**kern: N = linked
-!!!SMS: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
-!!!ONB: Stich und Druck von Breitkopf &amp; H&auml;rtel in Leipzig
-!!!ONB: Ausgegeben 1878
+!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/10/15/
+!!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/18/
-!!!title: @{OTL}, K 332 (300k), @{OMV}
+!!!EEV: 2018/06/18
+!!!title: @{OTL}, K 332 (300k), mvmt. @{OMV}
