@@ -79,7 +79,7 @@ on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page f
 should cite the work and movement numbers with a description of the error.  Preferrably you should alto mention
 the page number and system in the PDF where the error occurs, since the source edition does not have 
 measure numbers.  Cite the measure number in the source edition (visible at the start of the systems
-in VHV, as well as after `=` signs in the data.  Also preferrably you should include a snapshot of the 
+in VHV, as well as after `=` signs in the data).  Also preferrably you should include a snapshot of the 
 error in the VHV notation and PDF scan of the corresponding spot.  
 
 For example, here is a slur missing on beat three of measure three from a sonata:
