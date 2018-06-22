@@ -58,7 +58,7 @@ Graphical notation for the data files can be viewed online at
 
 * `NMA` stands for [Neue Mozart-Ausgabe](https://en.wikipedia.org/wiki/Neue_Mozart-Ausgabe).  The NMA inserts a new sonata between the 14th and 15th one of the AMA.
 
-* You can hide the underlying musical data in VHV by using the [alt-y](http://doc.verovio.humdrum.org/interface/getting_started/) command.  You can hide the data via the URL by changing `k=e` to `k=ey`.
+* You can hide the underlying musical data in VHV by using the [alt-y](http://doc.verovio.humdrum.org/interface/getting_started/) command.  You can hide the data via the URL by changing `k=e` to `k=ey`.  Here is an index of the works that navigate between the movement with the data hidden: http://verovio.humdrum.org/?file=mozart/sonatas&k=ey (in this case press `alt-y` to reveal the data).
 
 * Use the left/right arrow keys to changes pages
 
