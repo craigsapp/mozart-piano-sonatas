@@ -1,9 +1,10 @@
 Digital edition of Mozart piano sonatas
 ==========================================
 
-This repository is a digital edition of 17 piano sonatas
-composed by Wolfgang Amadeus Mozart (with one sonata reattributed to August Eberhard Müller), encoded in the
-Humdrum file format.  The reference edition is the [Alte
+This repository contain a digital edition of 17 piano
+sonatas composed by Wolfgang Amadeus Mozart (with one
+sonata reattributed to August Eberhard Müller), encoded in
+the Humdrum file format.  The reference edition is the [Alte
 Mozart-Ausgabe](https://en.wikipedia.org/wiki/Alte_Mozart-Ausgabe), series
 20, published in 1878 by Breitkopf &amp; H&auml;rtel, Leipzig, Germany.
 
