@@ -7,26 +7,6 @@ Humdrum file format.  The reference edition is the [Alte
 Mozart-Ausgabe](https://en.wikipedia.org/wiki/Alte_Mozart-Ausgabe), volume
 20 published in 1878 by Breitkopf &amp; H&auml;rtel, Leipzig, Germany.
 
-Downloading
-==================
-
-The files can be downloaded by clicking on the green "Clone or download" 
-button that should be near the top right corner of this page.  Then
-choose "Download ZIP" in the drop-down menu that appears.
-
-To download with `git`:
-
-```bash
-git clone https://github.com/craigsapp/mozart-piano-sonatas
-```
-
-To update your copy with any new changes to the data, type this command
-within the mozart-piano-sonatas directory:
-
-```bash
-git pull
-```
-
 
 Online viewing
 ==================
@@ -126,24 +106,32 @@ Stem lengths and beam angles are not encoded in the data and are left to verovio
 
 Line/page breaks and staff spacings are dependent on verovio and not taken from the source edition.
 
+Downloading
+==================
 
-Command-line analysis & manipulation tools
-=================================
+The files can be downloaded by clicking on the green "Clone or download" 
+button that should be near the top right corner of this page.  Then
+choose "Download ZIP" in the drop-down menu that appears.
 
+To download with `git`:
 
-Tools for
-processing the encodings in this format on the command-line can be found
-online at https://github.com/humdrum-tools
-
-The encodings are located in the 'kern' directory.
-Scans of the source edition can be downloaded from 
-[kernScores](http://kern.humdrum.org) with this command:
 ```bash
-   make reference
+git clone https://github.com/craigsapp/mozart-piano-sonatas
 ```
 
-Data processing tools and other resources
-=========================================
+To update your copy with any new changes to the data, type this command
+within the mozart-piano-sonatas directory:
+
+```bash
+git pull
+```
+
+Alternate access
+============================
+
+
+KernScores website access
+-------------------------
 
 These digital scores may also be found on the kernScores website:
 *    http://kernscores.stanford.edu/browse?l=mozart/sonatas
@@ -153,6 +141,10 @@ with mirrors at:
 *    http://kern.ccarh.org/browse?l=mozart/sonatas
 
 which includes dynamic conversions to other data formats.  
+
+
+Command-line downloading with Humdrum Extras
+--------------------------------------------
 
 The [Humdrum Extras](http://extras.humdrum.org) command-line programs 
 can download these files from kernScores.  A quick method of downloading:
@@ -167,9 +159,36 @@ movement of the first sonata from to B major:
    transpose -k b h://mozart/sonatas/sonata01-1.krn
 ```
 
-To interface to the Humdrum Toolkit commands, use the humcat command to download to standard input (the -s option is needed when downloading multiple files):
+To interface to the original Humdrum Toolkit commands, use the humcat command to download to standard input (the -s option is needed when downloading multiple files):
 ```bash
    humcat -s h://mozart/sonatas | census -k
+```
+
+
+Humdrum-data repository
+-------------------------------
+
+This digital edition is also available in the Mozart directory
+of the [Humdrum-data](https://github.com/humdrum-tools/humdrum-data)
+repository along with other digital scores in the Humdrum format.
+
+
+Command-line analysis & manipulation tools
+=================================
+
+
+Tools for processing the encodings in this format on the command-line 
+can be found online at https://github.com/humdrum-tools
+
+
+Downloading scans of the source edition
+--------------------------------------
+
+
+Scans of the source edition can be downloaded from 
+[kernScores](http://kern.humdrum.org) with this command:
+```bash
+   make reference
 ```
 
 
