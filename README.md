@@ -126,8 +126,8 @@ within the mozart-piano-sonatas directory:
 git pull
 ```
 
-Alternate access
-============================
+Alternate access to data
+========================
 
 This digital edition is also accessible in a variety of interfaces
 described below.
@@ -174,6 +174,7 @@ Humdrum-data repository
 This digital edition is also available in the Mozart directory
 of the [Humdrum-data](https://github.com/humdrum-tools/humdrum-data)
 repository along with other digital scores in the Humdrum format.
+
 
 
 Command-line processing 
