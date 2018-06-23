@@ -2,7 +2,7 @@
 ##
 ## Programmer:    Craig Stuart Sapp <craig@ccrma.stanford.edu>
 ## Creation Date: Tue Jun  3 16:52:17 PDT 2014
-## Last Modified: Tue Jun  3 16:52:20 PDT 2014
+## Last Modified: Sat Jun 23 11:21:48 PDT 2018
 ## Filename:      Makefile
 ## Syntax:        GNU/BSD makefile
 ##
@@ -14,7 +14,7 @@
 ##
 
 # targets which don't actually refer to files:
-.PHONY : abc kernscores lilypond mei midi midi-norep musedata musicxml notearray pdf-abc pdf-lilypond pdf-musedata reference-edition
+.PHONY : ctonic ckeyscape keyscape lilypond mei midi midi-norep musedata musicxml notearray pdf-lilypond pdf-musedata reference-edition
 
 all:
 	@echo ''
@@ -27,8 +27,9 @@ all:
 	@echo '   "[0;32mmake census[0m"      : run the census command on all files.'
 	@echo ''
 	@echo 'Commands requiring Humdrum Extras to be installed.'
-	@echo '   "[0;32mmake abc[0m"         : convert to ABC+ files.'
-	@echo '   "[0;32mmake kernscores[0m"  : download equivalent from kernscores.'
+	@echo '   "[0;32mmake ctonic[0m"      : transpose scores to C major/minor.'
+	@echo '   "[0;32mmake keyscape[0m"    : generate keyscape plots by movement.'
+	@echo '   "[0;32mmake ckeyscape[0m"   : generate keyscape plots by movement in C major/minor.'
 	@echo '   "[0;32mmake mei[0m"         : convert to MEI files.'
 	@echo '   "[0;32mmake midi[0m"        : convert to MIDI files (full repeats)'
 	@echo '   "[0;32mmake midi-norep[0m"  : convert to MIDI files (no repeats)'
@@ -38,7 +39,6 @@ all:
 	@echo '   "[0;32mmake searchindex[0m" : create themax search index.'
 	@echo ''
 	@echo 'Commands requiring other software to be installed.'
-	@echo '   "[0;32mmake pdf-abc[0m"     : convert to PDF files with abcm2ps.'
 	@echo '   "[0;32mmake pdf-lilypond[0m": convert to PDF files with lilypond.'
 	@echo '   "[0;32mmake pdf-musedata[0m": convert to PDF files with muse2ps.'
 	@echo ''
@@ -63,21 +63,6 @@ githubupdate: github-pull
 githubpull:   github-pull
 github-pull: git-check git-repository-check
 	git pull
-
-
-
-##############################
-#
-# make kernscores -- Download scores from the kernScores website
-#   (http://kern.humdrum.org).  In theory these are the same as the 
-#   files in the kern directory.
-#
-
-kernscores: humdrum-extras-check
-	mkdir -p kernscores; (cd kernscores && humsplit h://mozart/sonatas)
-	@echo "[0;32m"
-	@echo "*** Downloaded data from kernScores website into '[0;31mkernscores[0;32m' directory."
-	@echo "[0m"
 
 
 
@@ -140,8 +125,10 @@ endif
 #
 
 clean:
-	-rm -rf abc
 	-rm -rf kernscores
+	-rm -rf keyscape
+	-rm -rf ckeyscape
+	-rm -rf ctonic
 	-rm -rf lilypond
 	-rm -rf mei
 	-rm -rf midi
@@ -149,7 +136,6 @@ clean:
 	-rm -rf musedata
 	-rm -rf musicxml
 	-rm -rf notearray
-	-rm -rf pdf-abc
 	-rm -rf pdf-lilypond
 	-rm -rf pdf-musedata
 	-rm -rf reference-edition
@@ -226,42 +212,63 @@ notearray: humdrum-extras-check
 
 ##############################
 #
-# make abc -- Create ABC+ files (useful for printing with abcm2ps).
-# Output is stored in a directory called "abc".
+# make keyscape -- Create keyscape plots of each movement/variation.
+# Output is stored in a directory called "keyscape".
 #
 
-abc: humdrum-extras-check
-	mkdir -p abc
-	for file in kern/*.krn;						\
-	do								\
-	   TBASE=`basename $$file .krn`;				\
-	   echo Creating abc/$$TBASE.abc;				\
-	   hum2abc $$file > abc/$$TBASE.abc;				\
+keyscape: humdrum-extras-check convert-check
+	mkdir -p keyscape
+	for file in kern/*.krn;                          \
+	do                                               \
+	   TBASE=`basename $$file .krn`;                 \
+	   echo Creating keyscape/$$TBASE.png;           \
+	   thrux -v norep $$file | mkeyscape -n --trim  \
+	   | convert - keyscape/$$TBASE.png;             \
 	done
 	@echo "[0;32m"
-	@echo "*** Created abc data in '[0;31mabc[0;32m' directory."
+	@echo "*** Created keyscape images in '[0;31mkeyscape[0;32m' directory."
 	@echo "[0m"
 
 
 
 ##############################
 #
-# make pdf-abc -- Create PDF files with abcm2ps.
-# Output is stored in a directory called "pdf-abc".
+# make ckeyscape -- Create keyscape plots of each movement/variation with
+# the music transposed to C major first (green = tonic, blue = dominant, etc.).
+# Output is stored in a directory called "ckeyscape".
 #
 
-pdf-abc: abcm2ps-check ps2pdf-check humdrum-extras-check
-	mkdir -p pdf-abc
-	for file in kern/*.krn;						\
-	do								\
-	   TBASE=`basename $$file .krn`;				\
-	   echo Creating pdf-abc/$$TBASE.pdf;				\
-	   hum2abc $$file |		  				\
-	   abcm2ps - -O - |		  				\
-	   ps2pdf -sPAPERSIZE=letter - > pdf-abc/$$TBASE.pdf;		\
+ckeyscape: humdrum-extras-check convert-check
+	mkdir -p ckeyscape
+	for file in kern/*.krn;                                        \
+	do                                                             \
+	   TBASE=`basename $$file .krn`;                               \
+	   echo Creating ckeyscape/$$TBASE.png;                        \
+	   transpose -kc $$file | thrux -v norep | mkeyscape -n --trim  \
+	   | convert - ckeyscape/$$TBASE.png;                          \
 	done
 	@echo "[0;32m"
-	@echo "*** Created PDF data in '[0;31mpdf-abc[0;32m' directory."
+	@echo "*** Created keyscape images in '[0;31mckeyscape[0;32m' directory."
+	@echo "[0m"
+
+
+
+##############################
+#
+# make ctonic -- Transpose all music into C major (primary key of each movement).
+# Output is stored in a directory called "ctonic".
+#
+
+ctonic: humdrum-extras-check
+	mkdir -p ctonic
+	for file in kern/*.krn;                              \
+	do                                                   \
+	   TBASE=`basename $$file .krn`;                     \
+	   echo Creating ctonic/$$TBASE.png;                 \
+	   transpose -kc $$file > ctonic/$$TBASE-ctonic.krn; \
+	done
+	@echo "[0;32m"
+	@echo "*** Created C-major scores in '[0;31mctonic[0;32m' directory."
 	@echo "[0m"
 
 
@@ -637,6 +644,21 @@ ifeq ($(shell which keycor),)
 	exit 1
 endif
 
+
+##############################
+##
+## make convert-check -- Check to see if the convert command is available.
+##    If not, then make suggestions for how to install.
+##
+
+convert-check:
+ifeq ($(shell which convert),)
+	@echo "[0;31m"
+	@echo "*** Error: You must first install ImageMagick tools. See:"
+	@echo "***    [0;32mhttp://www.besavvy.com/documentation/4-5/Editor/031350_installimgk.htm[0;31m"
+	@echo "[0m"
+	exit 1
+endif
 
 ###########################################################################
 ##

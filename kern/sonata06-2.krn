@@ -2,6 +2,7 @@
 !!!CDT: 1756/01/27/-1791/12/05/
 !!!CNT: German
 !!!OTL: Piano Sonata No. 6 in D major
+!!!OTP: D&uuml;rnitz
 !!!SCT1: K<sup>1</sup> 284
 !!!SCT2: K<sup>6</sup> 205b
 !!!OMV: 2
@@ -1067,9 +1068,16 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!YOR: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!YOY: 1878
+!!!YEC: 2018 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2018
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/24
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2018/06/16
+!!!EFL: 17/69
+!!!AGN: piano sonata
+!!!AFR: 
 !!!title: @{OTL}, K 284 (205b), mvmt. @{OMV}

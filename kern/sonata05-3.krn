@@ -10,7 +10,7 @@
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *>[A,A,B,B,C]	*>[A,A,B,B,C]	*>[A,A,B,B,C]
-*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
+*>norep[A,B,C]	*>norep[A,B,C]	*>norep[A,B,C]
 *>A	*>A	*>A
 *clefF4	*clefG2	*clefG2
 *k[f#]	*k[f#]	*k[f#]
@@ -1567,9 +1567,16 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
-!!!SMS: Alte Mozart-Ausgabe, Band 20 (1878), Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!YOR: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
+!!!YOY: 1878
+!!!YEC: 2018 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!YER: 2018
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/06
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2018/06/16
+!!!EFL: 15/69
+!!!AGN: piano sonata
+!!!AFR: 
 !!!title: @{OTL}, K 283 (189h), mvmt. @{OMV}
