@@ -1102,7 +1102,8 @@
 8BnJ)	24cccnLL	.
 .	24bbn	.
 .	24aaJJ	.
-!! 8b displayed as a quarter note in source
+!! 8B displayed as a quarter note in source
+!LO:N:vis=4	!	!
 8B	24gg#LL	.
 .	24ffn	.
 .	24eeJJ	.
