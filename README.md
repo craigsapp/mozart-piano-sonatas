@@ -129,18 +129,21 @@ git pull
 Alternate access
 ============================
 
+This digital edition is also accessible in a variety of interfaces
+described below.
+
 
 KernScores website access
 -------------------------
 
-These digital scores may also be found on the kernScores website:
+These digital scores are available on the kernScores library of Humdrum musical scores:
 *    http://kernscores.stanford.edu/browse?l=mozart/sonatas
 
 with mirrors at:
 *    http://kern.humdrum.org/browse?l=mozart/sonatas
 *    http://kern.ccarh.org/browse?l=mozart/sonatas
 
-which includes dynamic conversions to other data formats.  
+this includes dynamic conversions to other data formats.  
 
 
 Command-line downloading with Humdrum Extras
@@ -154,7 +157,7 @@ can download these files from kernScores.  A quick method of downloading:
     humsplit h://mozart/sonatas
 ```
 To get online access to a single movement, for example to transpose the first 
-movement of the first sonata from to B major:
+movement of the first sonata from C major to B major:
 ```bash
    transpose -k b h://mozart/sonatas/sonata01-1.krn
 ```
@@ -190,6 +193,9 @@ Scans of the source edition can be downloaded from
 ```bash
    make reference
 ```
+
+This will create a directory called `reference-edition` with the
+set of PDF files, one for each movement.
 
 
 Makefile
