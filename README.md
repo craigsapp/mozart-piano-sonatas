@@ -56,10 +56,10 @@ If you think that there is a mistake in the data, verify that there is a problem
 
 If an error is found, there are two methods for fixing it.  A simple method is to report the problem
 on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository.  You
-should cite the work and movement numbers with a description of the error.  Preferrably you should alto mention
+should cite the work and movement numbers with a description of the error.  Preferably you should alto mention
 the page number and system in the PDF where the error occurs, since the source edition does not have 
 measure numbers.  Cite the measure number in the source edition (visible at the start of the systems
-in VHV, as well as after `=` signs in the data).  Also preferrably you should include a snapshot of the 
+in VHV, as well as after `=` signs in the data).  Also preferably you should include a snapshot of the 
 error in the VHV notation and PDF scan of the corresponding spot.  
 
 For example, here is a slur missing on beat three of measure three from a sonata:
@@ -97,7 +97,7 @@ stem directions on notes or beams, or slurs are on the wrong sides of the staves
 limited to the middle of the grand staff and cannot yet be shown below the staff).  
 
 The vertical positions of rests are intended to match the source edition as well.  These are currently being implemented in the converter, with
-some rests requiring manual placement in the data.  Rests requiring automatic positining have a few bugs which should improve over time.
+some rests requiring manual placement in the data.  Rests requiring automatic positioning have a few bugs which should improve over time.
 
 Slur angles are determined solely by verovio and are not interesting to submit as bug reports (only slur orientation and note attachments are of
 interest for error correction).
