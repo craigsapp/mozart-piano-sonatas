@@ -52,7 +52,7 @@ Corrections
 ================================
 
 If you think that there is a mistake in the data, verify that there is a problem by typing
-[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) to compare to a scan of the source edition.
+[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) in VHV to compare to a scan of the source edition.
 
 If an error is found, there are two methods for fixing it.  A simple method is to report the problem
 on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository.  You
