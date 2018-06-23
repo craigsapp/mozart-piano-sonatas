@@ -52,14 +52,14 @@ Corrections
 ================================
 
 If you think that there is a mistake in the data, verify that there is a problem by typing
-[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) to compare to a scan of the source edition.
+[alt-p](http://doc.verovio.humdrum.org/commands/alt-p) in VHV to compare to a scan of the source edition.
 
 If an error is found, there are two methods for fixing it.  A simple method is to report the problem
 on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository.  You
-should cite the work and movement numbers with a description of the error.  Preferrably you should alto mention
+should cite the work and movement numbers with a description of the error.  Preferably you should alto mention
 the page number and system in the PDF where the error occurs, since the source edition does not have 
 measure numbers.  Cite the measure number in the source edition (visible at the start of the systems
-in VHV, as well as after `=` signs in the data).  Also preferrably you should include a snapshot of the 
+in VHV, as well as after `=` signs in the data).  Also preferably you should include a snapshot of the 
 error in the VHV notation and PDF scan of the corresponding spot.  
 
 For example, here is a slur missing on beat three of measure three from a sonata:
@@ -97,7 +97,7 @@ stem directions on notes or beams, or slurs are on the wrong sides of the staves
 limited to the middle of the grand staff and cannot yet be shown below the staff).  
 
 The vertical positions of rests are intended to match the source edition as well.  These are currently being implemented in the converter, with
-some rests requiring manual placement in the data.  Rests requiring automatic positining have a few bugs which should improve over time.
+some rests requiring manual placement in the data.  Rests requiring automatic positioning have a few bugs which should improve over time.
 
 Slur angles are determined solely by verovio and are not interesting to submit as bug reports (only slur orientation and note attachments are of
 interest for error correction).
@@ -129,18 +129,21 @@ git pull
 Alternate access
 ============================
 
+This digital edition is also accessible in a variety of interfaces
+described below.
+
 
 KernScores website access
 -------------------------
 
-These digital scores may also be found on the kernScores website:
+These digital scores are available on the kernScores library of Humdrum musical scores:
 *    http://kernscores.stanford.edu/browse?l=mozart/sonatas
 
 with mirrors at:
 *    http://kern.humdrum.org/browse?l=mozart/sonatas
 *    http://kern.ccarh.org/browse?l=mozart/sonatas
 
-which includes dynamic conversions to other data formats.  
+this includes dynamic conversions to other data formats.  
 
 
 Command-line downloading with Humdrum Extras
@@ -154,7 +157,7 @@ can download these files from kernScores.  A quick method of downloading:
     humsplit h://mozart/sonatas
 ```
 To get online access to a single movement, for example to transpose the first 
-movement of the first sonata from to B major:
+movement of the first sonata from C major to B major:
 ```bash
    transpose -k b h://mozart/sonatas/sonata01-1.krn
 ```
@@ -184,12 +187,15 @@ can be found online at https://github.com/humdrum-tools
 Downloading scans of the source edition
 --------------------------------------
 
-
 Scans of the source edition can be downloaded from 
 [kernScores](http://kern.humdrum.org) with this command:
+
 ```bash
    make reference
 ```
+
+This will create a directory called `reference-edition` with the
+set of PDF files, one for each movement.
 
 Creating MIDI files
 -------------------
@@ -201,7 +207,6 @@ make midi
 ```
 
 to convert the data into MIDI files (placed in the `miidi` directory).
-
 
 
 Makefile
