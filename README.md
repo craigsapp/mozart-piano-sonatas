@@ -48,7 +48,7 @@ Graphical notation for the data files can be viewed online at
 
 * Press the space bar or click the play button to listen to the music.  MIDI file conversions cannot be download online, but can be produced via command-line tools.
 
-* You can transpose the music to any key by adding `&filter=transpose%20-k` followed by the name of the tonic note, such as 
+* You can transpose the music to any key by adding `&filter=transpose%20-k` to the above URLs, followed by the name of the tonic note, such as 
 `&filter=transpose%20-kc` for C major/minor, `&filter=transpose%20-kf#` for F-sharp major/minor, or `&filter=transpose%20-kb-` 
 for B-flat major/minor.  Example URL transposing the first movement of the first sonata into B-flat major:
 http://verovio.humdrum.org?k=ey&file=mozart/sonata/sonata01-1.krn&filter=transpose%20-kb-
