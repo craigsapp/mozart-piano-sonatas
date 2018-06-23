@@ -474,7 +474,7 @@ searchindex: humdrum-extras-check
 #
 
 census: humdrum-toolkit-check
-	census -k kern/*.krn
+	extractx -i kern kern/*krn | census -k 
 
 
 

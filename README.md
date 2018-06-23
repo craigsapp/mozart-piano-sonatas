@@ -173,8 +173,8 @@ of the [Humdrum-data](https://github.com/humdrum-tools/humdrum-data)
 repository along with other digital scores in the Humdrum format.
 
 
-Command-line analysis & manipulation tools
-=================================
+Command-line processing 
+===========================
 
 
 Tools for processing the encodings in this format on the command-line 
@@ -191,13 +191,45 @@ Scans of the source edition can be downloaded from
    make reference
 ```
 
+Creating MIDI files
+-------------------
+
+Type
+
+```bash
+make midi
+```
+
+to convert the data into MIDI files (placed in the `miidi` directory).
+
+
 
 Makefile
 ========
 
 The makefile provided in the base directory includes example data
 processing commands.  Type ```make``` when in the same directory as the
-makefile to list commands that can be run with the makefile.
+makefile to list commands that can be run with the makefile:
+
+
+```
+Run this makefile with one of the following labels:
+   "make update"      : download any new changes from online repository.
+   "make reference"   : download PDF scans of reference editions.
+   "make clean"       : delete data directories created by this makefile.
+
+Commands requiring the Humdrum Toolkit to be installed:
+   "make census"      : run the census command on all files.
+
+Commands requiring Humdrum Extras to be installed.
+   "make midi"        : convert to MIDI files (full repeats)
+   "make midi-norep"  : convert to MIDI files (no repeats)
+   "make musedata"    : convert to MuseData files.
+   "make musicxml"    : convert to MusicXML files.
+   "make notearray"   : create notearray files.
+   "make searchindex" : create themax search index.
+```
+
 
 If the command ```which make``` reports that the make command cannot
 be found, then you must install it.  In linux, this command might
@@ -213,6 +245,4 @@ In OS X Mavericks or later, install the Xcode command-line tools:
    xcode-select --install
 ```
 
-In Cygwin on MS Windows, re-run the cygwin install program and make sure
-that the development tools are included in the installation packages.
 
