@@ -330,12 +330,34 @@ set of PDF files, one for each movement.
 Creating MIDI files
 -------------------
 
-Type
+To convert the Humdrum data files into MIDI files, type:
 
 ```bash
 make midi
 ```
 
-to convert the data into MIDI files (placed in the `miidi` directory).
+This will create a directory called `midi` containing the resulting MIDI files.  These files 
+contain the full repeats indicated in the music.   To generate MIDI files that take only second
+endings (suitble for most types of analysis), instead type:
+
+```bash
+make midi-norep
+```
+
+This will generate MIDI files without repeats ("norep").
+
+The total performance time of all sonatas without breaks between movements, and using the interpreted
+tempos in the data files is 4 hours and 41 minutes, calculated with this use of Humdrum Extras:
+
+```
+thrux kern/*.krn | gettime -T
+```
+
+The longest movement is sonata 13, movement 1.  Total duration of the data without taking repeats 
+is 3 hours and 2 minutes, calcuated with the command pipeline:
+
+```
+thrux -v norep kern/*.krn | gettime -T
+```
 
 
