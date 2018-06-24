@@ -186,6 +186,8 @@ To interface to the original Humdrum Toolkit commands, use the humcat command to
    humcat -s h://mozart/sonatas | census -k
 ```
 
+(There are 96637 notes in this data set, which is an average of 5685 notes per sonata, or 1895 notes per movement.)
+
 
 Humdrum-data repository
 -------------------------------
@@ -202,6 +204,32 @@ Command-line processing
 
 Tools for processing the encodings in this format on the command-line 
 can be found online at https://github.com/humdrum-tools
+
+
+If you have the [Humdrum tools](https://github.com/humdrum-tools/humdrum-tools) for command-line
+processing of the files, you can type this command:
+
+```
+make keyscape
+```
+
+<img src="https://user-images.githubusercontent.com/3487289/41814701-529bd364-770a-11e8-95eb-82fcc8763224.png" width="600" />
+
+
+
+To create keyscapes of each movement:
+
+
+Typing
+
+```
+make ckeyscape
+```
+
+will transpose the music to C major before creating the keyscape, so green will represent the tonic key, 
+blue is dominant, yellow is subdominant, etc.  Dark green indicates a minor tonic key.
+
+<img src="https://user-images.githubusercontent.com/3487289/41814707-836844c8-770a-11e8-96e1-cfda435782a7.png" width="600" />
 
 
 Downloading scans of the source edition
