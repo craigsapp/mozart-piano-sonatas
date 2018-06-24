@@ -321,7 +321,7 @@ Scans of the source edition can be downloaded from
 [kernScores](http://kern.humdrum.org) with this command:
 
 ```bash
-   make reference
+make reference
 ```
 
 This will create a directory called `reference-edition` with the
