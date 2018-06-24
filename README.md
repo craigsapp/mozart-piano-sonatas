@@ -100,7 +100,7 @@ In both case, you will have to create a [free account](https://github.com/join) 
 
 Some mistakes are intentional and are related to limitations in [verovio](http://www.verovio.org) which is used to 
 render the graphical notation, or in the converter from Humdrum-to-MEI.  You
-can report these errors, but they will be fixed over time on their own by magical programming gnomes.  Errors worth
+can report these sorts of errors, but they will be fixed over time on their own by magical programming gnomes.  Errors worth
 reporting include wrong pitches, invisible accidentals (correct pitch, but cautionary accidental matching the source edition is not
 visible).  Slurs starting/stopping on wrong notes (cross staff slurs are only partially implemented in verovio).  The wrong
 stem directions on notes or beams, or slurs are on the wrong sides of the staves.  Missing dynamics (dynamics placement is currently
