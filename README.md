@@ -294,6 +294,14 @@ The recapitulation occurs around measure 100 (tick with a crossbar):
 
 <img src="https://user-images.githubusercontent.com/3487289/41814844-5d2c4a08-770e-11e8-9251-537ee5c4f530.png" width="800" />
 
+
+And the second theme is transposed to C minor in the recapitulation (so
+it is not differentiable in the keyscape since it is now in the same key
+as the first theme).  The deveopment section lasts from about measure
+70 to 100, where there are several small key regions at the bottom of
+the keyscape plot.
+
+
 To create relative keyscapes of each movement (by transposing the music to C before generating the keyscape), type:
 
 ```
