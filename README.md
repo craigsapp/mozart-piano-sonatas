@@ -61,7 +61,7 @@ If you think that there is a mistake in the data, verify that there is a problem
 [alt-p](http://doc.verovio.humdrum.org/commands/alt-p) in VHV to compare to a scan of the source edition.
 The following figure demonstrates viewing of the PDF of the reference edition underneath the VHV webpage:
 
-<img src="https://user-images.githubusercontent.com/3487289/41814574-8ed78340-7706-11e8-94b8-279101207ac4.png" width="500" />
+<img src="https://user-images.githubusercontent.com/3487289/41814574-8ed78340-7706-11e8-94b8-279101207ac4.png" width="800" />
 
 If an error is found, there are two methods for fixing it.  A simple method is to report the problem
 on the [issues](https://github.com/craigsapp/mozart-piano-sonatas/issues) page for this repository.  You
