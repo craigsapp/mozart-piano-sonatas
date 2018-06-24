@@ -207,7 +207,7 @@ can be found online at https://github.com/humdrum-tools
 
 
 If you have the [Humdrum tools](https://github.com/humdrum-tools/humdrum-tools) for command-line
-processing of the files, you can type this command:
+processing of the files installed (as well as the `convert` tool from ImageMagick), you can type this command:
 
 ```
 make keyscape
