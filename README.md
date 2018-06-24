@@ -346,8 +346,8 @@ make midi-norep
 
 This will generate MIDI files without repeats ("norep").
 
-The total performance time of all sonatas without breaks between movements, and using the interpreted
-tempos in the data files is 4 hours and 41 minutes, calculated with this use of Humdrum Extras:
+The total performance time of all sonatas, without breaks between movements and using the interpreted
+tempos in the data files, is 4 hours and 41 minutes, calculated with this use of Humdrum Extras:
 
 ```
 thrux kern/*.krn | gettime -T
