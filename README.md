@@ -202,7 +202,7 @@ Command-line processing
 ===========================
 
 
-Using the include makefile
+Using the included makefile
 ---------------------------
 
 The makefile provided in the base directory includes example data
