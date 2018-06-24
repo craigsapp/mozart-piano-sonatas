@@ -202,32 +202,103 @@ Command-line processing
 ===========================
 
 
-Tools for processing the encodings in this format on the command-line 
-can be found online at https://github.com/humdrum-tools
+Using the include makefile
+---------------------------
 
+The makefile provided in the base directory includes example data
+processing commands.  Type ```make``` when in the same directory as the
+makefile to list commands that can be run with the makefile:
+
+
+```
+Run this makefile with one of the following labels:
+   "make update"      : download any new changes from online repository.
+   "make reference"   : download PDF scans of reference editions.
+   "make clean"       : delete data directories created by this makefile.
+
+Commands requiring the Humdrum Toolkit to be installed:
+   "make census"      : run the census command on all files.
+
+Commands requiring Humdrum Extras to be installed.
+   "make ctonic"      : transpose scores to C major/minor.
+   "make keyscape"    : generate keyscape plots by movement.
+   "make ckeyscape"   : generate keyscape plots by movement in C major/minor.
+   "make midi"        : convert to MIDI files (full repeats)
+   "make midi-norep"  : convert to MIDI files (no repeats)
+   "make musedata"    : convert to MuseData files.
+   "make musicxml"    : convert to MusicXML files.
+   "make notearray"   : create notearray files.
+   "make searchindex" : create themax search index.
+
+Commands requiring other software to be installed.
+   "make pdf-lilypond": convert to PDF files with lilypond.
+   "make pdf-musedata": convert to PDF files with muse2ps.
+```
+
+
+If the `make` command does not work for you, then most likely it must be
+installed.  In linux, the following command might install `make`:
+```bash
+   sudo apt-get install build-essential
+   # or
+   sudo yum install build-essential
+```
+
+In MacOS Mavericks or later, install the Xcode command-line tools by typing this command in the terminal:
+```bash
+   xcode-select --install
+```
+
+Most of the make targets also require Humdrum Extras to process the data. See
+https://github.com/humdrum-tools for instructions on downloading and installing it. A few
+other make targets require additional software to be installed, such as ImageMagick tools,
+muse2ps, lilypond, and verovio.
+
+
+Creating absolute and relative keyscapes
+-----------
 
 If you have the [Humdrum tools](https://github.com/humdrum-tools/humdrum-tools) for command-line
-processing of the files installed (as well as the `convert` tool from ImageMagick), you can type this command:
+processing of the files installed (as well as the `convert` tool from ImageMagick), you can create
+plots of the key structure for each movement by typing the following command in the base directory
+of the repository:
 
 ```
 make keyscape
 ```
 
+Plots are store in the `keyscape` directory:
+
 <img src="https://user-images.githubusercontent.com/3487289/41814701-529bd364-770a-11e8-95eb-82fcc8763224.png" width="800" />
 
+Time goes from left to right in the plots, with the color mapping between keys and colors being:
+
+<img src="https://user-images.githubusercontent.com/3487289/41814762-3ed4a48a-770c-11e8-9411-687dcfe661b8.png" width="500" />
+
+Example keyscape from the first movement of the 14th sonata:
+
+<img src="https://user-images.githubusercontent.com/3487289/41814769-7cafd22a-770c-11e8-91d4-2a69dfaa5489.png" width="800" />
+
+This is a sonata-allegro form.  The main key is C minor (dark green), and the second theme is in E-flat major (red).  The 
+black ticks at the bottom of the plot indicate the measures.  The modulation to E-flat major occurs around measure 20.
+
+Here is the opening of the movement:
+
+<img src="https://user-images.githubusercontent.com/3487289/41814811-83b0c006-770d-11e8-9974-2d176ceb56c6.png" width="800" />
+
+And at the transition to E-flat major:
+
+<img src="https://user-images.githubusercontent.com/3487289/41814817-b0a92ac6-770d-11e8-8b1e-4defa6d39fb8.png" width="800" />
 
 
-To create keyscapes of each movement:
-
-
-Typing
+To create relative keyscapes of each movement (by transposing the music to C before generating the keyscape), type:
 
 ```
 make ckeyscape
 ```
 
-will transpose the music to C major before creating the keyscape, so green will represent the tonic key, 
-blue is dominant, yellow is subdominant, etc.  Dark green indicates a minor tonic key.
+This will display the tonic key in green, blue is dominant, yellow is subdominant, etc.  
+Darker colors indicate minor keys.
 
 <img src="https://user-images.githubusercontent.com/3487289/41814707-836844c8-770a-11e8-96e1-cfda435782a7.png" width="800" />
 
@@ -255,47 +326,5 @@ make midi
 ```
 
 to convert the data into MIDI files (placed in the `miidi` directory).
-
-
-Makefile
-========
-
-The makefile provided in the base directory includes example data
-processing commands.  Type ```make``` when in the same directory as the
-makefile to list commands that can be run with the makefile:
-
-
-```
-Run this makefile with one of the following labels:
-   "make update"      : download any new changes from online repository.
-   "make reference"   : download PDF scans of reference editions.
-   "make clean"       : delete data directories created by this makefile.
-
-Commands requiring the Humdrum Toolkit to be installed:
-   "make census"      : run the census command on all files.
-
-Commands requiring Humdrum Extras to be installed.
-   "make midi"        : convert to MIDI files (full repeats)
-   "make midi-norep"  : convert to MIDI files (no repeats)
-   "make musedata"    : convert to MuseData files.
-   "make musicxml"    : convert to MusicXML files.
-   "make notearray"   : create notearray files.
-   "make searchindex" : create themax search index.
-```
-
-
-If the command ```which make``` reports that the make command cannot
-be found, then you must install it.  In linux, this command might
-install it:
-```bash
-   sudo apt-get install build-essential
-   # or
-   sudo yum install build-essential
-```
-
-In OS X Mavericks or later, install the Xcode command-line tools:
-```bash
-   xcode-select --install
-```
 
 
