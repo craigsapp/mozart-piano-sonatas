@@ -290,6 +290,9 @@ And at the transition to E-flat major:
 
 <img src="https://user-images.githubusercontent.com/3487289/41814817-b0a92ac6-770d-11e8-8b1e-4defa6d39fb8.png" width="800" />
 
+The recapitulation occurs around measure 100 (tick with a crossbar):
+
+<img src="https://user-images.githubusercontent.com/3487289/41814844-5d2c4a08-770e-11e8-9251-537ee5c4f530.png" width="800" />
 
 To create relative keyscapes of each movement (by transposing the music to C before generating the keyscape), type:
 
