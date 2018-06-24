@@ -93,7 +93,7 @@ Images can be added to the issue report by dragging-and-dropping them into the r
 
 
 More advanced users can submit a [pull request](https://help.github.com/articles/about-pull-requests)
-after first making a [fork](https://help.github.com/articles/fork-a-repo/) (i.e., a copy) into 
+fixing the error, after first making a [fork](https://help.github.com/articles/fork-a-repo/) (i.e., a copy) into 
 their Github account.
 
 In both case, you will have to create a [free account](https://github.com/join) on Github.
