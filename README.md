@@ -213,7 +213,7 @@ processing of the files installed (as well as the `convert` tool from ImageMagic
 make keyscape
 ```
 
-<img src="https://user-images.githubusercontent.com/3487289/41814701-529bd364-770a-11e8-95eb-82fcc8763224.png" width="600" />
+<img src="https://user-images.githubusercontent.com/3487289/41814701-529bd364-770a-11e8-95eb-82fcc8763224.png" width="800" />
 
 
 
@@ -229,7 +229,7 @@ make ckeyscape
 will transpose the music to C major before creating the keyscape, so green will represent the tonic key, 
 blue is dominant, yellow is subdominant, etc.  Dark green indicates a minor tonic key.
 
-<img src="https://user-images.githubusercontent.com/3487289/41814707-836844c8-770a-11e8-96e1-cfda435782a7.png" width="600" />
+<img src="https://user-images.githubusercontent.com/3487289/41814707-836844c8-770a-11e8-96e1-cfda435782a7.png" width="800" />
 
 
 Downloading scans of the source edition
