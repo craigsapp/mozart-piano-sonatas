@@ -324,7 +324,7 @@ Scans of the source edition can be downloaded from
 make reference
 ```
 
-This will create a directory called `reference-edition` with the
+This will create a directory called `reference-edition` with a
 set of PDF files, one for each movement.
 
 Creating MIDI files
