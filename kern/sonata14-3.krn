@@ -953,8 +953,7 @@
 8E-J	.	.
 =173	=173	=173
 8CL	(8ff#L	.
-!	!LO:TX:i:t=cresc.	!
-8D	8gg	.
+8D	8gg	<
 8F	8aa-	.
 8D	8gg	.
 8F	8ffn	.
@@ -975,9 +974,8 @@
 8E-J)	.	.
 =176	=176	=176
 8BB-XL	4r	.
-!	!LO:TX:i:t=cresc.	!
-8En	.	.
-8G	(4cc'	<
+8En	.	<
+8G	(4cc'	.
 8E	.	.
 8G	4cc')	.
 8EJ	.	.
@@ -1219,7 +1217,6 @@
 =214	=214	=214
 2.A-X 2.d 2.f	4ff]	.
 .	4dd	.
-!	!LO:TX:i:t=cresc.	!
 .	[4bbn	<
 =215	=215	=215
 2.G 2.d 2.f	4bb]	.

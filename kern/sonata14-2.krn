@@ -59,7 +59,6 @@
 .	16b-\ 16dd\	.	.
 (16DLL	16a-\ 16cc\	.	.
 16E-JJ	16g\ 16b-\JJ	.	.
-!	!LO:TX:i:b:t=cresc.	!	!
 16FLL	16f 16a-LL	4ryy	<
 16G	16g 16e-	.	.
 16A-	16c 16cc	.	.
@@ -428,10 +427,8 @@
 .	(>16ee- 16ggLL>	8ryy	.
 .	16dd 16ffJJ	.	.
 =19	=19	=19	=19
-8r	16cc 16ee-LL	2ryy	<
-.	.	.	.
-!	!LO:TX:i:t=cresc.	!	!
-.	[16b- [16dd	.	.
+8r	16cc 16ee-LL	2ryy	.
+.	[16b- [16dd	.	<
 (16DD 16DLL	32b-] 32ddk]	.	.
 .	16a- 16cc	.	.
 16EE- 16E-	.	.	.
@@ -518,8 +515,7 @@
 *^	*^	*
 8r	4ryy	[8b-L>	4ryy	<
 8GG 8E-	.	32b-LL]	.	.
-!	!	!LO:TX:i:t=cresc.	!	!
-.	.	(64ddL	.	.
+.	.	(64ddL	.	<
 .	.	64cc	.	.
 .	.	64ee-	.	.
 .	.	64dd	.	.
@@ -1044,8 +1040,7 @@
 32D	32cc	.	.
 32EE-	32g	.	.
 32E-JJJ	32b-JJJ	.	.
-!	!LO:TX:i:t=cresc.	!	!
-32FFLLL	32fLLL	.	.
+32FFLLL	32fLLL	.	<
 32F	32a-	.	.
 32GG	32e-	.	.
 32GJJJ	32gJJJ	.	.

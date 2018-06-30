@@ -421,7 +421,6 @@
 .	(12dd	.
 .	12cc#J	.
 =33	=33	=33
-!	!LO:TX:i:t=cresc.	!
 4B-	8ddL)	<
 .	8een'	.
 4r	8ff'	.
@@ -463,10 +462,9 @@
 8r	8gg'L	.
 8f#'L	8aa'	.
 8g'	8bb-'	.
-8a'J	8ccc'J	<
+8a'J	8ccc'J	.
 =37	=37	=37
-!	!LO:TX:i:t=cresc.	!
-8b-'L	8ddd'L	.
+8b-'L	8ddd'L	<
 8cc'	8eeen'	.
 8dd'	8fff'	.
 8cc#'J	8eee'J	.
@@ -1408,9 +1406,8 @@
 .	12f#J	.
 =129	=129	=129
 4E-	8gL)	.
-.	8an'	<
-!	!LO:TX:i:t=cresc.	!
-4r	8b-'	.
+.	8an'	.
+4r	8b-'	<
 .	8bn'J	.
 4r	8cc'L	.
 .	8dd'	.
@@ -1460,7 +1457,6 @@
 8g'	8bb-'	.
 8f#'J	8aa'J	.
 =134	=134	=134
-!	!LO:TX:i:t=cresc.	!
 8g'L	8bb-'L	<
 8a'	8ccc'	.
 8b-'	8ddd'	.

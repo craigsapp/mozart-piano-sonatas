@@ -491,9 +491,9 @@
 4.r	.	24ggLL	8ee-L	.
 .	.	24aa-	.	.
 .	.	24ggJJ	.	.
-!	!	!LO:TX:i:t=crescendo	!	!
-.	.	24ffLL	8dd	.
-.	.	24gg	.	<
+!	!	!	!	!LO:DY:t=crescendo
+.	.	24ffLL	8dd	<
+.	.	24gg	.	.
 .	.	24ffJJ	.	.
 .	.	24ee-LL	8ccJ	.
 .	.	24ff	.	.
@@ -515,7 +515,6 @@
 24cLL	.	.	8e-	.
 24d	.	.	.	.
 24cJJ	.	.	.	.
-!	!	!	!LO:TX:i:t=decresc.	!
 24B-LL	.	.	[8dJ	>
 24c	.	.	.	.
 24B-JJ	.	.	.	.
