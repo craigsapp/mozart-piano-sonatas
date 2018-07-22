@@ -393,7 +393,7 @@
 .	16aqJJ	.
 .	(16eeLL	.
 .	16ddJJ	.
-8r	16ccLL	.
+8r	16ccLL<	.
 .	16b	.
 (8c#	16a	.
 .	16gnJJ	.
@@ -1450,7 +1450,7 @@
 16cc	.	.	.
 16b	.	.	.
 16ccJJ	.	.	.
-16gLL	.	(8.eettL	.
+16gLL>	.	(8.eettL	.
 16cc	.	.	.
 16b	.	.	.
 16ccJJ	.	32ddLL	.
@@ -1551,8 +1551,8 @@
 8c)	(16cccLL	.
 .	16gg	.
 8r	16ee	.
-.	16ccJJ	.
-(16BLL	8ddL)	.
+.	16ccJJ)	.
+(16BLL	8ddL	.
 16g	.	.
 16d	16ddd'L	.
 16gJJ	16ddd'JJ	.
@@ -1625,12 +1625,12 @@
 .	16e'	.
 .	16d'	.
 .	16c'JJ	.
-.	16B<'LL	.
-.	16A<'	.
-.	16G<'	.
-.	16F#<'JJ	.
+.	16B<'>LL	.
+.	16A<'>	.
+.	16G<'>	.
+.	16F#<'>JJ	.
 =97	=97	=97
-4r	[>2Fn</	f
+4rGG	[>2Fn</	f
 4DD\ 4D	.	.
 4BBB\ 4BB\	(>16F<LL]	p
 .	16G<	.
@@ -1641,7 +1641,7 @@
 .	16G<	.
 .	16F<JJ)	.
 =98	=98	=98
-(<16CCLL<	(>2D< 2F<	f
+(<16CCLL<	(>2D</ 2F<	f
 16C	.	.
 16BB	.	.
 16CJJ	.	.
@@ -1649,7 +1649,7 @@
 16C	.	.
 16BB	.	.
 16CJJ	.	.
-4CC\)	16C< 16E<)	.
+4CC\)	16C</ 16E<)	.
 .	(16cLL	.
 .	16B	.
 .	16cJJ)	.
@@ -1697,7 +1697,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/13
+!!!EEV: 2018/07/22
 !!!EFL: 1/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro
