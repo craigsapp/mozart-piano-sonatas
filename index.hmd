@@ -1,5 +1,6 @@
 !!!github:	https://github.com/craigsapp/mozart-piano-sonatas
-!!!pdfprefix:	http://kern.humdrum.org/data?l=/mozart/sonatas&format=pdf&file=
+!!!pdfprefix:	https://github.com/craigsapp/mozart-piano-sonatas/raw/master/reference-edition/
+!!!pdfprefix2:	http://kern.humdrum.org/data?l=/mozart/sonatas&format=pdf&file=
 **file	**sort	**available	**pdf	**description	**wikipedia
 
 @01-1:01-2:01-3	01-0	N	.	<link><not>Piano</not> Sonata No. 1 in C major</link>, K<sup>1</sup> 279 / K<sup>6</sup>189d [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._1_(Mozart)
