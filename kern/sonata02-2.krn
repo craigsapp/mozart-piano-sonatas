@@ -78,7 +78,7 @@
 *	*v	*v	*
 =9	=9	=9
 !LO:TX:i:t=legato	!	!
-16E-LL	8a-	p
+16E-XLL	8a-	p
 16A-	.	.
 16c	8r	.
 16A-	.	.
@@ -87,9 +87,9 @@
 16E-LL	8b-	.
 16G	.	.
 16B-	8r	.
-16G-	.	.
+16G	.	.
 16E-	8b-	.
-16G-JJ	.	.
+16GJJ	.	.
 =10	=10	=10
 16E-LL	(4.b-	f
 16G	.	.
@@ -635,10 +635,10 @@
 8CC	8en 8gJ	8B-	.
 8FF	8f	8A-	.
 8r	8ryy	8r	.
-(<8AAn (>(8An	8ryy	(<(>8g- 8ee-X	p
+((8AAn 8An	8ryy	(<(>8g- 8ee-X	p
 *	*v	*v	*
 =59	=59	=59
-8BB-) 8B-))	8f 8dd-))	.
+8BB- 8B-))	8f 8dd-))	.
 8r	8r	.
 8Bn 8dn	8a- 8ff	f)
 4c	(8.f 8.a-L	.

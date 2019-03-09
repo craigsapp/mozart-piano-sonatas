@@ -2,107 +2,107 @@
 !!!pdfprefix:	http://kern.humdrum.org/data?l=/mozart/sonatas&format=pdf&file=
 **file	**sort	**available	**pdf	**description	**wikipedia
 
-@01-1:01-2:01-3	01-0	N	.	<link><not>Piano</not> Sonata No. 1  in C major</link>, K<sup>1</sup> 279 / K<sup>6</sup>189d [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._1_(Mozart)
-kern/sonata01-1.krn	01-1	Y	sonata01-1	1. <link>Allegro</link>
-kern/sonata01-2.krn	01-2	Y	sonata01-2	2. <link>Andante</link>
-kern/sonata01-3.krn	01-3	Y	sonata01-3	3. <link>Allegro</link>
+@01-1:01-2:01-3	01-0	N	.	<link><not>Piano</not> Sonata No. 1 in C major</link>, K<sup>1</sup> 279 / K<sup>6</sup>189d [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._1_(Mozart)
+kern/sonata01-1.krn	01-1	Y	sonata01-1	1. <link>Allegro</link>	.
+kern/sonata01-2.krn	01-2	Y	sonata01-2	2. <link>Andante</link>	.
+kern/sonata01-3.krn	01-3	Y	sonata01-3	3. <link>Allegro</link>	.
 
-@02-1:02-2:02-3	02-0	N	.	<link><not>Piano</not> Sonata No. 2  in F major</link>, K<sup>1</sup> 280 / K<sup>6</sup> 189e [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._2_(Mozart)
-kern/sonata02-1.krn	02-1	Y	sonata02-1	1. <link>Allegro assai</link>
-kern/sonata02-2.krn	02-2	Y	sonata02-2	2. <link>Adagio</link>
-kern/sonata02-3.krn	02-3	Y	sonata02-3	3. <link>Presto</link>
+@02-1:02-2:02-3	02-0	N	.	<link><not>Piano</not> Sonata No. 2 in F major</link>, K<sup>1</sup> 280 / K<sup>6</sup> 189e [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._2_(Mozart)
+kern/sonata02-1.krn	02-1	Y	sonata02-1	1. <link>Allegro assai</link>	.
+kern/sonata02-2.krn	02-2	Y	sonata02-2	2. <link>Adagio</link>	.
+kern/sonata02-3.krn	02-3	Y	sonata02-3	3. <link>Presto</link>	.
 
-@03-1:03-2:03-3	03-0	N	.	<link><not>Piano</not> Sonata No. 3  in B-flat major</link>, K<sup>1</sup> 281 / K<sup>6</sup> 189f [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._3_(Mozart)
-kern/sonata03-1.krn	03-1	Y	sonata03-1	1. <link>Allegro</link>
-kern/sonata03-2.krn	03-2	Y	sonata03-2	2. <link>Andante amoroso</link>
-kern/sonata03-3.krn	03-3	Y	sonata03-3	3. <link>Rondo: Allegro</link>
+@03-1:03-2:03-3	03-0	N	.	<link><not>Piano</not> Sonata No. 3 in B-flat major</link>, K<sup>1</sup> 281 / K<sup>6</sup> 189f [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._3_(Mozart)
+kern/sonata03-1.krn	03-1	Y	sonata03-1	1. <link>Allegro</link>	.
+kern/sonata03-2.krn	03-2	Y	sonata03-2	2. <link>Andante amoroso</link>	.
+kern/sonata03-3.krn	03-3	Y	sonata03-3	3. <link>Rondo: Allegro</link>	.
 
-@04-1:04-2:04-3	04-0	N	.	<link><not>Piano</not> Sonata No. 4  in E-flat major</link>, K<sup>1</sup> 282 / K<sup>6</sup> 189g [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._4_(Mozart)
-kern/sonata04-1.krn	04-1	Y	sonata04-1	1. <link>Allegro</link> [Andante con moto] [Adagio]
-kern/sonata04-2.krn	04-2	Y	sonata04-2	2. <link>Menuett I & II</link>
-kern/sonata04-3.krn	04-3	Y	sonata04-3	3. <link>Allegro</link>
+@04-1:04-2:04-3	04-0	N	.	<link><not>Piano</not> Sonata No. 4 in E-flat major</link>, K<sup>1</sup> 282 / K<sup>6</sup> 189g [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._4_(Mozart)
+kern/sonata04-1.krn	04-1	Y	sonata04-1	1. <link>Allegro</link> [Andante con moto] [Adagio]	.
+kern/sonata04-2.krn	04-2	Y	sonata04-2	2. <link>Menuett I & II</link>	.
+kern/sonata04-3.krn	04-3	Y	sonata04-3	3. <link>Allegro</link>	.
 
-@05-1:05-2:05-3	05-0	N	.	<link><not>Piano</not> Sonata No. 5  in G major</link>, K<sup>1</sup> 283 / K<sup>6</sup> 189h [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._5_(Mozart)
-kern/sonata05-1.krn	05-1	Y	sonata05-1	1. <link>Allegro</link>
-kern/sonata05-2.krn	05-2	Y	sonata05-2	2. <link>Andante</link>
-kern/sonata05-3.krn	05-3	Y	sonata05-3	3. <link>Presto</link>
+@05-1:05-2:05-3	05-0	N	.	<link><not>Piano</not> Sonata No. 5 in G major</link>, K<sup>1</sup> 283 / K<sup>6</sup> 189h [1774]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._5_(Mozart)
+kern/sonata05-1.krn	05-1	Y	sonata05-1	1. <link>Allegro</link>	.
+kern/sonata05-2.krn	05-2	Y	sonata05-2	2. <link>Andante</link>	.
+kern/sonata05-3.krn	05-3	Y	sonata05-3	3. <link>Presto</link>	.
 
-@06-1:06-2:06-3a:06-3b:06-3c:06-3d:06-3e:06-3f:06-3g:06-3h:06-3i:06-3j:06-3k:06-3l:06-3m	06-0	N	.	<link><not>Piano</not> Sonata No. 6  in D major</link>, ("D&uuml;rnitz"), K<sup>1</sup> 284 / K<sup>6</sup> 205b [1775]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._6_(Mozart)
-kern/sonata06-1.krn	06-1	Y	sonata06-1	1. <link>Allegro</link>
-kern/sonata06-2.krn	06-2	Y	sonata06-2	2. <link>Rondeau en polonaise: Andante</link>
-kern/sonata06-3a.krn	06-3a	Y	sonata06-3a	3a. <link>Thema</link>
-kern/sonata06-3b.krn	06-3b	Y	sonata06-3b	3b. <link>Variation I</link>
-kern/sonata06-3c.krn	06-3c	Y	sonata06-3c	3c. <link>Variation II</link>
-kern/sonata06-3d.krn	06-3d	Y	sonata06-3d	3d. <link>Variation III</link>
-kern/sonata06-3e.krn	06-3e	Y	sonata06-3e	3e. <link>Variation IV</link>
-kern/sonata06-3f.krn	06-3f	Y	sonata06-3f	3f. <link>Variation V</link>
-kern/sonata06-3g.krn	06-3g	Y	sonata06-3g	3g. <link>Variation VI</link>
-kern/sonata06-3h.krn	06-3h	Y	sonata06-3h	3h. <link>Variation VII</link> Minore
-kern/sonata06-3i.krn	06-3i	Y	sonata06-3i	3i. <link>Variation VIII</link> Maggiore
-kern/sonata06-3j.krn	06-3j	Y	sonata06-3j	3j. <link>Variation IX</link>
-kern/sonata06-3k.krn	06-3k	Y	sonata06-3k	3k. <link>Variation X</link>
-kern/sonata06-3l.krn	06-3l	Y	sonata06-3l	3l. <link>Variation XI</link> Adagio cantabile
-kern/sonata06-3m.krn	06-3m	Y	sonata06-3m	3m. <link>Variation XII</link> Allegro
+@06-1:06-2:06-3a:06-3b:06-3c:06-3d:06-3e:06-3f:06-3g:06-3h:06-3i:06-3j:06-3k:06-3l:06-3m	06-0	N	.	<link><not>Piano</not> Sonata No. 6 in D major</link>, ("D&uuml;rnitz"), K<sup>1</sup> 284 / K<sup>6</sup> 205b [1775]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._6_(Mozart)
+kern/sonata06-1.krn	06-1	Y	sonata06-1	1. <link>Allegro</link>	.
+kern/sonata06-2.krn	06-2	Y	sonata06-2	2. <link>Rondeau en polonaise: Andante</link>	.
+kern/sonata06-3a.krn	06-3a	Y	sonata06-3a	3a. <link>Thema</link>	.
+kern/sonata06-3b.krn	06-3b	Y	sonata06-3b	3b. <link>Variation I</link>	.
+kern/sonata06-3c.krn	06-3c	Y	sonata06-3c	3c. <link>Variation II</link>	.
+kern/sonata06-3d.krn	06-3d	Y	sonata06-3d	3d. <link>Variation III</link>	.
+kern/sonata06-3e.krn	06-3e	Y	sonata06-3e	3e. <link>Variation IV</link>	.
+kern/sonata06-3f.krn	06-3f	Y	sonata06-3f	3f. <link>Variation V</link>	.
+kern/sonata06-3g.krn	06-3g	Y	sonata06-3g	3g. <link>Variation VI</link>	.
+kern/sonata06-3h.krn	06-3h	Y	sonata06-3h	3h. <link>Variation VII</link> Minore	.
+kern/sonata06-3i.krn	06-3i	Y	sonata06-3i	3i. <link>Variation VIII</link> Maggiore	.
+kern/sonata06-3j.krn	06-3j	Y	sonata06-3j	3j. <link>Variation IX</link>	.
+kern/sonata06-3k.krn	06-3k	Y	sonata06-3k	3k. <link>Variation X</link>	.
+kern/sonata06-3l.krn	06-3l	Y	sonata06-3l	3l. <link>Variation XI</link> Adagio cantabile	.
+kern/sonata06-3m.krn	06-3m	Y	sonata06-3m	3m. <link>Variation XII</link> Allegro	.
 
-@07-1:07-2:07-3	07-0	N	.	<link><not>Piano</not> Sonata No. 7  in C major</link>, K<sup>1</sup> 309 / K<sup>6</sup> 284b [1777]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._7_(Mozart)
-kern/sonata07-1.krn	07-1	Y	sonata07-1	1. <link>Allegro con spirito</link>
-kern/sonata07-2.krn	07-2	Y	sonata07-2	2. <link>Andante un poco adagio</link>
-kern/sonata07-3.krn	07-3	Y	sonata07-3	3. <link>Rondo: Allegretto grazioso</link>
+@07-1:07-2:07-3	07-0	N	.	<link><not>Piano</not> Sonata No. 7 in C major</link>, K<sup>1</sup> 309 / K<sup>6</sup> 284b [1777]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._7_(Mozart)
+kern/sonata07-1.krn	07-1	Y	sonata07-1	1. <link>Allegro con spirito</link>	.
+kern/sonata07-2.krn	07-2	Y	sonata07-2	2. <link>Andante un poco adagio</link>	.
+kern/sonata07-3.krn	07-3	Y	sonata07-3	3. <link>Rondo: Allegretto grazioso</link>	.
 
-@08-1:08-2:08-3	08-0	N	.	<link><not>Piano</not> Sonata No. 8  in A minor</link>, K<sup>1</sup> 310 / K<sup>6</sup> 300d [1778]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._8_(Mozart)
-kern/sonata08-1.krn	08-1	Y	sonata08-1	1. <link>Allegro maestoso</link>
-kern/sonata08-2.krn	08-2	Y	sonata08-2	2. <link>Andante cantabile con espressione</link>
-kern/sonata08-3.krn	08-3	Y	sonata08-3	3. <link>Presto</link>
+@08-1:08-2:08-3	08-0	N	.	<link><not>Piano</not> Sonata No. 8 in A minor</link>, K<sup>1</sup> 310 / K<sup>6</sup> 300d [1778]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._8_(Mozart)
+kern/sonata08-1.krn	08-1	Y	sonata08-1	1. <link>Allegro maestoso</link>	.
+kern/sonata08-2.krn	08-2	Y	sonata08-2	2. <link>Andante cantabile con espressione</link>	.
+kern/sonata08-3.krn	08-3	Y	sonata08-3	3. <link>Presto</link>	.
 
-@09-1:09-2:09-3	09-0	N	.	<link><not>Piano</not> Sonata No. 9  in D major</link>, K<sup>1</sup> 311 / K<sup>6</sup> 284c [1777]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._9_(Mozart)
-kern/sonata09-1.krn	09-1	Y	sonata09-1	1. <link>Allegro con spirito</link>
-kern/sonata09-2.krn	09-2	Y	sonata09-2	2. <link>Andante con espressione</link> [Andantino con espressione]
-kern/sonata09-3.krn	09-3	Y	sonata09-3	3. <link>Rondo: Allegro</link>
+@09-1:09-2:09-3	09-0	N	.	<link><not>Piano</not> Sonata No. 9 in D major</link>, K<sup>1</sup> 311 / K<sup>6</sup> 284c [1777]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._9_(Mozart)
+kern/sonata09-1.krn	09-1	Y	sonata09-1	1. <link>Allegro con spirito</link>	.
+kern/sonata09-2.krn	09-2	Y	sonata09-2	2. <link>Andante con espressione</link> [Andantino con espressione]	.
+kern/sonata09-3.krn	09-3	Y	sonata09-3	3. <link>Rondo: Allegro</link>	.
 
 @10-1:10-2:10-3	10-0	N	.	<link><not>Piano</not> Sonata No. 10 in C major</link>, K<sup>1</sup> 330 / K<sup>6</sup> 300h [1782]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._10_(Mozart)
-kern/sonata10-1.krn	10-1	Y	sonata10-1	1. <link>Allegro moderato</link>
-kern/sonata10-2.krn	10-2	Y	sonata10-2	2. <link>Andante cantabile</link>
-kern/sonata10-3.krn	10-3	Y	sonata10-3	3. <link>Allegretto</link>
+kern/sonata10-1.krn	10-1	Y	sonata10-1	1. <link>Allegro moderato</link>	.
+kern/sonata10-2.krn	10-2	Y	sonata10-2	2. <link>Andante cantabile</link>	.
+kern/sonata10-3.krn	10-3	Y	sonata10-3	3. <link>Allegretto</link>	.
 
 @11-1a:11-1b:11-1c:11-1d:11-1e:11-1f:11-1g:11-2:11-3	11-0	N	.	<link><not>Piano</not> Sonata No. 11 in A major</link>, K<sup>1</sup> 331 / K<sup>6</sup> 300i [<i>c</i>1778<tt>-</tt>1873]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._11_(Mozart)
-kern/sonata11-1a.krn	11-1a	Y	sonata11-1a	1a. <link>Thema</link> Andante grazioso
-kern/sonata11-1b.krn	11-1b	Y	sonata11-1b	1b. <link>Variation I</link>
-kern/sonata11-1c.krn	11-1c	Y	sonata11-1c	1c. <link>Variation II</link>
-kern/sonata11-1d.krn	11-1d	Y	sonata11-1d	1d. <link>Variation III</link>
-kern/sonata11-1e.krn	11-1e	Y	sonata11-1e	1e. <link>Variation IV</link>
-kern/sonata11-1f.krn	11-1f	Y	sonata11-1f	1f. <link>Variation V</link> Adagio
-kern/sonata11-1g.krn	11-1g	Y	sonata11-1g	1g. <link>Variation VI</link> Allegro
-kern/sonata11-2.krn	11-2	Y	sonata11-2	2. <link>Menuetto and Trio</link>
-kern/sonata11-3.krn	11-3	Y	sonata11-3	3. <link>Alla Turca: Allegretto</link>
+kern/sonata11-1a.krn	11-1a	Y	sonata11-1a	1a. <link>Thema</link> Andante grazioso	.
+kern/sonata11-1b.krn	11-1b	Y	sonata11-1b	1b. <link>Variation I</link>	.
+kern/sonata11-1c.krn	11-1c	Y	sonata11-1c	1c. <link>Variation II</link>	.
+kern/sonata11-1d.krn	11-1d	Y	sonata11-1d	1d. <link>Variation III</link>	.
+kern/sonata11-1e.krn	11-1e	Y	sonata11-1e	1e. <link>Variation IV</link>	.
+kern/sonata11-1f.krn	11-1f	Y	sonata11-1f	1f. <link>Variation V</link> Adagio	.
+kern/sonata11-1g.krn	11-1g	Y	sonata11-1g	1g. <link>Variation VI</link> Allegro	.
+kern/sonata11-2.krn	11-2	Y	sonata11-2	2. <link>Menuetto and Trio</link>	.
+kern/sonata11-3.krn	11-3	Y	sonata11-3	3. <link>Alla Turca: Allegretto</link>	.
 
 @12-1:12-2:12-3	12-0	N	.	<link><not>Piano</not> Sonata No. 12 in F major</link>, K<sup>1</sup> 332 / K<sup>6</sup> 300k [<i>c</i>1783]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._12_(Mozart)
-kern/sonata12-1.krn	12-1	Y	sonata12-1	1. <link>Allegro</link>
-kern/sonata12-2.krn	12-2	Y	sonata12-2	2. <link>Adagio</link>
-kern/sonata12-3.krn	12-3	Y	sonata12-3	3. <link>(Allegro assai)</link>
+kern/sonata12-1.krn	12-1	Y	sonata12-1	1. <link>Allegro</link>	.
+kern/sonata12-2.krn	12-2	Y	sonata12-2	2. <link>Adagio</link>	.
+kern/sonata12-3.krn	12-3	Y	sonata12-3	3. <link>(Allegro assai)</link>	.
 
 @13-1:13-2:13-3	13-0	N	.	<link><not>Piano</not> Sonata No. 13 in B-flat major</link>, K<sup>1</sup> 333 / K<sup>6</sup> 315c [1783]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._13_(Mozart)
-kern/sonata13-1.krn	13-1	Y	sonata13-1	1. <link>Allegro</link>
-kern/sonata13-2.krn	13-2	Y	sonata13-2	2. <link>Andante cantabile</link>
-kern/sonata13-3.krn	13-3	Y	sonata13-3	3. <link>Allegretto grazioso</link> [Allegretto]
+kern/sonata13-1.krn	13-1	Y	sonata13-1	1. <link>Allegro</link>	.
+kern/sonata13-2.krn	13-2	Y	sonata13-2	2. <link>Andante cantabile</link>	.
+kern/sonata13-3.krn	13-3	Y	sonata13-3	3. <link>Allegretto grazioso</link> [Allegretto]	.
 
 @14-1:14-2:14-3	14-0	N	.	<link><not>Piano</not> Sonata No. 14 in C minor</link>, K 457 [1784]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._14_(Mozart)
-kern/sonata14-1.krn	14-1	Y	sonata14-1	1. <link>Allegro</link> [Molto allegro]
-kern/sonata14-2.krn	14-2	Y	sonata14-2	2. <link>Adagio</link>
-kern/sonata14-3.krn	14-3	Y	sonata14-3	3. <link>Molto allegro</link> [Allegro assai]
+kern/sonata14-1.krn	14-1	Y	sonata14-1	1. <link>Allegro</link> [Molto allegro]	.
+kern/sonata14-2.krn	14-2	Y	sonata14-2	2. <link>Adagio</link>	.
+kern/sonata14-3.krn	14-3	Y	sonata14-3	3. <link>Molto allegro</link> [Allegro assai]	.
 
 @15-1:15-2:15-3	15-0	N	.	<link><not>Piano</not> Sonata No. 15 [<small>NMA</small>16] in C major</link>, ("Sonata facile"), K 545 [1788]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._16_(Mozart)
-kern/sonata15-1.krn	15-1	Y	sonata15-1	1. <link>Allegro</link>
-kern/sonata15-2.krn	15-2	Y	sonata15-2	2. <link>Andante</link>
-kern/sonata15-3.krn	15-3	Y	sonata15-3	3. <link>Rondo: Allegretto</link> [Allegro]
+kern/sonata15-1.krn	15-1	Y	sonata15-1	1. <link>Allegro</link>	.
+kern/sonata15-2.krn	15-2	Y	sonata15-2	2. <link>Andante</link>	.
+kern/sonata15-3.krn	15-3	Y	sonata15-3	3. <link>Rondo: Allegretto</link> [Allegro]	.
 
 @16-1:16-2:16-3	16-0	N	.	<link><not>Piano</not> Sonata No. 16 [<small>NMA</small>17] in B-flat major</link>, K 570 [1789]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._17_(Mozart)
-kern/sonata16-1.krn	16-1	Y	sonata16-1	1. <link>Allegro</link>
-kern/sonata16-2.krn	16-2	Y	sonata16-2	2. <link>Adagio</link>
-kern/sonata16-3.krn	16-3	Y	sonata16-3	3. <link>Allegretto</link>
+kern/sonata16-1.krn	16-1	Y	sonata16-1	1. <link>Allegro</link>	.
+kern/sonata16-2.krn	16-2	Y	sonata16-2	2. <link>Adagio</link>	.
+kern/sonata16-3.krn	16-3	Y	sonata16-3	3. <link>Allegretto</link>	.
 
 @17-1:17-2:17-3	17-0	N	.	<link><not>Piano</not> Sonata No. 17 [<small>NMA</small>18] in D major</link>, K 576 [1789]	href=http://en.wikipedia.org/wiki/Piano_Sonata_No._18_(Mozart)
-kern/sonata17-1.krn	17-1	Y	sonata17-1	1. <link>Allegro</link>
-kern/sonata17-2.krn	17-2	Y	sonata17-2	2. <link>Adagio</link>
-kern/sonata17-3.krn	17-3	Y	sonata17-3	3. <link>Allegretto</link>
+kern/sonata17-1.krn	17-1	Y	sonata17-1	1. <link>Allegro</link>	.
+kern/sonata17-2.krn	17-2	Y	sonata17-2	2. <link>Adagio</link>	.
+kern/sonata17-3.krn	17-3	Y	sonata17-3	3. <link>Allegretto</link>	.
 
-*-	*-	*-	*-	*-
+*-	*-	*-	*-	*-	*-

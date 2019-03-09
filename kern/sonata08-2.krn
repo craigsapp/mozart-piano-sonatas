@@ -47,7 +47,7 @@
 =3	=3	=3	=3
 4BB-	(16aLL	8d 8f	.
 .	16gJJ)	.	.
-!	!	!LO:TX:i:t=crescendo	!
+!	!	!	!LO:DY:i:t=crescendo
 .	4g	4d 4f	<
 4GGG 4GG	.	.	.
 .	[8g:	8B-: 8f:	.
@@ -141,7 +141,7 @@
 =9	=9	=9
 16GLL	(16.cccLL	.
 16B-	.	.
-!	!LO:TX:i:t=crescendo	!
+!	!	!LO:DY:i:t=crescendo
 .	32eeJk	<
 16c	8bb-'J)	.
 16B-JJ	.	.
@@ -211,8 +211,7 @@
 .	32cc'	.
 16cJJ	32dd'	.
 .	32ee'JJJ	.
-!	!LO:TX:i:t=cresc.	!
-16ALL	32ff'LLL	.
+16ALL	32ff'LLL	<
 .	(64ffLM	.
 .	64eeJ	.
 16c	32ff)	.
@@ -396,7 +395,6 @@
 16F)	16dd)	.
 (16CC# 16C#LL	16a (16eeLL	.
 16DD 16D	16a 16ff	.
-!	!LO:TX:i:t=cresc.	!
 16EE 16EJJ	16ccn 16ggJJ	<
 16FF 16FLL	16cc 16aaLL	.
 16DD 16D	16ff 16bbn	.
@@ -489,7 +487,7 @@
 8r	.	.	.
 32Gqq	.	.	.
 4fT	.	4bn)	.
-(>16eqLL	.	(>(16ccqLL	.
+(>16eqLL	.	(>16ccqLL	.
 16fqJJ)	.	16ddqJJ)	.
 *clefG2	*	*	*
 *	*v	*v	*
@@ -695,8 +693,7 @@
 24BB-LL	8r	.
 24D	.	.
 24FJJ	.	.
-!	!LO:TX:i:t=cresc.	!
-24B-LL	(8ddTL	.
+24B-LL	(8ddTL	<
 24F	.	.
 24DJJ	.	.
 .	16cc#qLL	.
@@ -977,8 +974,8 @@
 .	16aJJ)	.	.
 =56	=56	=56	=56
 4BB-	(16aLL	8d 8f	.
-!	!LO:TX:i:t=crescendo	!	!
-.	16gJJ)	.	.
+!	!	!	!LO:DY:i:t=crescendo
+.	16gJJ)	.	<
 .	4g	4d 4f	.
 4GGG 4GG	.	.	.
 .	[8g:	8B-: 8f:	.
@@ -1056,8 +1053,8 @@
 *clefF4	*	*
 =61	=61	=61
 (16FLL	4f	.
-!	!LO:TX:i:t=crescendo	!
-16A	.	.
+!	!	!LO:DY:i:t=crescendo
+16A	.	<
 16c	.	.
 16AJJ	.	.
 16FLL	16r	.
@@ -1090,8 +1087,8 @@
 .	32aaJJJ)	.
 =63	=63	=63
 16DLL	(8cccL	.
-!LO:TX:i:t=crescendo	!	!
-16F	.	.
+!	!	!LO:TX:i:t=crescendo
+16F	.	<
 16B-	8bb-J)	.
 16FJJ	.	.
 16DLL	32r	f
@@ -1123,8 +1120,8 @@
 16F#JJ	16ddd'JJ)	.
 =65	=65	=65
 16BB-LL	(8dddL	.
-!LO:TX:i:t=crescendo	!	!
-16D	.	.
+!	!	!LO:TX:i:t=crescendo
+16D	.	<
 16G	8ggJ)	.
 16DJJ	.	.
 16BB-LL	16r	.
@@ -1227,7 +1224,7 @@
 32b-LLL	8B-'J	.	.
 32a	.	.	.
 32g	.	.	.
-32fJJJ))	.	.	.
+32fJJJ)	.	.	.
 =71	=71	=71	=71
 16e-'LL	8c	2.ffTTT]	.
 16e-'	.	.	.
@@ -1254,7 +1251,7 @@
 .	.	(16ffLL	.
 8r	.	16bb-)	.
 .	.	16bb-'JJ	.
-4D (<(4d	(16cccLL	4ff	fp
+4D ((4d	(16cccLL	4ff	fp
 .	16bb-	.	.
 .	16aa	.	.
 .	16bb-JJ)	.	.
@@ -1282,7 +1279,7 @@
 .	16ffqJJ	.	.
 8r	16bb-)	.	.
 .	16bb-'>JJ	.	.
-4D (<(4d	(16cccLL	4ff	fp
+4D ((4d	(16cccLL	4ff	fp
 .	16bb-	.	.
 .	16aa	.	.
 .	16bb-JJ)	.	.
@@ -1336,7 +1333,7 @@
 16BB-	16g	.
 16AAJJ	16f#JJ	.
 16BB-LL)	16gLL)	.
-!	!LO:TX:i:t=crescendo	!
+!	!	!LO:DY:i:t=crescendo
 16FF# 16F#	16e- 16a	<
 16GG 16G	16d 16b-	.
 16FFn 16FnJJ	16a- 16bnJJ	.
@@ -1464,8 +1461,8 @@
 .	.	32g	.
 .	.	32g#	.
 .	.	32aJJJ	.
-!	!	!LO:TX:i:t=crescendo	!
-4ryy	8F] 8d)	16b-TLL>	.
+!	!	!	!LO:DY:i:t=crescendo
+4ryy	8F] 8d)	16b-TLL>	<
 .	.	16aqLL	.
 .	.	16b-qJJ	.
 .	.	32ccL	.

@@ -315,7 +315,7 @@
 .	16ccJJ	.
 *clefF4	*	*
 =55	=55	=55
-4.BBn (<(4.Bn	16ggLL	fp
+4.BBn ((4.Bn	16ggLL	fp
 .	16g	.
 .	16ff#	.
 .	16g	.
@@ -329,7 +329,7 @@
 8r	16ee	.
 .	16ccJJ	.
 =57	=57	=57
-4.BBn (<(4.Bn	16ggLL	fp
+4.BBn ((4.Bn	16ggLL	fp
 .	16g	.
 .	16ff#	.
 .	16g	.
@@ -586,24 +586,24 @@
 8r	16dd	.
 .	16ee-	.
 *clefG2	*	*
-(>8g (8b-	16gg	.
+((8g 8b-	16gg	.
 .	16ee-JJ)	.
 =99	=99	=99
-8f) 8a)	16r	.
+8f 8a))	16r	.
 .	(16ddLL	.
 8r	16cc#	.
 .	16dd	.
-(>8f ((8a	16ff	.
+((8f 8a	16ff	.
 .	16ddJJ)	.
 =100	=100	=100
-8en) 8g))	16r	.
+8en 8g))	16r	.
 .	(16cc#LL	.
 8r	16bn	.
 .	16cc#	.
-(>(8e 8g	16een	.
+((8e 8g	16een	.
 .	16cc#JJ)	.
 =101	=101	=101
-8f) 8a))	16r	.
+8f 8a))	16r	.
 .	(16ddLL	.
 8r	16cc#	.
 .	16dd	.

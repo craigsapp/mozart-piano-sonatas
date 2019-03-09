@@ -323,7 +323,6 @@
 =17	=17	=17
 4c 4f	(16b-LL	.
 .	16anJJ)	.
-!	!LO:TX:i:t=cresc.	!
 .	4a	<
 4c 4f	.	.
 .	4a-	.
@@ -356,10 +355,9 @@
 16d	.	.
 16e-JJ)	.	.
 *clefF4	*	*
-16r	4e- 4g	<
+16r	4e- 4g	.
 (16d-LL	.	.
-!	!LO:TX:i:t=cresc.	!
-16c	.	.
+16c	.	<
 16d-JJ)	.	.
 16r	4e- 4a-	.
 (16cLL	.	.

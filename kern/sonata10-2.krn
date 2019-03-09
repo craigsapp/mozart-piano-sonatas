@@ -1,7 +1,7 @@
 !!!COM: Mozart, Wolfgang Amadeus
 !!!CDT: 1756/01/27/-1791/12/05/
 !!!CNT: German
-!!!OTL: Piano Sonata No. 2 in C major
+!!!OTL: Piano Sonata No. 10 in C major
 !!!SCT1: K<sup>1</sup> 330
 !!!SCT2: K<sup>6</sup> 300h
 !!!OMV: 2
@@ -65,7 +65,7 @@
 *clefF4	*	*
 =6	=6	=6
 .	32gqq	.
-4D 4F (<(4Bn	[4gg	.
+4D 4F ((4Bn	[4gg	.
 4E 4G 4c))	16.ggLL]	.
 .	(64aaLL	p
 .	64bbnJJJJ	.
@@ -100,16 +100,14 @@
 =9	=9	=9
 4.c 4.e-	(4g	.
 .	8f#)	.
-!	!LO:TX:b:i:t=cresc.	!
-8c (8e-L	(8f#L	.
+8c (8e-L	(8f#L	<
 8B- 8d	8g	.
 8A 8c 8dJ)	8f# 8aJ)	.
 =10	=10	=10
 *^	*^	*
 (4c	4.G (4.d	(4f# (4a	2ryy	.
 8B-))	.	8g) 8b-)	.	p
-!	!	!LO:TX:b:i:t=cresc.	!	!
-4.ryy	(>8B- 8d-L	(>8eL	.	.
+4.ryy	(>8B- 8d-L	(>8eL	.	<
 .	8A 8c	8fn	8ryy	.
 .	8G 8B- 8cJ)	8gJ)	8en	.
 *v	*v	*	*	*
@@ -170,8 +168,7 @@
 4A 4c)	.	8ccn)	.
 .	.	(16.ffLL	.
 .	.	32ccJJk)	.
-!	!	!LO:TX:b:i:t=cresc.	!
-4r	4ryy	(16.aaLL	.
+4r	4ryy	(16.aaLL	<
 .	.	32ffk)	.
 .	.	(16.cc	.
 .	.	32aJJk)	.
@@ -261,11 +258,10 @@
 *	*v	*v	*
 =25	=25	=25
 8r	8ee-L	.
-8F 8A- 8d-L	8dd-J)	<
+8F 8A- 8d-L	8dd-J)	.
 8F 8A- 8d-	8r	.
 .	(32ccqq/	.
-!	!LO:TX:b:i:t=cresc.	!
-8F 8A- 8d-	8dd-L)	.
+8F 8A- 8d-	8dd-L)	<
 .	(32ccqq/	.
 8F 8A- 8d-	8dd-)	.
 .	(32ccqq/	.
@@ -329,8 +325,7 @@
 =32	=32	=32
 4.C 4.c	(4f (4a-	.
 .	8en) 8g)	.
-!	!LO:TX:b:i:t=cresc.	!
-8r	(8ccL	.
+8r	(8ccL	<
 8r	8ff	.
 (>8AA-	8aa-J)	.
 =33	=33	=33
@@ -494,16 +489,14 @@
 =49	=49	=49
 4.c 4.e-	(4g	.
 .	8f#)	.
-!	!LO:TX:b:i:t=cresc.	!
-8c (8e-L	(8f#L	.
+8c (8e-L	(8f#L	<
 8B- 8d	8g	.
 8A 8c 8dJ)	8f# 8aJ)	.
 =50	=50	=50
 *^	*	*
 (4c	4.G 4.d	(4f# (4a	.
 8B-)	.	8g) 8b-)	p
-!	!	!LO:TX:b:i:t=cresc.	!
-4.ryy	(>8B- 8d-L	(>8eL	.
+4.ryy	(>8B- 8d-L	(>8eL	<
 .	8A 8c	8fn	.
 *	*	*^	*
 .	8G 8B- 8cJ)	8gJ)	8e	.
@@ -569,8 +562,7 @@
 4A 4c)	.	8ccn)	.
 .	.	(16.ffLL	.
 .	.	32ccJJk)	.
-!	!	!LO:TX:b:i:t=cresc.	!
-4r	4ryy	(16.aaLL	.
+4r	4ryy	(16.aaLL	<
 .	.	32ffk)	.
 .	.	(16.cc	.
 .	.	32aJJk)	.
