@@ -20,16 +20,19 @@
 16r	.	16f	f
 =1	=1	=1	=1
 !LO:TX:b:i:t=legato	!	!	!
+!LO:TUP:a	!	!	!
 12FL	.	4cc	.
 12A	.	.	.
 12cJ	.	.	.
 .	.	(32bnqq/	.
+!LO:TUP:a	!	!	!
 12GL	.	4cc)	.
 12B-	.	.	.
 12cJ	.	.	.
 .	.	(32bqLLL>	.
 .	.	32ccq	.
 .	.	32ddqJJJ	.
+!LO:TUP:a	!	!	!
 12FL	.	4cc)	.
 12A	.	.	.
 12cJ	.	.	.
@@ -102,6 +105,7 @@
 .	.	12fn 12a	.	.
 .	.	12e) 12g#J	.	.
 *tuplet	*	*	*	*
+!LO:TUP:a	!	!	!	!
 12r	.	4f 4a	.	.
 12E- 12e-L	.	.	.	.
 12D 12dJ	.	.	.	.
@@ -347,7 +351,7 @@
 16r	.	16cc	f
 *clefG2	*	*	*
 =29	=29	=29	=29
-!LO:TX:i:t=legato	!	!	!
+!LO:TX:b:i:t=legato	!	!	!
 12cL	.	4gg'	.
 12e	.	.	.
 12gJ	.	.	.
@@ -376,7 +380,7 @@
 12d	.	.	.
 12gJ	.	.	.
 12B-L	.	12ggL]	.
-12d	.	(12bb-X	.
+12d	.	(12bb-X'	.
 12gJ	.	12aa'J	.
 12B-L	.	12gg'L	.
 12d	.	12ffn'	.
@@ -455,6 +459,7 @@
 12B-' 12d' 12g'L	.	4dd	p
 (>12b-	.	.	.
 12aJ	.	.	.
+!	!	!LO:TUP:a	!
 4b-)	.	12r	.
 .	.	(12ggL	.
 .	.	12ff#J	.
@@ -462,6 +467,7 @@
 12b- (12ddL	.	.	.
 12a 12cc#J	.	.	.
 =39	=39	=39	=39
+!	!	!LO:TUP:a	!
 4b- 4dd)	.	12r	.
 .	.	(12bb-L	.
 .	.	12aaJ	.
@@ -618,12 +624,12 @@
 .	.	32bbnqJJJ	.
 *	*	*^	*
 12r	.	2.ccc)	12r	f
-(12aL	.	.	(12ffL	.
+(12aL>	.	.	(12ffL	.
 12ccJ)	.	.	12aaJ)	.
-(12b-L	.	.	(12ggL	p
+(12b-L>	.	.	(12ggL	p
 12a	.	.	12ff	.
 12ccJ)	.	.	12aaJ)	.
-(12b-L	.	.	(12ggL	.
+(12b-L>	.	.	(12ggL	.
 12a	.	.	12ff	.
 12ccJ)	.	.	12aaJ)	.
 *	*	*v	*v	*
@@ -892,7 +898,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/13
+!!!EEV: 2020/07/14
 !!!EFL: 2/69
 !!!AGN: piano sonata
 !!!AFR: 
