@@ -80,7 +80,7 @@
 .	16ddJJ)	.
 *clefG2	*	*
 =5	=5	=5
-!LO:TX:i:t=legato	!	!
+!LO:TX:b:i:t=legato	!	!
 16cLL	8ccL	.
 16g	.	.
 .	(32ddqq/	.
@@ -1032,7 +1032,7 @@
 .	16ddJJ)	.
 *clefG2	*	*
 =62	=62	=62
-!LO:TX:i:t=legato	!	!
+!LO:TX:b:i:t=legato	!	!
 16cLL	8ccL	.
 16g	.	.
 .	(32ddqq/	.
