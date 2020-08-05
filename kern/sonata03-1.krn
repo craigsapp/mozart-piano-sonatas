@@ -21,16 +21,20 @@
 4B- 4d	(8.b-TL	f
 .	32ccLL	.
 .	32ddJJJ	.
+!	!LO:TUP:a:r=8	!
 4c 4e-	24b-LL	.
 .	24a	.
 .	24ccJ	.
+!	!LO:TUP:a:r=8	!
 .	24b-L	.
 .	24a	.
 .	24ee-JJ	.
 =2	=2	=2
+!	!LO:TUP:a:r=8	!
 4d 4f	24ccLL	.
 .	24b-	.
 .	24ddJ	.
+!	!LO:TUP:a:r=8	!
 .	24ccL	.
 .	24b-	.
 .	24ffJJ	.
@@ -48,24 +52,28 @@
 .	32aa	.
 .	32bb-JJJ)	.
 =4	=4	=4
-.	(<32dd/qq 23ff/qq	.
-8FF 8FL>	8cc 8ee-L)	.
+.	(<32ddP/qq 23ffP/qq	.
+8FF 8FL>	8ccp 8ee-pL)	.
 8BB- 8B-J	8b- 8ddJ	.
 4r	4r	.
 =5	=5	=5
 4BB- 4D	(8.B-TL	p
 .	32cLL	.
 .	32dJJJ	.
+!	!LO:TUP:b:r=8	!
 4C/ 4E-/	24B-LL	.
 .	24A	.
 .	24cJ	.
+!	!LO:TUP:b:r=8	!
 .	24B-L	.
 .	24A	.
 .	24e-JJ	.
 =6	=6	=6
+!	!LO:TUP:b:r=8	!
 4D 4F	24cLL	.
 .	24B-	.
 .	24dJ	.
+!	!LO:TUP:b:r=8	!
 .	24cL	.
 .	24B-	.
 .	24fJJ	.
@@ -73,9 +81,11 @@
 .	8r	.
 =7	=7	=7
 *^	*	*
+!	!	!LO:TUP:a:r=8	!
 4ryy	4E-: 4G: 4c:	(24gLL	f
 .	.	24cc	.
 .	.	24ee-J	.
+!	!	!LO:TUP:a:r=8	!
 .	.	24ccL	.
 .	.	24ee-	.
 .	.	24ggJJ)	.
@@ -234,7 +244,7 @@
 16a	.	.
 16ccJJ	32bb-LL	.
 .	32aaJJJ	.
-16gLL	16ggLL)	.
+16gLL>	16ggLL)	.
 16cc	16ff'	.
 16b-	16een'	.
 16ccJJ	16gg'JJ	.
@@ -474,8 +484,8 @@
 32d	32bb-	.
 32g	32ccc	.
 32dJJJ	32dddJJJ)	.
-.	(32dddqq	.
-32cLLL	8ffnL)	.
+.	(32dddPqq	.
+32cLLL	8ffnpL)	.
 32fn	.	.
 32a	.	.
 32fJJJ	.	.
@@ -500,8 +510,8 @@
 16FF 16FJJ	.	.
 =35	=35	=35
 8BB- 8B-	(16c] 16e-LL]	.
-.	16dJJ)	p
-8GL	16r	.
+.	16dJJ)	.
+8GL	16r	p
 .	16b- 16dd	.
 8c	16r	.
 .	16a 16cc	.
@@ -608,7 +618,7 @@
 =43	=43	=43
 32dLLL	(16ccMLL	.
 32fn	.	.
-32en	16b-JJ)	.
+32en	16b-XJJ)	.
 32fJJJ	.	.
 32dLLL	16r	.
 32f	.	.
@@ -645,22 +655,27 @@
 2c	4A	(8.fTL	p
 .	.	32gLL	.
 .	.	32aJJJ	.
+!	!	!LO:TUP:b:r=8	!
 .	4B-	24fLL	.
 .	.	24en	.
 .	.	24gJ	.
+!	!	!LO:TUP:b:r=8	!
 .	.	24fL	.
 .	.	24e	.
 .	.	24b-JJ	.
 =46	=46	=46	=46
+!	!	!LO:TUP:b:r=8	!
 4c	4A	24gLL	.
 .	.	24f	.
 .	.	24aJ	.
+!	!	!LO:TUP:b:r=8	!
 .	.	24gL	.
 .	.	24f	.
 .	.	24ccJJ	.
 4r	4ryy	8a')	.
 .	.	8r	.
 =47	=47	=47	=47
+*	*	*Xtuplet	*
 4D: 4G:	4BB-:	(24gLL	f
 .	.	24b-	.
 .	.	24ddJ	.
@@ -677,9 +692,11 @@
 .	.	32eenJJJ	.
 *v	*v	*	*
 =48	=48	=48
+!LO:TUP:a	!	!
 (24FLL	4ff)	.
 24G	.	.
 24AJJ	.	.
+*Xtuplet	*	*
 24B-LL	.	.
 24c	.	.
 24dJJ	.	.
@@ -690,6 +707,9 @@
 24A	.	.
 24GJJ	.	.
 =49	=49	=49
+*	*tuplet	*
+*	*Xbrackettup	*
+!	!LO:TUP:a	!
 4F#)	24r	.
 .	(24aaLL	.
 .	24bb-JJ	.
@@ -705,6 +725,7 @@
 .	24ccJJ	.
 =50	=50	=50
 *tuplet	*	*
+!LO:TUP:a	!	!
 (24GLL	4b-)	.
 24B-	.	.
 24cJJ	.	.
@@ -820,11 +841,11 @@
 32gJJJ	.	.
 32cLLL	.	.
 32a	.	.
-32b-	32ddLL	.
+32b-X	32ddLL	.
 32aJJJ	32ccJJJ)	.
 32dLLL	8b-L	.
 32g	.	.
-32f#	.	.
+32f#X	.	.
 32gJJJ	.	.
 32dLLL	8attJ	.
 32f#	.	.
@@ -870,8 +891,8 @@
 .	16aqJJ	.
 *clefF4	*	*
 =61	=61	=61
-16r	8gL	p
-16G (16B-LK	.	.
+16r	8gL	.
+16G (16B-LK	.	p
 8B- 8dJ)	16r	.
 .	(>16gJk	.
 16r	8b-L)	.
@@ -971,11 +992,13 @@
 *clefG2	*	*
 *	*tuplet	*
 16r	16r	.
+!	!LO:TUP:a	!
 16b- 16cc	(48bb-LLL	p
 .	48gg	.
 .	48eenJJJ	.
 8a 8cc	8ff)	.
 16r	16r	.
+!	!LO:TUP:a	!
 16b- 16cc	(48bb-LLL	.
 .	48gg	.
 .	48eeJJJ	.
@@ -984,29 +1007,33 @@
 8r	16r	.
 .	(32ff#LLL	.
 .	32ggJJJ	<
-4r	32eenLLL	(
-.	32ffn	(
-.	32dd	(
-.	32ee-JJJ	(
-.	32cc#LLL	(
-.	32dd	(
-.	32bn	(
-.	32ccnJJJ)	[
+4r	32eenLLL	.
+.	32ffn	.
+.	32dd	.
+.	32ee-JJJ	.
+.	32cc#LLL	.
+.	32dd	.
+.	32bn	.
+.	32ccnJJJ)	[[
 *clefF4	*	*
 =70	=70	=70
 4B- 4d	(8.b-XTL	f
 .	32ccLL	.
 .	32ddJJJ	.
+!	!LO:TUP:a:r=8	!
 4c 4e-	24b-LL	.
 .	24a	.
 .	24ccJ	.
+!	!LO:TUP:a:r=8	!
 .	24b-L	.
 .	24a	.
 .	24ee-JJ	.
 =71	=71	=71
+!	!LO:TUP:a:r=8	!
 4d 4f	24ccLL	.
 .	24b-	.
 .	24ddJ	.
+!	!LO:TUP:a:r=8	!
 .	24ccL	.
 .	24b-	.
 .	24ffJJ	.
@@ -1024,24 +1051,28 @@
 .	32aa	.
 .	32bb-JJJ)	.
 =73	=73	=73
-.	(<16dd/qq 16ff/qq	.
-8FF 8FL	8cc) 8ee-L	.
+.	(<32ddP/qq 32ffP/qq	.
+8FF 8FL	8ccp) 8ee-pL	.
 8BB- 8B-J	8b- 8ddJ	.
 4r	4r	.
 =74	=74	=74
 4BB- 4D	(8.B-TL	p
 .	32cLL	.
 .	32dJJJ	.
+!	!LO:TUP:b:r=8	!
 4C 4E-	24B-LL	.
 .	24A	.
 .	24cJ	.
+!	!LO:TUP:b:r=8	!
 .	24B-L	.
 .	24A	.
 .	24e-JJ	.
 =75	=75	=75
+!	!LO:TUP:b:r=8	!
 4D 4F	24cLL	.
 .	24B-	.
 .	24dJ	.
+!	!LO:TUP:b:r=8	!
 .	24cL	.
 .	24B-	.
 .	24fJJ	.
@@ -1049,9 +1080,11 @@
 .	8r	.
 =76	=76	=76
 *^	*	*
+!	!	!LO:TUP:a:r=8	!
 4ryy	4E-: 4G: 4c:	(24gLL	f
 .	.	24cc	.
 .	.	24ee-J	.
+!	!	!LO:TUP:a:r=8	!
 .	.	24ccL	.
 .	.	24ee-	.
 .	.	24ggJJ)	.
@@ -1340,11 +1373,11 @@
 32a	.	.
 32cc	16eee-'Jk	.
 32aJJJ	.	.
-32fLLL	(16dddLL	.
+32fLLL>	(16dddLL	.
 32cc	.	.
 32ee-	16ccc)	.
 32ccJJJ	.	.
-32fLLL	(16bb-X	.
+32fLLL>	(16bb-X	.
 32cc	.	.
 32ee-	16aaJJ)	.
 32ccJJJ	.	.
