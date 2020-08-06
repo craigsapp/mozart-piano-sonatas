@@ -88,6 +88,7 @@
 =8	=8	=8	=8
 *	*	*^	*
 4B-	4BB-	4ryy	4b-	.
+*	*	*Xbrackettup	*	*
 2.ryy	2.ryy	12r	4b-	p
 .	.	(12ddL	.	.
 .	.	12ffJ)	.	.
@@ -116,7 +117,7 @@
 4r	12r	4f	.
 .	(12aL	.	.
 .	12ccJ)	.	.
-4BB- 4B-	2.ryy	(12ddL	f
+4BB- 4B-	2.ryy	(>12ddL	f
 .	.	12ee-	.
 .	.	12ffJ	.
 4C 4c	.	12ee-L	.
@@ -186,10 +187,10 @@
 .	12aJ	.
 =17	=17	=17
 4B- 4d	4b-)	.
-.	(32eenqq	.
-4r	4ff)	pp
-.	(32aaqq	.
-2r	4bb-)	.
+.	(32eenPqq	.
+4r	4ffp)	pp
+.	(32aaPqq	.
+2r	4bb-p)	.
 .	4r	.
 *clefG2	*	*
 =18	=18	=18
@@ -212,12 +213,12 @@
 12B-L	4ff	.
 12d	.	.
 12fJ	.	.
-.	(32aaqq	.
-12B-L	4bb-)	p
+.	(32aaPqq	.
+12B-L	4bb-p)	p
 12d	.	.
 12fJ	.	.
-.	(32ccc#qq	.
-12B-L	4ddd)	.
+.	(32ccc#Pqq	.
+12B-L	4dddp)	.
 12d	.	.
 12fJ	.	.
 12B-L	4r	.
@@ -255,10 +256,11 @@
 12fJ)	.	.
 =22	=22	=22
 *	*tuplet	*
+!	!LO:TUP:a:br	!
 4g	12r	f
 .	(12cccL	.
-*	*Xtuplet	*
 .	12bb-XJ)	.
+*	*Xtuplet	*
 4en	12r	.
 .	(12aaL	.
 .	12ggJ)	.
@@ -345,8 +347,8 @@
 12A	.	.
 12cJ	.	.
 .	16aJk	.
-.	(32ccqq	.
-12EnL	4b-)	.
+.	(32ccPqq	.
+12EnL	4b-p)	.
 12G	.	.
 12cJ	.	.
 12EL	4g)	.
@@ -407,6 +409,7 @@
 12FJ	.	.
 =32	=32	=32
 *	*tuplet	*
+!	!LO:TUP:a:br	!
 4A	12r	.
 .	(12cccL	p
 .	12bb-J	.
@@ -441,6 +444,7 @@
 .	8eenJ)	.
 =35	=35	=35
 *	*tuplet	*
+!	!LO:TUP:a:br	!
 4a	12r	.
 .	(12cccL	p
 .	12bb-J	.
@@ -489,7 +493,7 @@
 =39	=39	=39
 8fL	4ff	.
 (8cc	.	.
-8a	2.ee-XTT	.
+8a	2.ee-XTT	fp
 8fJ)	.	.
 (8aL	.	.
 8f)	.	.
@@ -531,7 +535,7 @@
 .	8fJ)	.	.
 *v	*v	*	*
 =43	=43	=43
-*M8/2	*M8/2	*M8/2
+!!*M8/2	*M8/2	*M8/2
 *^	*	*
 2a;	2f	[2ff;	.
 *v	*v	*	*
@@ -559,8 +563,8 @@
 4r	(4ff	p
 4Bn 4g	4gg)	.
 =44	=44	=44
-*met(C|)	*met(C|)	*met(C|)
-*M2/2	*M2/2	*M2/2
+!!*M2/2	*M2/2	*M2/2
+!!*met(c|)	*met(c|)	*met(c|)
 2c 2g	(8ffL	.
 .	8ee-	.
 .	8dd	.
@@ -604,7 +608,7 @@
 .	8ffJ)	.
 =49	=49	=49
 *^	*	*
-2.ryy	4BB- 4B-	(8ee-L	.
+2.ryy	4BB-X 4B-X	(8ee-L	.
 .	.	8dd	.
 .	4D 4d	8cc	.
 .	.	8b-J)	.
@@ -797,7 +801,7 @@
 4A 4f	4ff)	.
 =73	=73	=73
 *^	*	*
-2B- 2f	2.ryy	(8ee-L	.
+2B-X 2f	2.ryy	(8ee-L	.
 .	.	8dd	.
 .	.	8cc	.
 .	.	8b-J)	.
@@ -884,7 +888,7 @@
 4r	12raa	4f	.
 .	(12aL	.	.
 .	12ccJ)	.	.
-4BB- 4B-	2.ryy	(12ddL	f
+4BB- 4B-	2.ryy	(>12ddL	f
 .	.	12ee-	.
 .	.	12ffJ	.
 4C 4c	.	12ee-L	.
@@ -954,20 +958,20 @@
 .	12aJ	.
 =88	=88	=88
 4B- 4d	4b-)	.
-.	(32eenqq	.
-4r	4ff)	pp
-.	(32aaqq	.
-4r	4bb-)	.
-(32Enqq	(32enqq	.
-4F)	4f)	f
+.	(32eenPqq	.
+4r	4ffp)	pp
+.	(32aaPqq	.
+4r	4bb-p)	.
+(32EnPqq	(32enPqq	.
+4Fp)	4fp)	f
 =89	=89	=89
-(32Gqq	(32gqq	.
-4A-)	4a-)	.
+(32GPqq	(32gPqq	.
+4A-p)	4a-p)	.
 4r	4r	.
 2r	2r	.
 *clefG2	*	*
 =90	=90	=90
-!LO:TX:i:t=legato	!	!
+!LO:TX:i:b:t=legato	!	!
 8e-L	2b-	p
 8g	.	.
 8e-	.	.
@@ -1079,16 +1083,17 @@
 =101	=101	=101
 4e-	4ee-	.
 4r	4r	.
-.	(32ff#qq	.
-2r	4gg)	p
-.	(32ff#qq	.
-.	4gg)	.
+.	(32ff#Pqq	.
+2r	4ggp)	p
+.	(32ff#Pqq	.
+.	4ggp)	.
 =102	=102	=102
 *tuplet	*tuplet	*
+!	!LO:TUP:a	!
 (12dL	(12bnL	f
 12f	12dd	.
-*Xtuplet	*Xtuplet	*
 12a-J	12ffnJ	.
+*Xtuplet	*Xtuplet	*
 12bnL	12aa-L	.
 12a-	12ff	.
 12fJ	12ddJ	.
@@ -1101,10 +1106,10 @@
 =103	=103	=103
 4e-	4cc)	.
 4r	4r	.
-.	(32eenqq	.
-2r	4ff)	p
-.	(32eeqq	.
-.	4ff)	.
+.	(32eenPqq	.
+2r	4ffp)	p
+.	(32eePqq	.
+.	4ffp)	.
 =104	=104	=104
 (12cL	(12anL	f
 12e-	12cc	.
@@ -1173,6 +1178,7 @@
 2r	2r	(>12fL	.
 .	.	12a	.
 .	.	12ccJ	.
+!	!	!LO:TUP:a	!
 .	.	12ffL	.
 .	.	12aa	.
 .	.	12cccJ	.
@@ -1182,6 +1188,7 @@
 (12GGL	4bb-)	.
 12BB-	.	.
 12EnJ	.	.
+!LO:TUP:a	!	!
 12GL	4r	.
 12B-	.	.
 12enJ	.	.
@@ -1189,7 +1196,7 @@
 4g)	(12bb-L	.
 .	12gg	.
 .	12eenJ	.
-4r	12ccL	.
+4r	12ccL<	.
 .	12b-	.
 .	12gJ	.
 =111	=111	=111
@@ -1197,7 +1204,7 @@
 (12fL	4a)	.
 12c	.	.
 12AJ	.	.
-12FL	4r	.
+12FL<	4r	.
 12C	.	.
 12AAJ	.	.
 4FF)	(12fL	.
@@ -1306,7 +1313,7 @@
 .	8eenJ)	.
 =123	=123	=123
 *tuplet	*	*
-!LO:TX:i:t=legato	!	!
+!LO:TX:i:b:t=legato	!	!
 12fL	4a: 4cc: 4ff:	.
 12g	.	.
 12fJ	.	.
@@ -1328,8 +1335,8 @@
 12d	.	.
 12fJ	.	.
 .	16ddJk	.
-.	(32ffqq	.
-12AL	4ee-)	.
+.	(32ffPqq	.
+12AL	4ee-p)	.
 12c	.	.
 12fJ	.	.
 12AL	4cc)	.
@@ -1363,8 +1370,8 @@
 12d	.	.
 12fJ	.	.
 .	16ddJk	.
-.	(32ffqq	.
-12AL	4ee-)	.
+.	(32ffPqq	.
+12AL	4ee-p)	.
 12c	.	.
 12fJ	.	.
 12AL	4cc)	.
@@ -1391,6 +1398,7 @@
 12BB-J	.	.
 =128	=128	=128
 *	*tuplet	*
+!	!LO:TUP:a:br	!
 4D	12r	.
 .	(12ffL	p
 .	12ee-J	.
@@ -1425,10 +1433,11 @@
 .	8aJ)	.
 =131	=131	=131
 *	*tuplet	*
+!	!LO:TUP:a:br	!
 4d	12r	.
 .	(12ffL	p
-*	*Xtuplet	*
 .	12ee-J	.
+*	*Xtuplet	*
 4r	12ddL)	.
 .	(12dd	.
 .	12ccJ	.
@@ -1646,7 +1655,7 @@
 4r	12r	4f	.
 .	(12aL	.	.
 .	12ccJ)	.	.
-4BB- 4B-	2.ryy	(12ddL	f
+4BB- 4B-	2.ryy	(>12ddL	f
 .	.	12ee-	.
 .	.	12ffJ	.
 4C 4c	.	12ee-L	.
@@ -1716,35 +1725,35 @@
 .	12aJ	.
 =159	=159	=159
 4B- 4d	4b-)	.
-.	(32eeqq	.
-4r	4ff)	pp
-.	(32aaqq	.
-4r	4bb-)	.
+.	(32eePqq	.
+4r	4ffp)	pp
+.	(32aaPqq	.
+4r	4bb-p)	.
 4F 4e-	(12ee-L	.
 .	12cc	.
 .	12aJ	.
 =160	=160	=160
 4B- 4d	4b-)	.
-.	(32eenqq	.
-4r	4ff)	.
-.	(32aaqq	.
-4r	4bb-)	.
+.	(32eenPqq	.
+4r	4ffp)	.
+.	(32aaPqq	.
+4r	4bb-p)	.
 4F 4e-	(12ee-L	.
 .	12cc	.
 .	12aJ	.
 =161	=161	=161
 4B- 4d	4b-)	.
-.	(32eenqq	.
-4r	4ff)	.
-.	(32aaqq	.
-4r	4bb-)	.
-(32Enqq	(32enqq	.
-4F)	4f)	f
+.	(32eenPqq	.
+4r	4ffP)	.
+.	(32aaPqq	.
+4r	4bb-p)	.
+(32EnPqq	(32enPqq	.
+4Fp)	4fp)	f
 =162	=162	=162
-(32Aqq	(32aqq	.
-4B-)	4b-)	.
+(32APqq	(32aPqq	.
+4B-p)	4b-p)	.
 4r	4r	.
-==	==	==
+==!!	==!!	==!!
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
