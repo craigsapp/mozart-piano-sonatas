@@ -5,7 +5,7 @@
 !!!SCT1: K<sup>1</sup> 281
 !!!SCT2: K<sup>6</sup> 189f
 !!!OMV: 2
-!!!OMD: Andante amoroso
+!!!OMD: Andante amoroso.
 !!!ODT: 1774///
 **kern	**dynam	**kern	**dynam
 *staff2	*	*staff1	*staff1/2
@@ -74,6 +74,7 @@
 .	.	16gg	.
 8r	.	16ff	.
 .	.	16ddJJ)	.
+!!LO:LB:g=z
 =12	=12	=12	=12
 !	!	!LO:TUP:b	!
 8E- 8e-	.	(24ee-LL>	f)
@@ -152,6 +153,7 @@
 16e-	.	16aa	.
 16An	.	16ff	.
 16cJJ	.	16ee-JJ	.
+!!LO:LB:g=z
 =21	=21	=21	=21
 16B-LL	.	8dd)	.
 16d	.	.	.
@@ -216,6 +218,7 @@
 8dL	.	8ffL	.
 8e-J)	.	8ggJ)	.
 8c'	.	8ee-'	.
+!!LO:LB:g=z
 =30	=30	=30	=30
 8FF 8F	.	8r	f
 !LO:TUP:a	!	!LO:TUP:a	!
@@ -291,6 +294,7 @@
 24DLL	.	8bb-'J	.
 24F	.	.	.
 24B-JJ	.	.	.
+!!LO:LB:g=z
 =37	=37	=37	=37
 24E-LL	.	(16aanLL	.
 24G	.	.	.
@@ -363,6 +367,7 @@
 24An	.	.	.
 .	.	16ccJJ)	.
 24e-XJJ	.	.	.
+!!LO:LB:g=z
 =43	=43	=43	=43
 *	*	*Xtuplet	*
 8B- 8d	.	(24b-LL	f
@@ -425,7 +430,7 @@
 .	.	16ddqJJ	.
 =49	=49	=49	=49
 8B- 8g	.	24ee-'LL)	.
-!	!	!	!LO:dy:ed=paren
+!	!	!	!LO:DY:ed=paren
 .	.	(24an	p
 .	.	24b-JJ	.
 8r	.	24ccLL	.
@@ -434,6 +439,7 @@
 8r	.	24ccLL	.
 .	.	24a	.
 .	.	24b-JJ)	.
+!!LO:LB:g=z
 =50	=50	=50	=50
 !	!	!	!LO:DY:ed=paren
 (24B-LL	.	(4bb-	f
@@ -496,6 +502,7 @@
 8BB- 8F	.	8d 8a-	.
 8r	.	8r	.
 8r	.	8r	.
+!!LO:LB:g=z
 =59	=59	=59	=59
 *	*	*tuplet	*
 *	*	*^	*
@@ -558,6 +565,7 @@
 8A-J)	.	24ccLL	8a-	.
 .	.	24dd	.	.
 .	.	24ccJJ)	.	.
+!!LO:LB:g=z
 =65	=65	=65	=65	=65
 *^	*	*	*	*
 (24B-LL	4.B-	.	4b-	4g	.
@@ -622,6 +630,7 @@
 8EE- 8E-	.	8e-)	.
 8r	.	8r	.
 8D-' 8G'	.	8B-' 8e-'	p
+!!LO:LB:g=z
 =73	=73	=73	=73
 8D-' 8G'	.	8B-' 8e-'	.
 8r	.	8r	.
@@ -672,10 +681,10 @@
 .	.	32ddd-	.
 16c	.	32eee-	.
 .	.	32ddd-JJ	.
-16en	.	8cccJ)	p
+16en	.	8cccJ)	.
 16cJJ	.	.	.
 =79	=79	=79	=79
-16fLL	.	8r	.
+16fLL	.	8r	p
 16c	.	.	.
 .	.	(32eenqq	.
 16A-	.	8ff)L	.
@@ -683,6 +692,7 @@
 .	.	(32eeqq	.
 16F	.	8ff)J	.
 16A-JJ	.	.	.
+!!LO:LB:g=z
 =80	=80	=80	=80
 16GLL	.	(16ffLL	.
 16B-	.	16een	.
@@ -739,6 +749,7 @@
 8AA-' 8A-'L	.	4.r	f
 8GG' 8G'	.	.	.
 8FF' 8F'J	.	.	.
+!!LO:LB:g=z
 =88	=88	=88	=88
 8EE- 8E-	.	8r	.
 *clefG2	*	*	*
@@ -811,6 +822,7 @@
 24f	.	.	.
 .	.	16ddJJ)	.
 24a-JJ	.	.	.
+!!LO:LB:g=z
 =95	=95	=95	=95
 24cLL	.	8ee-	.
 24e-	.	.	.
@@ -869,6 +881,7 @@
 24AAnLL	.	8e-) 8ee-J	.
 24C	.	.	.
 24G-JJ	.	.	.
+!!LO:LB:g=z
 =100	=100	=100	=100
 24BB-LL	.	4gtt	p
 24E-X	.	.	.
