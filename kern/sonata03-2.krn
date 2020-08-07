@@ -19,8 +19,8 @@
 *MM72	*	*MM72	*MM72
 =1-	=1-	=1-	=1-
 !	!LO:DY:a	!	!
-4EE- 4E-	f	8r	.
-.	.	8gg (8bb-L	p
+8EE- 8E-	f	8r	.
+8r	.	8gg (8bb-L	p
 8r	.	8ff 8aa-J	.
 =2	=2	=2	=2
 4.r	.	8ee- 8ggL	<
@@ -451,10 +451,10 @@
 24B-LL	.	8eentt	.
 24g	.	.	.
 24b-JJ)	.	.	.
-.	.	16ddqLL)	.
+.	.	16ddqLL	.
 .	.	16eeqJJ	.
 =51	=51	=51	=51
-8B- 8d 8a-	.	24ff'LL	.
+8B- 8d 8a-	.	24ff'LL)	.
 !	!	!	!LO:DY:ed=paren
 .	.	(24an	p
 .	.	24b-JJ	.
@@ -506,7 +506,7 @@
 =59	=59	=59	=59
 *	*	*tuplet	*
 *	*	*^	*
-8EE- 8E-	.	8r	8r	.
+8EE- 8E-	.	8r	8r	f
 8r	.	(24bb-LL	8ggL	p
 .	.	24ccc	.	.
 .	.	24bb-JJ	.	.
@@ -671,7 +671,7 @@
 .	.	(32cccPqq	.
 16e-	.	8ddd-p)L	.
 16B-	.	.	.
-.	.	(16cccPqq	.
+.	.	(32cccPqq	.
 16G	.	8ddd-p)J	.
 16B-JJ	.	.	.
 =78	=78	=78	=78
@@ -686,11 +686,11 @@
 =79	=79	=79	=79
 16fLL	.	8r	p
 16c	.	.	.
-.	.	(32eenqq	.
-16A-	.	8ff)L	.
+.	.	(32eenPqq	.
+16A-	.	8ff)pL	.
 16c	.	.	.
-.	.	(32eeqq	.
-16F	.	8ff)J	.
+.	.	(32eePqq	.
+16F	.	8ff)pJ	.
 16A-JJ	.	.	.
 !!LO:LB:g=z
 =80	=80	=80	=80
@@ -733,8 +733,8 @@
 =85	=85	=85	=85
 16fLL	.	8r	.
 16c	.	.	.
-.	.	(32bbnqq	.
-16A-	.	8cccL)	.
+.	.	(32bbnPqq	.
+16A-	.	8cccLp)	.
 16c	.	.	.
 16f	.	(32bb-LL	.
 .	.	32aa-	.
