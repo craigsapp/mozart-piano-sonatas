@@ -5,7 +5,7 @@
 !!!SCT1: K<sup>1</sup> 280
 !!!SCT2: K<sup>6</sup> 189e
 !!!OMV: 2
-!!!OMD: Adagio
+!!!OMD: Adagio.
 !!!ODT: 1774///
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -68,6 +68,7 @@
 4c]	.	8g 8b-L	.
 .	.	8f 8a-	.
 8B-X	.	8e 8gJ	.
+!!LO:LB:g=z
 =8	=8	=8	=8
 *	*	*^	*
 (4.B-	[4.F	(4.g	(4.en	f
@@ -77,7 +78,7 @@
 *v	*v	*	*	*
 *	*v	*v	*
 =9	=9	=9
-!LO:TX:i:t=legato	!	!
+!LO:TX:i:b:t=legato	!	!
 16E-XLL	8a-	p
 16A-	.	.
 16c	8r	.
@@ -142,6 +143,7 @@
 16A-	.	.
 16F-	8r	.
 16A-JJ	.	.
+!!LO:LB:g=z
 =14	=14	=14
 16E-LL	(4.gg	p
 16G	.	.
@@ -208,6 +210,7 @@
 16b-	.	.
 16dd-	8gg'J	.
 16b-JJ	.	.
+!!LO:LB:g=z
 =19	=19	=19
 16fLL	4aa-	f
 16a-	.	.
@@ -270,6 +273,7 @@
 8r	8r	.
 8r	8r	.
 *	*clefG2	*clefG2
+!!LO:LB:g=z
 =25:|!|:	=25:|!|:	=25:|!|:
 *>B	*>B	*>B
 2.r	8.ee-TL	p
@@ -314,6 +318,7 @@
 16B-	.	16dd-	.
 16c	.	16ee-	.
 16B-JJ	.	16dd-JJ	.
+!!LO:LB:g=z
 =30	=30	=30	=30
 [4.An)	16gg-LL]	[4.cc)	.
 .	(16gg-	.	.
@@ -359,6 +364,7 @@
 8r	8gJ	.
 4r	(>4g	.
 8r	8cc)	.
+!!LO:LB:g=z
 =34	=34	=34
 *	*^	*
 [4.F [4.A-	[4.cc	8.dnL	.
@@ -394,8 +400,9 @@
 .	.	16a-k	.
 .	.	8gJ	.
 8B-] 8d-]	8ffL]	8g	.
-8r	8ee-X	8r	.
-8r	8dd-J	8r	.
+8r	8ee-X	8re	.
+8r	8dd-J	8re	.
+!!LO:LB:g=z
 =39	=39	=39	=39
 8.cL	[4.cc	[4.en [4.g	p
 16d-k	.	.	.
@@ -428,7 +435,7 @@
 *v	*v	*	*	*
 *	*v	*v	*
 =43	=43	=43
-!LO:TX:i:t=legato	!	!
+!LO:TX:i:b:t=legato	!	!
 16FLL	8cc	p
 16A-	.	.
 16c	8r	.
@@ -441,6 +448,7 @@
 16G-	.	.
 16E-	8cc	.
 16G-JJ	.	.
+!!LO:LB:g=z
 =44	=44	=44
 16D-LL	(4.cc	f
 16F	.	.
@@ -461,8 +469,8 @@
 16D-	.	.
 16BB-	8b-	.
 16D-JJ	.	.
-.	(32a-qq	.
-16BB-LL	8g-X)	.
+.	(32a-Pqq	.
+16BB-LL	8g-Xp)	.
 16D-	.	.
 16B-	8r	.
 16D-	.	.
@@ -494,6 +502,7 @@
 16F	.	.
 16D-	8r	.
 16FJJ	.	.
+!!LO:LB:g=z
 =48	=48	=48
 16CLL	(4.een	p
 16En	.	.
@@ -515,8 +524,8 @@
 16d	.	.
 16B	.	.
 16dJJ	.	.
-.	32ggqq	.
-16BLL	8ff)	.
+.	32ggPqq	.
+16BLL	8ffp)	.
 16d	.	.
 16a-	8r	.
 16d	.	.
@@ -548,6 +557,7 @@
 16d-	.	.
 16B-	8dd-'J	.
 16d-JJ	.	.
+!!LO:LB:g=z
 =52	=52	=52
 16cLL	8r	.
 16f	.	.
@@ -575,8 +585,8 @@
 16B-	(16bb-	.
 16d-JJ	16ggJJ)	.
 =54	=54	=54
-.	(32ggqq	.
-16cLL	4.ff)	p
+.	(32ggPqq	.
+16cLL	4.ffp)	p
 16f	.	.
 16a-	.	.
 16f	.	.
@@ -604,6 +614,7 @@
 16F	.	.
 16D	8bnJ)	.
 16FJJ	.	.
+!!LO:LB:g=z
 =56	=56	=56
 8C	(16ccLL	f
 .	16dd-X	.
@@ -662,7 +673,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/25
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/15
+!!!EEV: 2020/08/15
 !!!EFL: 5/69
 !!!AGN: piano sonata
 !!!AFR: siciliana
