@@ -8,7 +8,7 @@
 !!!OMD: Allegro.
 !!!ODT: 1774///
 **kern	**kern	**dynam
-*staff2	*staff1	*staff1
+*staff2	*staff1	*staff1/2
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
@@ -943,8 +943,8 @@
 16g	.	.
 16f#	.	.
 16gJJ	.	.
-4G)	16dd' 16bb'LL	f
-.	(16gg	.
+4G)	16dd' 16bb'LL	.
+.	(16gg	f
 .	16ff#	.
 .	16ggJJ	.
 4r	16cccLL	.
@@ -1328,8 +1328,8 @@
 8r	16ffLL	.
 .	16ee	.
 8f#	16dd	.
-.	16ccnJJ	.
-(16GLL	4b)	.
+.	16ccnJJ)	.
+(16GLL	4b	.
 16g	.	.
 16f#	.	.
 16gJJ)	.	.
