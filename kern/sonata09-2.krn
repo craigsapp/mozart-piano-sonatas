@@ -5,8 +5,8 @@
 !!!SCT1: K<sup>1</sup> 311
 !!!SCT2: K<sup>6</sup> 284c
 !!!OMV: 2
+!!!ODT: 1777
 !!!OMD: Andante con espressione
-!!!ODT: 1777///
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
 *clefF4	*clefG2	*clefG2
@@ -16,10 +16,10 @@
 *MM84	*MM84	*MM84
 =1-	=1-	=1-
 *^	*	*
-2d	(4G	(8b/L	p
-.	.	32dd/qq	.
-.	.	16.cc/L	.
-.	.	32b/JJk	.
+2d	(4G	(8bL>	p
+.	.	32ddqq	.
+.	.	16.ccL	.
+.	.	32bJJk	.
 .	8F#L	8aL	.
 .	8GJ	8bJ)	.
 =2	=2	=2	=2
@@ -46,7 +46,7 @@
 .	.	8f#) 8aJ	.
 =5	=5	=5	=5
 2d	(4G	(8bL	.
-.	.	(32dd/qq	.
+.	.	(32ddqq	.
 .	.	16.ccL)	.
 .	.	32bJJk	.
 .	8F#L	8aL	.
@@ -60,6 +60,7 @@
 .	.	16a	.
 .	.	16gJJ)	.
 *v	*v	*	*
+!!LO:LB:g=z
 =7	=7	=7
 *	*^	*
 8E' 8e'L	8g' 8cc'L	4ryy	f
@@ -75,8 +76,8 @@
 (8gL	4d	(8bL	.
 8f#J)	.	8aTJ	.
 *clefF4	*clefF4	*	*
-.	.	32gq/LLL	.
-.	.	32aq/JJJ	.
+.	.	32gqLLL	.
+.	.	32aqJJJ	.
 (16GLL	4G	4g)	.
 16B	.	.	.
 16d	.	.	.
@@ -91,7 +92,7 @@
 16A	.	(16f#	.
 16cJJ)	.	16dJJ)	.
 =10	=10	=10	=10
-(16GLL	4G	4b	.
+(16GLL	4G	4b/	.
 16B	.	.	.
 16d	.	.	.
 16BJJ)	.	.	.
@@ -99,8 +100,8 @@
 16G	.	.	.
 16B	.	(8gTJ	.
 16GJJ)	.	.	.
-.	.	32f#q/LLL	.
-.	.	32gq/JJJ	.
+.	.	32f#qLLL	.
+.	.	32gqJJJ	.
 =11	=11	=11	=11
 (16CLL	4C	8aL)	.
 16E	.	.	.
@@ -115,14 +116,15 @@
 4G 4B	4g	.
 8BB 8F# 8AL	8d#L	.
 8BB 8F# 8AJ	8d#J	.
+!!LO:LB:g=z
 =13	=13	=13
 4E 4G	(16eLL	.
 .	16f#	.
 .	16g	.
 .	16eJJ)	.
-8AA\ 8E\ 8GL\	(16dnLL	.
+8AA 8E 8GL<	(16dnLL	.
 .	16c#)	.
-8AA\ 8E\ 8GJ\	(16c#	.
+8AA 8E 8GJ	(16c#	.
 .	16AJJ)	.
 =14	=14	=14
 4D 4F#	4a	.
@@ -170,14 +172,15 @@
 16dJJ)	32ff#	.
 .	32ggJJJ)	.
 *clefF4	*	*
+!!LO:LB:g=z
 =20	=20	=20
 (16A#LL	(16ggLL	.
 16c#	16ff#J)	.
 16e	8.ff#J	.
 16A#JJ)	.	.
 (16BLL	.	.
-.	(32ff#q/LLL	.
-.	32ggq/JJJ	.
+.	(32ff#qLLL	.
+.	32ggqJJJ	.
 16f#	16aa'LL)	.
 16An	16gg'	.
 16dJJ)	16ff#'JJ	.
@@ -191,9 +194,9 @@
 16d	8eeJ	.
 16BJJ)	.	.
 =22	=22	=22
-.	(32gg#/qLLL	.
-.	32aa/q	.
-.	32bb/qJJJ	.
+.	(32gg#qLLL	.
+.	32aaq	.
+.	32bbqJJJ	.
 (16GnLL	[4aa)	.
 16c#	.	.
 16e	.	.
@@ -222,10 +225,11 @@
 .	16dd	.
 .	16eeJJ)	.
 *clefG2	*	*
+!!LO:LB:g=z
 =25	=25	=25
 (16ddLL	(8ff#L	p
 16a	.	.
-.	32aa/qq	.
+.	32aaqq	.
 16dd	16.ggL	.
 16aJJ	.	.
 .	32ff#JJk	.
@@ -244,7 +248,7 @@
 16aJJ	.	.
 =27	=27	=27
 (8d 8f#L	2aaTT	mf
-32a/qq	.	.
+32aqq	.	.
 16.e 16.gL	.	.
 32d) 32f#JJk	.	.
 (8c# 8eL	.	.
@@ -254,8 +258,8 @@
 8f# 8a	.	.
 8e 8g	.	.
 8d) 8f#J	.	.
-.	32gg#q/LLL	.
-.	32aaq/JJJ	.
+.	32gg#qLLL	.
+.	32aaqJJJ	.
 =29	=29	=29
 (8f# 8aL	8dd (8dddL	f
 8e 8g 8a#J	8cc# 8ccc#J	.
@@ -278,6 +282,7 @@
 .	32gg	.
 .	32ff#	.
 .	32eeJJJ)	.
+!!LO:LB:g=z
 =32	=32	=32
 *^	*	*
 (8f#L	4A	(8ddL	.
@@ -289,16 +294,16 @@
 =33	=33	=33
 (8f# 8aL	(8dddL	p
 8e 8f# 8a#J	8ccc#tJ	.
-.	32bbq/LLL	.
-.	32ccc#q/JJJ	.
+.	32bbqLLL	.
+.	32ccc#qJJJ	.
 8d) 8f# 8b	8bb)	.
 8r	16r	.
 .	16ff#	f
 =34	=34	=34
 (8d 8f#L	(8bbL	.
 8cn 8d 8f#J	8aaTJ	.
-.	32eeq/LLL	.
-.	32ff#q/JJJ	.
+.	32eeqLLL	.
+.	32ff#qJJJ	.
 8B) 8d 8g	8gg)	.
 8r	16r	.
 .	16dd	p
@@ -306,13 +311,14 @@
 =35	=35	=35
 8B (8dL	(8ggL	.
 8A 8cn 8d#J)	8ff#tJ)	.
-.	32eeq/LLL	.
-.	32ff#q/JJJ	.
+.	32eeqLLL	.
+.	32ff#qJJJ	.
 4G 4B 4e	(16eeLL	.
 .	16bbJJ)	.
+!	!	!LO:HP:b
 .	(32aaLLL	>
-.	32gg	)
-.	32ff#	)
+.	32gg	.
+.	32ff#	.
 .	32eeJJJ)	]
 =36	=36	=36
 8A 8dn 8f#	(16ddLL	p
@@ -323,14 +329,15 @@
 8r	16ggn	.
 .	16ff#JJ)	.
 =37	=37	=37
+!	!LO:TUP:a	!
 8A 8d 8e	(24bbLL	.
 .	24gg	.
 .	24eeJJ)	.
 8r	4.eeTT	f
 8A 8c# 8g	.	.
 8r	.	.
-.	32ddq/LLL	.
-.	32eeq/JJJ	.
+.	32ddqLLL	.
+.	32eeqJJJ	.
 =38	=38	=38
 4d 4f#	(16ddLL	.
 .	16cc#	p
@@ -340,20 +347,21 @@
 .	16ccn	.
 .	16b	.
 .	16a#JJ)	.
+!!LO:PB:g=z
 =39	=39	=39
 *^	*	*
-2d	(8GL	(8b/L	p
-.	.	32dd/qq	.
-.	16.AL	16.cc/L	.
-.	32GJJk	32b/JJk	.
+2d	(8GL	(8bL>	p
+.	.	32ddqq	.
+.	16.AL	16.ccL	.
+.	32GJJk	32bJJk	.
 .	8F#L	8anL	.
 .	8GJ)	8bJ)	.
 =40	=40	=40	=40
 2d	(8AL	(8ccL	.
-.	.	32ddq/LLL	.
-.	.	32ccq/	.
-.	.	32bq/	.
-.	.	32ccq/JJJ	.
+.	.	32ddqLLL	.
+.	.	32ccq	.
+.	.	32bq	.
+.	.	32ccqJJJ	.
 .	16cL	16eeL	.
 .	16BJJ	16ddJJ	.
 .	8AL	8ccL	.
@@ -374,14 +382,14 @@
 (8GL	4D	(8bL	.
 8F#J)	.	8aJ)	.
 =43	=43	=43	=43
-2d	(<8GL	(8b/L	.
-.	.	32ccq/LLL	.
-.	.	32bq/	.
-.	.	32aq/	.
-.	.	32bq/JJJ	.
-.	32B/qq	32dd/qq	.
-.	16.AL	16.cc/L	.
-.	32GJJk	32b/JJk	.
+2d	(8GL	(8bL>	.
+.	.	32ccqLLL	.
+.	.	32bq	.
+.	.	32aq	.
+.	.	32bqJJJ	.
+.	32Bqq	32ddqq	.
+.	16.AL	16.ccL	.
+.	32GJJk	32bJJk	.
 .	8F#L	8aL	.
 .	8G#J)	8bJ)	.
 =44	=44	=44	=44
@@ -401,16 +409,17 @@
 8C' 8c'	(16eeLL	8g	.
 .	16ff#	.	p
 *clefG2	*	*	*
-16r	16gg	8r	.
+16r	16gg	8re	.
 16e 16g	16ccJJ)	.	.
 *	*v	*v	*
+!!LO:LB:g=z
 =46	=46	=46
 *^	*	*
 (8gL	4d	(8bL	.
 8f#J)	.	8aJT)	.
 *clefF4	*	*	*
-.	.	32gq/LLL	.
-.	.	32aq/JJJ	.
+.	.	32gqLLL	.
+.	.	32aqJJJ	.
 (16GLL	4G	4g	.
 16B	.	.	.
 16d	.	.	.
@@ -433,8 +442,8 @@
 16G	.	.	.
 16B	.	.	.
 16GJJ)	.	(16gTJk	.
-.	.	32f#q/LLL	.
-.	.	32gq/JJJ	.
+.	.	32f#qLLL	.
+.	.	32gqJJJ	.
 =49	=49	=49	=49
 (16CLL	4C	16bLL	.
 16E	.	16aJ)	.
@@ -460,6 +469,7 @@
 .	(16.btLL	f
 .	32ccnJJk	.
 *clefF4	*	*
+!!LO:LB:g=z
 =53	=53	=53
 (16GLL	8ddL)	.
 16B	.	.
@@ -497,8 +507,8 @@
 16A	8.bJ	.
 16D#JJ)	.	.
 (16ELL	.	.
-.	(32bq/LLL	.
-.	32ccq/JJJ	.
+.	(32bqLLL	.
+.	32ccqJJJ	.
 16B	16dd'LL)	.
 16Dn	16cc'	.
 16GJJ)	16b'JJ	.
@@ -511,10 +521,11 @@
 16E	.	.
 16G	8aJ	.
 16EJJ)	.	.
+!!LO:LB:g=z
 =58	=58	=58
-.	(32cc#q/LLL	.
-.	32dd/q	.
-.	32eeq/JJJ	.
+.	(32cc#qLLL	.
+.	32ddq	.
+.	32eeqJJJ	.
 (16CnLL	[4dd)	.
 16F#	.	.
 16A	.	.
@@ -546,13 +557,13 @@
 =61	=61	=61
 (16gLL	(8bL	p
 16d	.	.
-.	32dd/qq	.
+.	32ddqq	.
 16g	16.ccL	.
 16dJJ	.	.
 .	32bJJk)	.
-16f#LL	(8a\L	.
+16f#LL	(8aL<	.
 16d	.	.
-16g	8bJ\)	.
+16g	8bJ)	.
 16dJJ	.	.
 =62	=62	=62
 16aLL	(8ccL	.
@@ -566,18 +577,19 @@
 *clefF4	*	*
 =63	=63	=63
 8G 8BL	[2dddTT	mf
-32d/qq	.	.
+32dqq	.	.
 16.A 16.cL	.	.
 32G 32BJJk	.	.
 8F# (8AL	.	.
 8G 8BJ)	.	.
+!!LO:LB:g=z
 =64	=64	=64
 8A (8cL	2dddTTT]	.
 8B 8d	.	.
 8A 8c	.	.
 8G 8BJ)	.	.
-.	32ccc#q/LLL	.
-.	32dddq/JJJ	.
+.	32ccc#qLLL	.
+.	32dddqJJJ	.
 =65	=65	=65
 8B (8dL	(8g 8ggL	f
 8A 8c 8d#J	8f# 8ff#J	.
@@ -609,8 +621,8 @@
 =69	=69	=69
 8B (8dL	(8ggL	p
 8A 8cn 8d#J	8ff#tJ	.
-.	32eeq/LLL	.
-.	32ff#q/JJJ	.
+.	32eeqLLL	.
+.	32ff#qJJJ	.
 8G 8B 8e)	8ee)	.
 8r	16r	.
 .	16bb	f
@@ -618,16 +630,17 @@
 =70	=70	=70
 (8g 8bL	(8eeeL	.
 8fn 8g 8bJ	8dddTJ	.
-.	32cccq/LLL	.
-.	32dddq/JJJ	.
+.	32cccqLLL	.
+.	32dddqJJJ	.
 8e) 8g 8cc	8ccc)	.
 8r	16r	.
 .	16gg	p
+!!LO:LB:g=z
 =71	=71	=71
 (8e 8gL	(8cccL	.
 8d 8fn 8g#J	8bbtJ)	.
-.	32aaq/LLL	.
-.	32bbq/JJJ	.
+.	32aaqLLL	.
+.	32bbqJJJ	.
 4c 4e 4a)	(16aaLL	.
 .	16eeeJJ)	.
 .	(32dddLLL	.
@@ -654,8 +667,8 @@
 .	32aaJJJ)	.
 8d 8f#X 8cc	(4aaTT	f
 8r	.	.
-.	32ggq/LLL	.
-.	32aaq/JJJ	.
+.	32ggqLLL	.
+.	32aaqJJJ	.
 =74	=74	=74
 8g 8b	32gg)	.
 .	(32ggLLL	.
@@ -671,23 +684,24 @@
 .	32eeJJJ	.
 .	32ff#LLL	.
 .	32ee	.
-.	32ddn)	.
-.	32ccJJJ	.
+.	32ddn	.
+.	32ccJJJ)	.
 *clefF4	*	*
+!!LO:PB:g=z
 =75	=75	=75
 *^	*	*
-4d	(8GL	(16b/LL	p
-.	.	64cc/LL	.
-.	.	64b/	.
-.	.	64cc/	.
-.	.	64b/JJJJ	.
-.	.	32dd/qq	.
-.	16.AL	16.cc/LL	.
-.	32GJJk)	[32b/JJk	.
+4d	(8GL	(16bLL>	p
+.	.	64ccLL	.
+.	.	64b	.
+.	.	64cc	.
+.	.	64bJJJJ	.
+.	.	32ddqq	.
+.	16.AL	16.ccLL>	.
+.	32GJJk)	[32bJJk	.
 4d	(8F#L	16bLK]	.
 .	.	8a	.
 .	8GJ)	.	.
-.	.	[16bJk)	.
+.	.	[>16bJk)	.
 =76	=76	=76	=76
 4d	(8AL	(16bLK]	.
 .	.	8cc	.
@@ -716,11 +730,11 @@
 4d	4D	(8g 8bL	.
 .	.	8f#) 8aJ	.
 =79	=79	=79	=79
-4d	(8GL	(16a#/LL	.
-.	.	16b/	.
-.	.	(32dd/qq	.
-.	16AL	16cc/)	.
-.	16GJJ)	16bJJ)/	.
+4d	(8GL	(16a#LL>	.
+.	.	16b	.
+.	.	(32ddqq	.
+.	16AL	16cc)	.
+.	16GJJ)	16bJJ)	.
 4ryy	8F# 8dL	(16g#LL	.
 .	.	16anJJ)	.
 .	8G 8dJ	16r	.
@@ -738,6 +752,7 @@
 .	64ddLL	.
 .	64ccJJJ	.
 .	8bJ)	.
+!!LO:LB:g=z
 =81	=81	=81
 8E' 8e'L	8g' 8cc'L	f
 8D' 8d'J	8g' 8b'J	.
@@ -749,8 +764,8 @@
 *^	*	*
 (8gL	4d	(8bL	.
 8f#J)	.	8aJT)	.
-.	.	32gq/LLL	.
-.	.	32aq/JJJ	.
+.	.	32gqLLL	.
+.	.	32aqJJJ	.
 (16GLL	4G	4g	.
 16B	.	.	.
 16d	.	.	.
@@ -784,42 +799,43 @@
 16cJJ)	.	16dJJ)	.
 *v	*v	*	*
 =86	=86	=86
-16GG/LL	4g	.
-(>16G/	.	.
-16B/	.	.
-16d/JJ)	.	.
-16EE/LL	4g 4gg	.
-(>16E/	.	.
-16G/	.	.
-16B/JJ)	.	.
+16GGLL>	4g	.
+(>16G	.	.
+16B	.	.
+16dJJ)	.	.
+16EELL	4g 4gg	.
+(>16E	.	.
+16G	.	.
+16BJJ)	.	.
 =87	=87	=87
-.	(<16b/qq 16bb/qq	.
+.	(<16bqq 16bbqq/	.
 16CCLL	4a 4aa)	<
 (>16C	.	.
 16E	.	.
 16AJJ)	.	.
-16DD/LL	(16g 16ggLL	.
-(>16D/	16f#) 16ff#	.
-16A/	(16f# 16ff#	.
-16c/JJ)	16d) 16ddJJ	.
+16DDLL>	(16g 16ggLL>	.
+(>16D	16f#) 16ff#	.
+16A	(16f# 16ff#	.
+16cJJ)	16d) 16ddJJ	.
+!!LO:LB:g=z
 =88	=88	=88
 16BBBLL	4dd 4ddd	.
-(>16/BB	.	.
-16D/	.	.
-16G/JJ)	.	.
-16EE/LL	8g 8ggL	f
-(>16E/	.	.
-16G/	8g 8ggJ	.
-16B/JJ)	.	.
+(>16BB	.	.
+16D	.	.
+16GJJ)	.	.
+16EELL	8g 8ggL	f
+(>16E	.	.
+16G	8g 8ggJ	.
+16BJJ)	.	.
 =89	=89	=89
 16CCLL	16b (16bbLL	.
 (>16C	16a 16aa)	.
 16E	16a' 16aa'	.
 16AJJ)	16a' 16aa'JJ	.
-16DD/LL	(16g 16ggLL	.
-(>16D/	16f#) 16ff#	.
-16A/	(16f# 16ff#	.
-16c/JJ)	16d) 16ddJJ	.
+16DDLL>	(16g 16ggLL>	.
+(>16D	16f#) 16ff#	.
+16A	(16f# 16ff#	.
+16cJJ)	16d) 16ddJJ	.
 =90	=90	=90
 16GLL	4g 4gg	.
 16B 16d	.	.
@@ -864,8 +880,8 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2021/01/05
 !!!EFL: 38/69
 !!!AGN: piano sonata
-!!!AFR: 
+!!!AFR:
 !!!title: @{OTL}, K 311 (284c), mvmt. @{OMV}
