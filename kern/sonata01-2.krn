@@ -79,6 +79,7 @@
 12CL	.	(12eL	.
 12G	.	12g	.
 12B-J	.	12eJ)	.
+!!LO:LB:g=z
 =6	=6	=6	=6
 12AL	.	4f	f
 12c	.	.	.
@@ -104,6 +105,7 @@
 4FF 4F	.	(<12g 12b-L	2ryy	f
 .	.	12fn 12a	.	.
 .	.	12e) 12g#J	.	.
+*Xbrackettup	*	*	*	*
 *tuplet	*	*	*	*
 !LO:TUP:a	!	!	!	!
 12r	.	4f 4a	.	.
@@ -135,6 +137,7 @@
 .	.	.	12ggJ	.
 *clefG2	*	*	*	*
 *	*	*v	*v	*
+!!LO:LB:g=z
 =11	=11	=11	=11
 .	.	(>32ff#qLLL>	.
 .	.	32ggq	.
@@ -201,6 +204,7 @@
 .	.	.	12ee	.
 8Gn 8B	8F#	.	.	f
 .	.	.	12ddJ	.
+!!LO:LB:g=z
 =16	=16	=16	=16	=16
 4c	8EL	.	(12ggL	.
 .	.	.	12gg#	.
@@ -258,6 +262,7 @@
 .	.	.	12bnJ)	.	.
 *v	*v	*	*	*	*
 *	*	*v	*v	*
+!!LO:LB:g=z:pb
 =21	=21	=21	=21
 12r	.	16ff (16aaLK	f
 .	.	8.ee 8.ggJ)	.
@@ -316,6 +321,7 @@
 .	.	16ccLL	.
 12G 12BJ	.	.	.
 .	.	16ddJJ	.
+!!LO:LB:g=z
 =26	=26	=26	=26
 *^	*	*	*
 4ryy	4C 4c	.	12ccL	.
@@ -385,6 +391,7 @@
 12B-L	.	12gg'L	.
 12d	.	12ffn'	.
 12gJ	.	12ee'J)	.
+!!LO:LB:g=z
 =32	=32	=32	=32
 12AL	.	(4dd	.
 12d	.	.	.
@@ -442,6 +449,7 @@
 12c#	.	12ee	.
 12eJ	.	12cc#J)	.
 *clefG2	*	*	*
+!!LO:LB:g=z
 =37	=37	=37	=37
 12AL	.	4ccn	f
 12e-	.	.	.
@@ -455,6 +463,7 @@
 12f#J	.	.	.
 .	.	16ee-JJ)	.
 =38	=38	=38	=38
+*	*	*Xbrackettup	*
 *	*	*tuplet	*
 12B-' 12d' 12g'L	.	4dd	p
 (>12b-	.	.	.
@@ -512,6 +521,7 @@
 .	.	16ee	.
 .	.	16ddJJ)	.
 *clefF4	*	*	*
+!!LO:LB:g=z
 =43	=43	=43	=43
 .	.	(32ddqq/	.
 !LO:TX:b:i:t=legato	!	!	!
@@ -572,6 +582,7 @@
 12F	.	.	.
 .	.	8a	.
 12AJ	.	.	.
+!!LO:LB:g=z
 =48	=48	=48	=48
 12r	.	(12aL	.
 12Bn 12d 12fL	.	12gJ)	.
@@ -604,7 +615,7 @@
 .	.	12cccJ	.
 *clefG2	*	*	*
 =51	=51	=51	=51
-.	.	(32bbnqLLL>	.
+.	.	(>32bbnqLLL>	.
 .	.	32cccq	.
 .	.	32dddqJJJ	.
 *	*	*^	*
@@ -619,7 +630,7 @@
 12b-J)	.	.	12ggJ)	.
 *	*	*v	*v	*
 =52	=52	=52	=52
-.	.	(32dddqLLL>	.
+.	.	(>32dddqLLL>	.
 .	.	32cccq	.
 .	.	32bbnqJJJ	.
 *	*	*^	*
@@ -633,8 +644,9 @@
 12a	.	.	12ff	.
 12ccJ)	.	.	12aaJ)	.
 *	*	*v	*v	*
+!!LO:LB:g=z
 =53	=53	=53	=53
-.	.	(32bbnqLLL>	.
+.	.	(>32bbnqLLL>	.
 .	.	32cccq	.
 .	.	32dddqJJJ	.
 *	*	*^	*
@@ -693,6 +705,7 @@
 12DL	.	4r	.
 12E	.	.	.
 12FJ)	.	.	.
+!!LO:LB:g=z
 =58	=58	=58	=58
 4BBBn 4BBn	.	12r	f
 .	.	12g (12eeL	.
@@ -738,6 +751,7 @@
 12r	.	4ff 4aa	.
 12G# (12g#L	.	.	.
 12A 12aJ)	.	.	.
+!!LO:LB:g=z
 =62	=62	=62	=62
 *^	*	*^	*
 (4B-	4BB-	.	12r	4d	p
@@ -766,6 +780,7 @@
 12AA) 12AJ	.	.	.
 *clefG2	*	*	*
 =64	=64	=64	=64
+*	*	*brackettup	*
 *	*	*tuplet	*
 12r	.	(12aL	p
 12B- 12d 12fL	.	12gJ)	.
@@ -786,6 +801,7 @@
 12B 12d 12fL	.	4r	.
 12B 12d 12f	.	.	.
 12B 12d 12fJ	.	.	.
+!!LO:LB:g=z
 =66	=66	=66	=66
 *	*	*Xtuplet	*
 12r	.	(12g#L	p
@@ -833,6 +849,7 @@
 4r	.	(12aL	.
 .	.	12g)	.
 .	.	12a 12ccJ	.
+!!LO:LB:g=z
 =70	=70	=70	=70
 4FF 4F	.	(12g 12b-L	f
 .	.	12fn 12a	.
@@ -898,7 +915,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/07/14
+!!!EEV: 2021/06/22
 !!!EFL: 2/69
 !!!AGN: piano sonata
 !!!AFR: 
