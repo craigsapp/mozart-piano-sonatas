@@ -61,7 +61,7 @@
 8e 8a	8cc#'	.
 8r	8cc#'J	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =8	=8	=8
 4E (4d	(16.bLL>M	.
 .	32ak	.
@@ -115,7 +115,7 @@
 24GGLL	8ee'J	.
 24FF#	.	.
 24EEJJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =12	=12	=12
 24DDLL	(8ee#L	.
 24FF#	.	.
@@ -184,7 +184,7 @@
 24dLL	8ddd	.
 24A	.	.
 24F#JJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =17	=17	=17
 24DLL	(16ccc#LL	.
 24E	.	.
@@ -257,7 +257,7 @@
 .	24ee	.
 .	24cc#JJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =22	=22	=22
 8D 8dL<	24ddLL	.
 .	24ff#	.
@@ -319,7 +319,7 @@
 32BJJJ	.	.
 8AnL)	.	.
 8B'J	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =29	=29	=29
 (8B#L	8r	.
 8c#J)	(16eeeLL	.
@@ -373,7 +373,7 @@
 .	.	32gg#JJJ	.	.
 8d'	.	8ff#L)	.	.
 8rA	.	8gg#'J	.	.
-!!LO:PB:g=z
+!!LO:PB:g=original
 =37	=37	=37	=37	=37
 (8.c#L	2E	(8gg#L	2ee	.
 .	.	8aaJ)	.	.
@@ -427,7 +427,7 @@
 .	24eeLL	.
 .	24gg#	.
 .	24bbJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =42	=42	=42
 8b'L	24dddLL	.
 .	24bb	.
@@ -478,7 +478,7 @@
 8r	24eeeLL	.
 .	24ddd	.
 .	24bbJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =46	=46	=46
 *	*^	*
 8cc# 8ee	24aaLL	8ryy	.
@@ -534,7 +534,7 @@
 8EJ	24bLL	.
 .	24dd	.
 .	24g#JJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =50	=50	=50
 8A	8a)	.
 8r	8r	.
@@ -595,7 +595,7 @@
 *clefF4	*clefF4	*	*
 8r	8ryy	(>[4ee	.
 [8A	8C#	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =57	=57	=57	=57
 8AL]	4D	16eeLL]	.
 .	.	16ff#	.
@@ -648,7 +648,7 @@
 8r	24cc#LL	.
 .	24a	.
 .	24eJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =61	=61	=61
 (<24AALL<	8d)	.
 24D	.	.
@@ -703,7 +703,7 @@
 .	24cc#	.
 .	24eeJJ)	.
 *clefG2	*	*
-!!LO:PB:g=z
+!!LO:PB:g=original
 =65	=65	=65
 8r	(8.ddL	p
 8f# 8aL	.	.
@@ -751,7 +751,7 @@
 8e 8a	8cc#'	.
 8r	8cc#'J	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =72	=72	=72
 4E 4d	(16.bLLM	.
 .	32ak	.
@@ -815,7 +815,7 @@
 24GLL	8r	.
 24A	.	.
 24BJJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =77	=77	=77
 4cn	(>24dLL	.
 .	24f#	.
@@ -885,7 +885,7 @@
 24G	.	.
 .	16cc#JJ)	.
 24EJJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =82	=82	=82
 24DLL	4dd	.
 24Fn	.	.
@@ -954,7 +954,7 @@
 8cn 8g 8b-	24bb-LL	.
 .	24gg	.
 .	24eeJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =87	=87	=87
 4fn 4a	24ffnLL	.
 .	24ccn	.
@@ -1021,7 +1021,7 @@
 .	24gg	.
 .	24ffnJJ	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =92	=92	=92
 (24CCnLL	8een)	.
 24EE	.	.
@@ -1078,7 +1078,7 @@
 (8gnL	8aa'	.
 8f#XJ)	8r	.
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =99	=99	=99
 (8.GL	24bb-LL	f
 !	!LO:TX:b:i:t=legato	!
@@ -1144,7 +1144,7 @@
 .	32aJJJ	.
 .	8g#L)	.
 .	8aJ	.
-!!LO:PB:g=z
+!!LO:PB:g=original
 =104	=104	=104
 *clefG2	*	*
 *	*^	*
@@ -1225,7 +1225,7 @@
 8AJ	24aaLL	.
 .	24ee	.
 .	24cc#JJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =111	=111	=111
 (24DLL	8.ff#L	.
 24DD	.	.
@@ -1293,7 +1293,7 @@
 8r	24aaLL	.
 .	24ff#	.
 .	24ddJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =116	=116	=116
 4AA 4C#	8aa'L	.
 .	8a'J	p
@@ -1354,7 +1354,7 @@
 4r	4r	8g#L)	.
 .	.	8a'J	.
 *clefF4	*clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =126	=126	=126	=126
 *	*	*^	*
 (8.AL	2AA	8a#L	2d	.
@@ -1421,7 +1421,7 @@
 .	24aLL	.
 .	24cc#	.
 .	24eeJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =133	=133	=133
 8e'L	24ggLL	.
 .	24ee	.
@@ -1487,7 +1487,7 @@
 24eLL	[8gg	.	.
 24g	.	.	.
 24eJJ	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =138	=138	=138	=138
 24c#LL	8gg]	4a	.
 24e	.	.	.
@@ -1554,7 +1554,7 @@
 .	8e	.
 8G# 8BJ)	.	.
 .	16dJk)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =145	=145	=145
 *^	*	*
 4A	4ryy	(8d 8f#L	.
@@ -1628,7 +1628,7 @@
 8r	24eeLL	.
 .	24cc#	.
 .	24gJJ	.
-!!LO:PB:g=z
+!!LO:PB:g=original
 =151	=151	=151
 (24DDLL	8f#)	.
 24FF#	.	.
@@ -1698,7 +1698,7 @@
 .	24ccc#LL	.
 .	24aa	.
 .	24eeJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =156	=156	=156
 4A 4d	24ff#LL	.
 .	24dd	.
@@ -1765,7 +1765,7 @@
 24d>	24ryy	.
 24f#X>JJ)	24ryy	.
 24ryy	24dd/ 24ff#/	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =161	=161	=161
 *	*Xtuplet	*
 [2AA [2A	(24ggLL	.
@@ -1833,7 +1833,7 @@
 8a]	8g)	8eeL)	.
 8r	8ryy	8cc#'J	.
 *v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =169	=169	=169
 8f# 8a	8dd'L	.
 8r	8dd'	.
@@ -1890,7 +1890,7 @@
 24GGLL	8ee'J	.
 24FF#	.	.
 24EEJJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =174	=174	=174
 24DDLL	(8ee#L	.
 24FF#	.	.
@@ -1958,7 +1958,7 @@
 .	24aaLL	.
 .	24gg	.
 .	24ff#JJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =179	=179	=179
 2G 2e 2f#	24bLL	.
 .	24ee	.
@@ -2024,7 +2024,7 @@
 8r	24ggLL	.
 .	24ee	.
 .	24cc#JJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =184	=184	=184
 (>24DLL	8dd)	.
 24d	.	.

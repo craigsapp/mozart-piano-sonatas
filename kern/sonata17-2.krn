@@ -64,7 +64,7 @@
 .	.	16b#JJ)	.
 *v	*v	*	*
 *clefG2	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =5	=5	=5
 (4A 4a	(8.cc#L	fp
 .	64ddLLL	.
@@ -107,7 +107,7 @@
 8EL	4.ryy	.	.
 8C#	.	4r	.
 8AAJ	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =9	=9	=9	=9
 8rc	2E	[8ddL	.
 8G# 8BL	.	(32ddLL]	.
@@ -162,7 +162,7 @@
 .	.	32aa	.
 .	.	32ff#	.
 .	.	32dd#JJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =12	=12	=12	=12
 4A [4B	[4E	[4ff#	.
 8B]	8E] 8G#	(16ff#LL]	.
@@ -210,7 +210,7 @@
 .	(16eLL	.
 8r	16f#	.
 .	16g#JJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =16	=16	=16
 *^	*	*
 (4d	4.A	(4b/	.
@@ -262,7 +262,7 @@
 .	.	16aa	.
 .	.	16gg#	.
 .	.	[16ff#JJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =20	=20	=20	=20
 8cc#	8c#	(16ff#LL]	.
 .	.	16ee#	.
@@ -321,7 +321,7 @@
 .	.	(16ff#LL	.
 8gn	8AJ	16aa	.
 .	.	16cc#JJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =24	=24	=24	=24
 16f#LL	2d	(32ddnLLL	.
 .	.	32ee	.
@@ -374,7 +374,7 @@
 .	.	32eeJJJ	.
 *v	*v	*	*
 *clefF4	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =26	=26	=26
 *	*^	*
 32r	4ryy	4dd)	.
@@ -427,7 +427,7 @@
 .	32ccn	.
 .	32b	.
 .	32aJJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =28	=28	=28
 *	*^	*
 32r	4gn)	4ryy	.
@@ -480,7 +480,7 @@
 .	32ddn	.
 .	32cc#	.
 .	32bJJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =30	=30	=30
 4F#	32aLLL	.
 .	32f#	.
@@ -531,7 +531,7 @@
 32Bn	.	.
 32A	.	.
 32G#JJJ	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =32	=32	=32
 *	*^	*
 16F#)	4cc#	16F#<LL/	.
@@ -591,7 +591,7 @@
 16B	.	.	.
 16E#JJ)	.	.	.
 *v	*v	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =36	=36	=36
 *	*^	*
 16F#	4cc#	16A<LL/	.
@@ -658,7 +658,7 @@
 .	.	32cc#	.
 16c#JJ	.	32b	.
 .	.	32g#JJJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =40	=40	=40	=40
 16ALL	2F#	(16f#LL	.
 16c#	.	32g#L	.
@@ -709,7 +709,7 @@
 .	32aa	.
 .	32ff#	.
 .	32cc#JJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =42	=42	=42
 32r	4ddn)	.
 (32FnLLL	.	.
@@ -761,7 +761,7 @@
 .	.	32dd	.
 .	.	32cc#	.
 .	.	32b#JJJ)	]]
-!!LO:LB:g=z
+!!LO:LB:g=original
 =44	=44	=44	=44
 [2.e	4A	(8.cc#L	.
 !!!ONB: Next four RH notes were incorrectly 32nd notes
@@ -812,7 +812,7 @@
 .	.	16b#JJ)	.
 *v	*v	*	*
 *clefG2	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =48	=48	=48
 (4A 4a	(8.cc#L	.
 !!!ONB: Next four RH notes were incorrectly 32nd ntoes
@@ -872,7 +872,7 @@
 .	.	32bJJJ	.
 8B 8d)	8E	8g#)	.
 8B 8dJ	8rBB	8r	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =53	=53	=53	=53
 8r	2A	[8eeL	.
 8c# 8eL	.	(32eeLL]	.
@@ -934,7 +934,7 @@
 .	8dd	.
 4d) 4fn	8b	.
 .	8g#J	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =57	=57	=57
 4c# 4e	8.aL<	.
 .	32cc#LL	.
@@ -986,7 +986,7 @@
 16A 16d	16ff#	.
 16A 16d	16aa	.
 16A 16dJJ	16ff#JJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =61	=61	=61
 8A 8c#	32dd#LLL	.
 .	32een	.
@@ -1043,7 +1043,7 @@
 .	32ak	.
 .	16.b	.
 .	32cc#JJk	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =65	=65	=65
 4A 4c#	32a'LLL)	.
 .	32e'	.

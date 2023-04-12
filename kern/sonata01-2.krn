@@ -79,7 +79,7 @@
 12CL	.	(12eL	.
 12G	.	12g	.
 12B-J	.	12eJ)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =6	=6	=6	=6
 12AL	.	4f	f
 12c	.	.	.
@@ -137,7 +137,7 @@
 .	.	.	12ggJ	.
 *clefG2	*	*	*	*
 *	*	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =11	=11	=11	=11
 .	.	(>32ff#qLLL>	.
 .	.	32ggq	.
@@ -204,7 +204,7 @@
 .	.	.	12ee	.
 8Gn 8B	8F#	.	.	f
 .	.	.	12ddJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =16	=16	=16	=16	=16
 4c	8EL	.	(12ggL	.
 .	.	.	12gg#	.
@@ -262,7 +262,7 @@
 .	.	.	12bnJ)	.	.
 *v	*v	*	*	*	*
 *	*	*v	*v	*
-!!LO:LB:g=z:pb
+!!LO:LB:g=original:pb
 =21	=21	=21	=21
 12r	.	16ff (16aaLK	f
 .	.	8.ee 8.ggJ)	.
@@ -321,7 +321,7 @@
 .	.	16ccLL	.
 12G 12BJ	.	.	.
 .	.	16ddJJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =26	=26	=26	=26
 *^	*	*	*
 4ryy	4C 4c	.	12ccL	.
@@ -391,7 +391,7 @@
 12B-L	.	12gg'L	.
 12d	.	12ffn'	.
 12gJ	.	12ee'J)	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =32	=32	=32	=32
 12AL	.	(4dd	.
 12d	.	.	.
@@ -449,7 +449,7 @@
 12c#	.	12ee	.
 12eJ	.	12cc#J)	.
 *clefG2	*	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =37	=37	=37	=37
 12AL	.	4ccn	f
 12e-	.	.	.
@@ -521,7 +521,7 @@
 .	.	16ee	.
 .	.	16ddJJ)	.
 *clefF4	*	*	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =43	=43	=43	=43
 .	.	(32ddqq/	.
 !LO:TX:b:i:t=legato	!	!	!
@@ -582,7 +582,7 @@
 12F	.	.	.
 .	.	8a	.
 12AJ	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =48	=48	=48	=48
 12r	.	(12aL	.
 12Bn 12d 12fL	.	12gJ)	.
@@ -644,7 +644,7 @@
 12a	.	.	12ff	.
 12ccJ)	.	.	12aaJ)	.
 *	*	*v	*v	*
-!!LO:LB:g=z
+!!LO:LB:g=original
 =53	=53	=53	=53
 .	.	(>32bbnqLLL>	.
 .	.	32cccq	.
@@ -705,7 +705,7 @@
 12DL	.	4r	.
 12E	.	.	.
 12FJ)	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =58	=58	=58	=58
 4BBBn 4BBn	.	12r	f
 .	.	12g (12eeL	.
@@ -751,7 +751,7 @@
 12r	.	4ff 4aa	.
 12G# (12g#L	.	.	.
 12A 12aJ)	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =62	=62	=62	=62
 *^	*	*^	*
 (4B-	4BB-	.	12r	4d	p
@@ -801,7 +801,7 @@
 12B 12d 12fL	.	4r	.
 12B 12d 12f	.	.	.
 12B 12d 12fJ	.	.	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =66	=66	=66	=66
 *	*	*Xtuplet	*
 12r	.	(12g#L	p
@@ -849,7 +849,7 @@
 4r	.	(12aL	.
 .	.	12g)	.
 .	.	12a 12ccJ	.
-!!LO:LB:g=z
+!!LO:LB:g=original
 =70	=70	=70	=70
 4FF 4F	.	(12g 12b-L	f
 .	.	12fn 12a	.
