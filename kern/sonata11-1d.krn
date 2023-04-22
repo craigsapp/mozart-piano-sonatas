@@ -5,7 +5,7 @@
 !!!SCT1: K<sup>1</sup> 331
 !!!SCT2: K<sup>6</sup> 300i
 !!!OMV: 1d
-!!!OMD: Variation III
+!!!OMD: VAR.III.
 !!!ODT: 1778-1873///
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -70,6 +70,7 @@
 16e	.	.
 16E	8g# 8b))	.
 16eJJ	.	.
+!!LO:LB:g=original
 =5	=5	=5
 16ALL	16cc (16cccLL	f
 16e	16b 16bb	.
@@ -121,6 +122,7 @@
 16E'	.	.
 16A'J	.	.
 8AAJ	8r	.
+!!LO:LB:g=original
 =9:|!|:	=9:|!|:	=9:|!|:
 *>B	*>B	*>B
 *^	*	*
@@ -164,22 +166,24 @@
 .	.	16bJJ)	.
 =12	=12	=12	=12
 *	*	*^	*
-8eL	(8cL	4.ryy	(16bLL	<
-.	.	.	16a)	(
-8e	8G#	.	(16cc	(
-.	.	.	16b)	(
-8eJ	8AJ)	.	(16dd	(
-.	.	.	16ccJJ)	[
+8eL	(8cL	(16bLL	4.ryy	<
+.	.	16a)	.	.
+8e	8G#	(16cc	.	.
+.	.	16b)	.	.
+8eJ	8AJ)	(16dd	.	.
+.	.	16ccJJ)	.	[
 *	*	*v	*v	*
 .	.	(32bqLLL	.
 .	.	32ccq	.
 .	.	32ddqJJJ	.
 *	*	*^	*
-4.ryy	(>4D#	(4cc)	(4a	sf>
-.	8E)	8b)	8g#)	]
+!	!	!	!	!LO:DY:cj:vg:1
+4.ryy	(>4D#	(4cc)	(4a	sf >
+.	8E)	8b)	8g#)	]]
 *v	*v	*	*	*
 *	*v	*v	*
 =13	=13	=13
+!	!	!LO:DY:vg=1
 (16ALL	(>16ccLL	p
 16e	16b	.
 16c	16a	.
@@ -192,6 +196,7 @@
 16e	16ee	.
 16A	16ddn	.
 16eJJ	16ccJJ	.
+!!LO:LB:g=original
 =14	=14	=14
 16ELL	16bLL<	.
 16e	16a	.
@@ -242,7 +247,7 @@
 16E	16b 16bb	.
 16C	16cc 16ccc	.
 16E	16ee 16eee	.
-16FF	16dd 16eee	.
+16FF	16dd 16ddd	.
 16DJJ	16ff 16fffJJ)	.
 =18	=18	=18
 16EELL	16ee (16eeeLL	.
@@ -271,7 +276,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/17
+!!!EEV: 2023/04/22
 !!!EFL: 46/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
