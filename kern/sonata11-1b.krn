@@ -5,7 +5,7 @@
 !!!SCT1: K<sup>1</sup> 331
 !!!SCT2: K<sup>6</sup> 300i
 !!!OMV: 1b
-!!!OMD: Variation I
+!!!OMD: VAR.I.
 !!!ODT: 1778-1873///
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -69,6 +69,7 @@
 .	16g#	.
 8r	16f#	.
 .	16eJJ)	.
+!!LO:LB:g=original
 =23	=23	=23
 16AALL	4e 4a 4cc#	f
 16A	.	.
@@ -135,6 +136,7 @@
 .	(16ff#LL	.
 8r	16ee#	.
 .	16ff#JJ)	.
+!!LO:LB:g=original
 =28	=28	=28
 8A 8f#L	(16gg#LL	.
 .	16aa)	.
@@ -149,22 +151,28 @@
 8r	16ee'	.
 .	16ee'JJ)	.
 =29	=29	=29
+!	!	!LO:DY:cj
 4.A 4.c# 4.e	(16eeLL	sf
 .	16cc#	.
 .	16a)	.
+!	!	!LO:DY:cj
 .	(16ee'	p
 .	16ee'	.
 .	16ee'JJ)	.
+!	!	!LO:DY:cj
 4.B 4.d 4.e	(16eeLL	sf
 .	16ddn	.
 .	16g#)	.
+!	!	!LO:DY:cj
 .	(16ee'	p
 .	16ee'	.
 .	16ee'JJ)	.
 =30	=30	=30
+!	!	!LO:DY:cj
 4c# 4e	(16eeLL	sf
 .	16cc#	.
 .	16a)	.
+!	!	!LO:DY:cj
 .	(16ee	p
 8F# 8A 8d#	16cc#	.
 .	16aJJ)	.
@@ -183,6 +191,7 @@
 .	(16eeLL	.
 8r	16ff#	.
 .	16eeJJ)	.
+!!LO:LB:g=original
 =32	=32	=32
 8r	(16eeLL	.
 .	16bnJJ)	.
@@ -261,7 +270,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/20
+!!!EEV: 2023/04/22
 !!!EFL: 44/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
