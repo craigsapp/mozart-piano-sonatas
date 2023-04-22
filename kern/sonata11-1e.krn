@@ -5,7 +5,7 @@
 !!!SCT1: K<sup>1</sup> 331
 !!!SCT2: K<sup>6</sup> 300i
 !!!OMV: 1e
-!!!OMD: Variation IV
+!!!OMD: VAR.IV.
 !!!ODT: 1778-1873///
 **kern	**kern	**dynam
 *staff2	*staff1	*staff1/2
@@ -19,7 +19,7 @@
 *MM72	*MM72	*MM72
 =1-	=1-	=1-
 *	*^	*
-!LO:TX:a:i:t=legato	!	!	!
+!	!	!	!LO:DY:t=%s legato
 8AA 8A	8ryy	16a 16cc#LL	p
 .	.	16e	.
 !	!	!LO:TX:i:a:t=L.H.	!
@@ -72,6 +72,7 @@
 .	.	16ee)	.
 8EJ	.	(>16dd#	.
 .	.	16eeJJ)	.
+!!LO:LB:g=original
 =5	=5	=5	=5
 8AA 8A	8ryy	16a 16cc#LL	f
 .	.	16e	.
@@ -124,6 +125,7 @@
 .	.	16e'<J	.
 8AAJ	.	8aJ	.
 *	*v	*v	*
+!!LO:LB:g=original
 =9:|!|:	=9:|!|:	=9:|!|:
 *>B	*>B	*>B
 (16ALL	(8.eeL	p
@@ -155,6 +157,7 @@
 16e	8r	.
 16c#JJ)	.	.
 =11	=11	=11
+!	!	!LO:DY:cj
 8AA 8C#L	(8.eeL	sfp
 8A 8c#J	.	.
 .	32ff#LL	.
@@ -163,6 +166,7 @@
 .	32cc#	.
 .	32b	.
 .	32aJJJ	.
+!	!	!LO:DY:cj
 8BB 8DL	16eeLK	sfp
 .	8dd	.
 8B 8dJ	.	.
@@ -179,7 +183,7 @@
 .	8A 8c#J)	8aJ)	8d#	.
 (4A 4c#	4.E	(4a 4cc#	4.e	sf >
 8G# 8B)	.	8g# 8b)	.	.
-.	.	.	.	]
+.	.	.	.	]]
 *v	*v	*	*	*
 =13	=13	=13	=13
 8AA 8A	8ryy	16a 16cc#LL	p
@@ -194,6 +198,7 @@
 .	.	16e	.
 .	8aa 8ccc#J)	16a 16cc#	.
 .	.	16eJJ	.
+!!LO:LB:g=original
 =14	=14	=14	=14
 8EE\ 8E\	8ryy	16g# 16bLL	.
 .	.	16e	.
@@ -228,12 +233,12 @@
 .	8gg# 8bbJ)	16g# 16b	.
 .	.	16eJJ	.
 *	*^	*	*
-4.ryy	(8bbL	4gg#	16g# 16bLL	.
-.	.	.	16e	.
-.	8bb#	.	16g# 16b#	.
-.	.	.	16e	.
-.	8ccc#J)	8aa	16a 16cc#	.
-.	.	.	16eJJ	.
+4.ryy	(8bbL	16g# 16bLL	4gg#\	.
+.	.	16e	.	.
+.	8bb#	16g# 16b#	.	.
+.	.	16e	.	.
+.	8ccc#J)	16a 16cc#	8aa\	.
+.	.	16eJJ	.	.
 *	*v	*v	*	*
 =17	=17	=17	=17
 8AA 8A	8ryy	16a 16cc#LL	f
@@ -276,7 +281,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/17
+!!!EEV: 2023/04/22
 !!!EFL: 47/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
