@@ -19,9 +19,11 @@
 *MM72	*MM72	*MM72
 =37!|:	=37!|:	=37!|:
 !LO:TX:b:i:t=legato	!	!
+!LO:TUP:a	!	!
 24ALL	8cc#'L	p
 24d#	.	.
 24eJJ	.	.
+!LO:TUP:a	!	!
 24ALL	8cc#'J	.
 24d#	.	.
 24eJJ	.	.
@@ -90,12 +92,13 @@
 .	32aL	.
 24eJJ	.	.
 .	32bJJJ	.
+!!LO:LB:g=original
 =40	=40	=40
 *	*^	*
-24ALL	4ryy	8cc#L)	.
+24ALL	8cc#L)	4ryy	.
 24c#	.	.	.
 24eJJ	.	.	.
-24ALL	.	8cc#'>J	.
+24ALL	8cc#'>J	.	.
 24c#	.	.	.
 24eJJ	.	.	.
 24DLL	(16.eeLL	8b	.
@@ -156,6 +159,7 @@
 .	32dd	.
 .	32cc#	.
 .	32bJJJ	.
+!!LO:LB:g=original
 =43	=43	=43
 8FF#L>	24aLL	.
 .	24e	.
@@ -222,6 +226,7 @@
 .	32ff#	.
 24f#JJ	.	.
 .	32gg#JJJ	.
+!!LO:LB:g=original
 =46	=46	=46
 24ALL	8aaL)	.
 24f#	.	.
@@ -277,10 +282,13 @@
 *clefF4	*	*
 24F#LL	8a'J	.
 24A	.	.
-24d#JJ	.	sf
-4.E 4.e	(4a/ 4cc#/	>
+24d#JJ	.	.
+!	!	!LO:DY:cj
+4.E 4.e	(4a/ 4cc#/	sf >
 .	8g#) 8b	]
+!!LO:LB:g=original
 =49	=49	=49
+!	!	!LO:DY:cj
 24ALL	8cc#'L	p
 24d#	.	.
 24eJJ	.	.
@@ -351,19 +359,20 @@
 .	32cc#L	.
 24BJJ	.	.
 .	32ddJJJ	.
+!!LO:LB:g=original
 =52	=52	=52
 *^	*^	*
-4.ryy	24ELL	4.ryy	8cc#L)	.
-.	24A	.	.	.
-.	24c#JJ	.	.	.
-.	24ELL	.	8cc#'>J	.
-.	24A	.	.	.
-.	24c#JJ	.	.	.
-.	24ELL	.	(16bT>LL>	.
-.	24G#	.	.	.
-.	.	.	32aL	.
-.	24dJJ	.	.	.
-.	.	.	32bJJJ)	.
+24ELL	4.ryy	8cc#L)	4.ryy	.
+24A	.	.	.	.
+24c#JJ	.	.	.	.
+24ELL	.	8cc#'>J	.	.
+24A	.	.	.	.
+24c#JJ	.	.	.	.
+24ELL	.	(16bT>LL>	.	.
+24G#	.	.	.	.
+.	.	32aL	.	.
+24dJJ	.	.	.	.
+.	.	32bJJJ)	.	.
 (4d	4.A 4.e	(8bL	(4g#	>
 .	.	8b#	.	)
 8c#)	.	8cc#J)	8a)	]
@@ -426,7 +435,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2023/04/22
 !!!EFL: 45/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
