@@ -462,11 +462,11 @@
 !!LO:LB:g=original
 =41	=41	=41	=41
 8c#	8A	8aL	.
-8ryy	8AAL	8A	.
-2ryy	8AAJ	8AJ	.
-.	8AA	8A	.
-.	8r	8r	.
-.	8r	(8cc#	p
+8AAL	4ryy	8A	.
+8AAJ	.	8AJ	.
+8AA	4.ryy	8A	.
+8r	.	8r	.
+8r	.	(8cc#	p
 *v	*v	*	*
 =42	=42	=42
 !	!LO:TX:c:i:t=dolce	!
@@ -542,10 +542,10 @@
 4.g# 4.b	.	4.ee#	fp
 =50	=50	=50	=50
 8f# 8a)	8d)	8ff#)	.
-8r	8r	8r	.
-8r	2ryy	(16ff#LL	.
+8r	4ryy	8r	.
+8r	.	(16ff#LL	.
 .	.	16gg#JJ	.
-4r	.	16aaLL	.
+4r	4.ryy	16aaLL	.
 .	.	16ee#	.
 .	.	16ff#	.
 .	.	16cc#	.
@@ -564,9 +564,9 @@
 *^	*^	*
 4.e	2.E	4.cc#	4.a	.
 .	.	32cc#qq	.	.
-4.dn	.	8b'L	4g#	.
-.	.	8a'	.	.
-.	.	8b'J	8r	.
+4.dn	.	8b'>L	4g#	.
+.	.	8a'>	.	.
+.	.	8b'>J	8ryy	.
 *v	*v	*	*	*
 *	*v	*v	*
 =53	=53	=53
@@ -628,8 +628,8 @@
 8e	.	8ccc#J	.
 =58	=58	=58	=58
 4c#)	4A	4aa)	.
-4.r	8r	8r	.
-.	4r	4r	.
+8r	8ryy	8r	.
+4r	4ryy	4r	.
 *v	*v	*	*
 =:|!	=:|!	=:|!
 *>B	*>B	*>B
@@ -644,9 +644,9 @@
 8e	.	8cccJ	.
 =60	=60	=60	=60
 4cn)	4A	4aa)	.
-2ryy	8r	8r	.
-.	4r	4r	.
-.	8r	8r	.
+8r	8ryy	8r	.
+4r	4ryy	4r	.
+8r	8ryy	8r	.
 =61	=61	=61	=61
 4.cn 4.e-	(4Fn	(8aaL	f
 .	.	8ee-	.
@@ -656,9 +656,9 @@
 .	8G-)	8cccJ	.
 =62	=62	=62	=62
 4cn 4e-	4Fn	4aa)	.
-2r	8r	8r	.
-.	4r	4r	.
-.	8r	8fn	.
+8r	8ryy	8r	.
+4r	4ryy	4r	.
+8r	8ryy	8fn	.
 *v	*v	*	*
 !!LO:LB:g=original
 =63	=63	=63
@@ -879,10 +879,10 @@
 =81	=81	=81	=81
 4A# 4c#	4F#	8ff#L	.
 .	.	8cc#	.
-2r	8r	8aa#J	.
-.	4r	8ff#L	.
+8r	8ryy	8aa#J	.
+4r	4ryy	8ff#L	.
 .	.	8cc#	.
-.	8r	8aa#J	.
+8r	8ryy	8aa#J	.
 *v	*v	*	*
 *clefG2	*	*
 =82	=82	=82
@@ -1086,10 +1086,10 @@
 8A 8e	8cc#	.
 =106	=106	=106
 [4.d (>4.g	(4.ee	.
-8d] 8f#)	8ddn)	f
+8d] 8f#)	8ddn)	.
 8r	8r	.
 *clefF4	*	*
-8AA	8r	.
+8AA	8r	f
 =107	=107	=107
 8DL	8r	.
 8AA	8ddL	.
@@ -1470,7 +1470,7 @@
 .	16a	.
 8r	16b	.
 .	16aJJ	.
-4d 4f#	16ddLL	.
+4d 4f#	16ddLL>	.
 .	16a	.
 .	16g#	.
 .	16a	.
@@ -1585,15 +1585,15 @@
 .	16bJJ	.
 =153	=153	=153
 *^	*	*
-8r	4r	2.dd)	p
-8r	.	.	.
+8r	8ryy	2.dd)	p
+8r	8ryy	.	.
 (8f#X	8A	.	.
 4g	4B-	.	.
 8g#)	8Bn	.	.
 =154	=154	=154	=154
 *	*	*^	*
-4.a	2.A	4.ff#	4.dd	.
-.	.	(32ff#qq	.	.
+4.a	2.A	4.ff#X	4.dd	.
+.	.	(<32ff#qq	.	.
 4.gn	.	8ee'L)	4.cc#	.
 .	.	8dd'	.	.
 .	.	8ee'J	.	.
@@ -1676,7 +1676,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/07
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/12/12
+!!!EEV: 2023/04/22
 !!!EFL: 67/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro
