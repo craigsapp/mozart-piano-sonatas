@@ -9,6 +9,7 @@
 !!!OMD: Andante
 !!!ODT: 1774///
 **kern	**kern	**dynam
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
 *>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]
 *>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]

@@ -9,6 +9,7 @@
 !!!OMD: Presto.
 !!!ODT: 1778
 **kern	**kern	**dynam
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
 *>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]
 *>norep[A,B,C,C2,D]	*>norep[A,B,C,C2,D]	*>norep[A,B,C,C2,D]

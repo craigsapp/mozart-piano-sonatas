@@ -9,6 +9,7 @@
 !!!OMD: Allegro.
 !!!ODT: 1774///
 **kern	**kern	**dynam
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
 *>[A,A,B,B,C]	*>[A,A,B,B,C]	*>[A,A,B,B,C]
 *>norep[A,B,C]	*>norep[A,B,C]	*>norep[A,B,C]

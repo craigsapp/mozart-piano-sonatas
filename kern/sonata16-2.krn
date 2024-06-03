@@ -13,6 +13,7 @@
 !!!OMD: Adagio
 !!!ODT: 1789///
 **kern	**kern	**dynam
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
 *>[A,A,B,B,C,C,D,D1,D,D2,E,F,F,G,G,H]	*>[A,A,B,B,C,C,D,D1,D,D2,E,F,F,G,G,H]	*>[A,A,B,B,C,C,D,D1,D,D2,E,F,F,G,G,H]
 *>norep[A,B,C,D,D2,E,F,G,H]	*>norep[A,B,C,D,D2,E,F,G,H]	*>norep[A,B,C,D,D2,E,F,G,H]

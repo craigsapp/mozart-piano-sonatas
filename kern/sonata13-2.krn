@@ -9,6 +9,7 @@
 !!!OMD: Andante cantabile
 !!!ODT: ~1783///
 **kern	**kern	**dynam
+*part1	*part1	*
 *staff2	*staff1	*staff1/2
 *>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]
 *>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
