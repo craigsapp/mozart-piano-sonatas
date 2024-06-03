@@ -11,6 +11,9 @@
 **kern	**kern	**dynam
 *part1	*part1	*
 *staff2	*staff1	*staff1/2
+*ICklav	*ICklav	*
+*Ipiano	*Ipiano	*
+*I"	*I"	*
 *>[A,A,B,B,C,C,D,D,E,E,F,F,G,G,H,H,I,I1,I,I2,J]	*>[A,A,B,B,C,C,D,D,E,E,F,F,G,G,H,H,I,I1,I,I2,J]	*>[A,A,B,B,C,C,D,D,E,E,F,F,G,G,H,H,I,I1,I,I2,J]
 *>norep[A,B,C,D,E,F,G,H,I,I2,J]	*>norep[A,B,C,D,E,F,G,H,I,I2,J]	*>norep[A,B,C,D,E,F,G,H,I,I2,J]
 *>A	*>A	*>A
