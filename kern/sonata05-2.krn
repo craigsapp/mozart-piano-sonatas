@@ -78,6 +78,7 @@
 16G	.	.	.
 16BB	8GGJ	.	.
 16GJJ	.	.	.
+!!LO:LB:g=original
 =4	=4	=4	=4
 8ryy	(>16CLL	(16ffLL	.
 .	16GJ)	16ee	.
@@ -133,6 +134,7 @@
 16F#	.	.
 16E	8r	.
 16DJJ	.	.
+!!LO:LB:g=original
 =7	=7	=7
 16CLL	4a	f
 16E	.	.
@@ -187,6 +189,7 @@
 16d	.	.
 16c	16f#Jk)	.
 16dJJ	16r	.
+!!LO:LB:g=original
 =10	=10	=10
 16GLL	(8.ddL	p
 16d	.	.
@@ -248,6 +251,7 @@
 16g	.	.
 16d	8ffn)	.
 16gJJ	.	.
+!!LO:LB:g=original
 =13	=13	=13
 4c 4g	(8dd#L	.
 .	8eeJ)	.
@@ -312,6 +316,7 @@
 16g	.	.
 16e	.	.
 16dJJ)	.	.
+!!LO:LB:g=original
 =16!|:	=16!|:	=16!|:
 *>B	*>B	*>B
 8c#	16r	.
@@ -356,6 +361,7 @@
 16a	.	.	.
 16f	.	8dd'J	.
 16aJJ)	.	.	.
+!!LO:LB:g=original
 =18	=18	=18	=18
 (16gLL	4e	(8cc#L	.
 16a	.	.	.
@@ -390,6 +396,7 @@
 16g	.	.	.
 16e	.	8cc'J	.
 16gJJ)	.	.	.
+!!LO:LB:g=original
 =20	=20	=20	=20
 (16fLL	4d	(8bL	.
 16g	.	.	.
@@ -441,6 +448,7 @@
 .	8d#J	.	.
 .	.	16bqLL	.
 .	.	16ccqJJ	.
+!!LO:LB:g=original
 =23	=23	=23	=23
 8g#	8e	16b'	.
 .	.	(16eeLL	.
@@ -478,6 +486,7 @@
 .	16a	.
 .	16b-	.
 .	16bnJJ	.
+!!LO:LB:g=original
 =25	=25	=25
 *^	*	*
 !LO:TX:a:i:t=legato	!	!	!
@@ -515,6 +524,7 @@
 16B	.	16g	.
 16c	8F	16a	.
 16dJJ	.	16bJJ)	.
+!!LO:LB:g=original
 =27	=27	=27	=27
 16GLL	4E	8cc'L	f
 16c	.	.	.
@@ -552,6 +562,7 @@
 8r	8ryy	8r	.
 *v	*v	*	*
 *clefG2	*	*
+!!LO:LB:g=original
 =29	=29	=29
 !LO:TX:a:i:t=legato	!	!
 16fLL	4aa	.
@@ -594,6 +605,7 @@
 16B	.	.
 16A	8r	.
 16GJJ	.	.
+!!LO:LB:g=original
 =31	=31	=31
 16FLL	4dd	f
 16A	.	.
@@ -630,6 +642,7 @@
 16Fn	.	.
 16E	8r	.
 16DJJ	.	.
+!!LO:LB:g=original
 =33	=33	=33
 16CLL	(8.gL	f
 16G	.	.
@@ -675,6 +688,7 @@
 16g	.	.
 16f	16bJk)	.
 16gJJ	16r	.
+!!LO:LB:g=original
 =35	=35	=35
 16eLL	(16ccLL	f
 16cc	16cccJJ)	.
@@ -711,6 +725,7 @@
 16cc	.	.
 16g	8bb-)	.
 16ccJJ	.	.
+!!LO:LB:g=original
 =37	=37	=37
 4f 4cc	(8gg#L	.
 .	8aaJ)	.
@@ -755,6 +770,7 @@
 16g	.	.
 16e	.	.
 16dJJ)	.	.
+!!LO:LB:g=original
 =39:|!	=39:|!	=39:|!
 *>B2	*>B2	*>B2
 8c'	8cc'	p
@@ -827,7 +843,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/06
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/02
 !!!EFL: 14/69
 !!!AGN: piano sonata
 !!!AFR: 
