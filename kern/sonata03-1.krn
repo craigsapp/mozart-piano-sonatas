@@ -1543,28 +1543,26 @@
 .	16e- 16an	.
 !!LO:LB:g=original
 =105	=105	=105
-*^	*	*
-4ryy	8B- 8d	16r	.
-.	.	(32ffLLL	f
-.	.	32ddJJJ	.
-.	8r	32b-LLL	.
-.	.	32f	.
-.	.	32d	.
-.	.	32B-JJJ)	.
-[4F [4A-	16r	4ryy	.
-.	16BBB- 16BB-LL	.	.
-.	16DD 16D	.	.
-.	16BBB- 16BB-JJ	.	.
-=106	=106	=106	=106
-16F] (16A-LL]	8EE- 8E-	8ryy	.
-16GJJ)	.	.	.
-8ryy	8CL	16ryy	.
-.	.	16e- 16g	p
-4ryy	8F	16r	.
-.	.	16d 16f	.
-.	8FFJ	16r	.
-.	.	16e- 16an	.
-*v	*v	*	*
+8B- 8d	16r	.
+.	(32ffLLL	f
+.	32ddJJJ	.
+8r	32b-LLL	.
+.	32f	.
+.	32d	.
+.	32B-JJJ)	.
+16rEE	[4F< [4A-<	.
+16BBB- 16BB-LL	.	.
+16DD 16D	.	.
+16BBB- 16BB-JJ	.	.
+=106	=106	=106
+8EE- 8E-	16F<]/ (16A-<LL]/	.
+.	16G<JJ)	.
+8CL	16r	.
+.	16e- 16g	p
+8F	16r	.
+.	16d 16f	.
+8FFJ	16r	.
+.	16e- 16an	.
 =107	=107	=107
 (32BB-LLL	8d 8b-	.
 32B-	.	.
@@ -1619,7 +1617,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/02
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/08/06
+!!!EEV: 2024/06/02
 !!!EFL: 7/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro

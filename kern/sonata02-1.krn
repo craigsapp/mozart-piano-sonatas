@@ -1009,18 +1009,16 @@
 .	12cc	.
 .	12gJ	.
 =101	=101	=101
-*	*^	*
-!	!LO:TX:a:i:t=L.H.	!	!
-2.ryy	(4ccc#	12b-XL	.
-.	.	12a	.
-.	.	12gJ	.
-.	4ddd)	12f#L	.
-.	.	12a	.
-.	.	12ddJ	.
-.	4rgg	12aL	.
-.	.	12dd	.
-.	.	12ff#J	.
-*	*v	*v	*
+!!LO:TX:a:i:t=L.H.
+(>4ccc#>/	12b-XL<	.
+.	12a	.
+.	12gJ	.
+4ddd>/)	12f#L<	.
+.	12a	.
+.	12ddJ	.
+4rgg>	12aL<	.
+.	12dd	.
+.	12ff#J	.
 =102	=102	=102
 ((4D 4d	12ffnL	.
 .	12bn	.
@@ -1032,18 +1030,16 @@
 .	12a	.
 .	12eJ	.
 =103	=103	=103
-*	*^	*
-!	!LO:TX:a:i:t=L.H.	!	!
-2.ryy	(4aa	12g-L	.
-.	.	12f	.
-.	.	12e-J	.
-.	4bb-X)	12dL	.
-.	.	12f	.
-.	.	12b-XJ	.
-.	4rgg	12fL	.
-.	.	12b-	.
-.	.	12ddJ	.
-*	*v	*v	*
+!!LO:TX:a:i:t=L.H.
+(>4aa>/	12g-L<	.
+.	12f	.
+.	12e-J	.
+4bb-X>/)	12dL<	.
+.	12f	.
+.	12b-XJ	.
+4rgg>	12fL<	.
+.	12b-	.
+.	12ddJ	.
 !!LO:LB:g=original
 =104	=104	=104
 4BB- ((4B-	12dd-L	.
@@ -1092,12 +1088,13 @@
 4r	4ryy	4r	.
 *v	*v	*	*
 =109	=109	=109
-!	!	!
-4FFF 4FF	2.r	.
+!	!	!LO:DY:a=2
+4FFF 4FF	2.r	f
 4AAA 4AA	.	.
 4CC 4C	.	.
 !!LO:LB:g=original
 =110	=110	=110
+!	!	!LO:DY:b
 2.r	(16cccLL	p
 .	16ddd	.
 .	16ccc	.
@@ -1133,11 +1130,12 @@
 4e)	4gg)	.
 *clefF4	*	*
 =113	=113	=113
-!	!	!
+!	!	!LO:DY:a=2
 4CC 4C	2.r	f
 4EE 4E	.	.
 4GG 4G	.	.
 =114	=114	=114
+!	!	!LO:DY:b
 2.r	(16bb-LL	p
 .	16ccc	.
 .	16bb-	.
@@ -1539,7 +1537,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/24
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/08/15
+!!!EEV: 2024/06/02
 !!!EFL: 4/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro

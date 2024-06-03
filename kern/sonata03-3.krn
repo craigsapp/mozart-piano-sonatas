@@ -93,48 +93,46 @@
 .	.	16b-qLL	.
 .	.	16ccqJJ	.
 =8	=8	=8	=8
-*	*	*^	*
-4B-	4BB-	4ryy	4b-	.
-*	*	*Xbrackettup	*	*
-2.ryy	2.ryy	12r	4b-	p
-.	.	(12ddL	.	.
-.	.	12ffJ)	.	.
-.	.	12r	4cc	.
-.	.	(12ee-L	.	.
-.	.	12ggJ)	.	.
-.	.	12r	4a	.
-.	.	(12ccL	.	.
-.	.	12ee-J)	.	.
-*v	*v	*	*	*
+4B-	4BB-	4b-	.
+*	*	*Xbrackettup	*
+4b->	2.ryy	12raa	p
+.	.	(12ddL	.
+.	.	12ffJ)	.
+4cc>	.	12raa	.
+.	.	(12ee-L	.
+.	.	12ggJ)	.
+4a>	.	12raa	.
+.	.	(12ccL	.
+.	.	12ee-J)	.
+*v	*v	*	*
 !!LO:LB:g=original
-=9	=9	=9	=9
-*	*Xtuplet	*	*
-1r	12r	4b-	.
-.	(12ddL	.	.
-.	12ffJ)	.	.
-.	12r	4d	.
-.	(12b-L	.	.
-.	12ddJ)	.	.
-.	12r	4e-	.
-.	(12ccL	.	.
-.	12ee-J)	.	.
-.	12r	4en	.
-.	(12gL	.	.
-.	12b-J)	.	.
-=10	=10	=10	=10
-4r	12r	4f	.
-.	(12aL	.	.
-.	12ccJ)	.	.
-4BB- 4B-	2.ryy	(>12ddL	f
-.	.	12ee-	.
-.	.	12ffJ	.
-4C 4c	.	12ee-L	.
-.	.	12ff	.
-.	.	12ggJ	.
-4AA 4A	.	12ccL	.
-.	.	12dd	.
-.	.	12ee-J	.
-*	*v	*v	*
+=9	=9	=9
+*	*Xtuplet	*
+4b->	12raa	.
+.	(12ddL	.
+.	12ffJ)	.
+4d>	12raa	.
+.	(12b-L	.
+.	12ddJ)	.
+4e->	12raa	.
+.	(12ccL	.
+.	12ee-J)	.
+4en>	12raa	.
+.	(12gL	.
+.	12b-J)	.
+=10	=10	=10
+4f>	12raa	.
+.	(12aL	.
+.	12ccJ)	.
+4BB- 4B-	(>12ddL	f
+.	12ee-	.
+.	12ffJ	.
+4C 4c	12ee-L	.
+.	12ff	.
+.	12ggJ	.
+4AA 4A	12ccL	.
+.	12dd	.
+.	12ee-J	.
 =11	=11	=11
 4BB- 4B-	12ddL	.
 .	12ee-	.
@@ -1802,7 +1800,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/02
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2020/08/06
+!!!EEV: 2024/06/02
 !!!EFL: 9/69
 !!!AGN: piano sonata
 !!!AFR: rondo

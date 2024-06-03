@@ -21,9 +21,9 @@
 *clefF4	*clefG2	*clefG2
 *k[b-e-]	*k[b-e-]	*k[b-e-]
 *B-:	*B-:	*B-:
+!!LO:TX:omd:t=Menuetto I
 *M3/4	*M3/4	*M3/4
 *MM120	*MM120	*MM120
-!! Menuetto I
 4r	(8.ddL	p
 .	16ee-Jk)	.
 =1	=1	=1
@@ -58,6 +58,7 @@
 8A	.	8cc	.
 8B-	.	8dd	.
 8cJ)	.	8ee-J)	.
+!!LO:LB:g=original
 =6	=6	=6	=6
 (8dL	2.F_	(8ffL	.
 8e-	.	8gg	.
@@ -68,7 +69,7 @@
 =7	=7	=7	=7
 4d	4F]	(8ffL	.
 .	.	8bb-	p
-2r	4r	8aa	.
+2ryy	4r	8aa	.
 .	.	8gg	.
 .	4r	8ff	.
 .	.	8eenJ	.
@@ -95,6 +96,7 @@
 4f	4r	.
 4r	8.b- (8.eenL	.
 .	16a 16ffJk)	.
+!!LO:LB:g=original
 =12	=12	=12
 4r	4a 4ff	.
 4F	4r	.
@@ -135,6 +137,7 @@
 8B-J)	.	.
 4B-'	4dd' 4ff'	.
 4B-'	4dd' 4ff'	.
+!!LO:LB:g=original
 =20	=20	=20
 4A	4ee- 4ff	.
 4r	4r	.
@@ -168,11 +171,12 @@
 =25	=25	=25	=25
 4d	4F]	(8ffL	.
 .	.	8eee-	p
-2r	4r	8ddd	.
+2ryy	4r	8ddd	.
 .	.	8ccc	.
 .	4r	8bb-	.
 .	.	8aaJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =26	=26	=26
 2.r	8ggL	.
 .	8ff	.
@@ -212,13 +216,13 @@
 =32	=32	=32
 4B-	4d 4b-	.
 4BB-	4r	.
-=:|!|:	=:|!|:	=:|!|:
+!!LO:LB:g=original
+=:|!|:;	=:|!|:;	=:|!|:
 *>C	*>C	*>C
 !!!OMD: Menuetto II
 *k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
 *E-:	*E-:	*E-:
 *M3/4	*M3/4	*M3/4
-=	=	=
 4r	(16b-LL	p
 .	16cc	.
 .	16b-	.
@@ -226,7 +230,7 @@
 *clefG2	*	*
 =33	=33	=33
 *^	*	*
-!LO:TX:i:t=legato	!	!	!
+!LO:TX:i:t=legato:b	!	!	!
 4g	8e-L	4b-)	.
 .	8B-	.	.
 4g	8e-	8r	.
@@ -263,14 +267,17 @@
 .	8B-J	16aa-	.
 .	.	16ffJJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =37	=37	=37
 4e-	16ggLL	.
 .	16aa-	.
 .	16gg	.
 .	16ee-JJ	.
+!	!LO:TUP:a	!
 4r	12bb-L	.
 .	12aa-	.
 .	12ggJ	.
+!	!LO:TUP:a	!
 *clefF4	*	*
 4GG 4G	12ffL	.
 .	12ee-	.
@@ -280,9 +287,11 @@
 .	16dd-	.
 .	16cc	.
 .	16a-JJ)	.
+!	!LO:TUP:a	!
 4r	(12cccL	.
 .	12bb-	.
 .	12aa-J	.
+!	!LO:TUP:a	!
 4B- 4d-	12ggL	.
 .	12ff	.
 .	12eenJ	.
@@ -292,12 +301,12 @@
 .	.	16gg	.
 .	.	16ff	.
 .	.	16ccJJ)	.
+!	!	!LO:TUP:a	!
 4r	.	(12cccL	.
 .	.	12bb-	.
 .	.	12aa-J	.
-*v	*v	*	*
-*clefG2	*	*
-*^	*	*
+*clefG2	*	*	*
+!	!	!LO:TUP:a	!
 12e-L	4An	12ggL	.
 12f	.	12ff	.
 12gJ	.	12ee-XJ)	.
@@ -309,6 +318,7 @@
 8fJ)	.	16ff	.
 .	.	16ddJJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =41	=41	=41
 (8cL	4ee-')	.
 8f	.	.
@@ -353,6 +363,7 @@
 .	16ff	.
 .	16ee-	.
 .	16ddJJ)	.
+!!LO:LB:g=original
 =46	=46	=46
 4r	(8ddL	.
 .	8ccJ)	.
@@ -401,6 +412,7 @@
 8B-)	.	.
 (8c	8aan'L	p
 8B-J)	8aa'J	.
+!!LO:LB:g=original
 =52	=52	=52
 (8dL	(16aanLK	f
 .	8.bb-J)	.
@@ -450,6 +462,7 @@
 4g	8e-	8.ee-)	.
 .	8B-J	.	.
 .	.	16ee-'Jk	[
+!!LO:LB:g=original
 =58	=58	=58	=58
 4a-	8fL	(4ee-	f
 .	8B-	.	.
@@ -483,21 +496,26 @@
 .	16aa-	.
 .	16gg	.
 .	16ee-JJ	.
+!	!LO:TUP:a	!
 4r	12bb-L	.
 .	12aa-	.
 .	12ggJ	.
 *clefF4	*	*
+!	!LO:TUP:a	!
 4GG 4G	12ffL	.
 .	12ee-	.
 .	12dd-J	.
+!!LO:LB:g=original
 =62	=62	=62
 4AA- 4A-	16ccLL	.
 .	16dd-	.
 .	16cc	.
 .	16a-JJ)	.
+!	!LO:TUP:a	!
 4r	(12cccL	.
 .	12bb-	.
 .	12aa-J	.
+!	!LO:TUP:a	!
 4B- 4d-	12ggL	.
 .	12ff	.
 .	12eenJ	.
@@ -507,9 +525,11 @@
 .	.	16gg	.
 .	.	16ff)	.
 .	.	16ccJJ	.
+!	!	!LO:TUP:a	!
 .	4r	(12cccL	.
 .	.	12bb-	.
 .	.	12aa-J	.
+!	!	!LO:TUP:a	!
 (12e-L	4An	12ggL	.
 12f	.	12ff	.
 12gJ)	.	12ee-XJ)	.
@@ -539,6 +559,7 @@
 .	16cc	.
 8B-J)	16b-	.
 .	16gJJ	.
+!!LO:LB:g=original
 =67	=67	=67
 (8FL	4a-')	.
 8B-	.	.
@@ -583,6 +604,7 @@
 =72	=72	=72
 4e-)	4ee-)	.
 4E-	4r	.
+!!LO:TX:b:B:t=Men. I. D.C.
 ==:|!	==:|!	==:|!
 *-	*-	*-
 !!!RDF**kern: > = above
@@ -599,7 +621,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/02
 !!!EFL: 11/69
 !!!AGN: piano sonata
 !!!AFR: 

@@ -71,6 +71,7 @@
 8b-	8dd 8ffJ)	.
 8B-J	8r	.
 8r	8ff	p
+!!LO:LB:g=original
 =9	=9	=9
 (16B-LL	(16eenLK	.
 16f	8.ffJ)	.
@@ -133,6 +134,7 @@
 *^	*	*
 8e-	8E-	(16g	.
 .	.	16ccJJ)	.
+!!LO:LB:g=original
 =15	=15	=15	=15
 (8dL	4F	8b-XL	.
 8cJ)	.	8anJ	.
@@ -192,6 +194,7 @@
 16e-	16cc	.
 16c	16b-	.
 16e-JJ	16anJJ)	.
+!!LO:LB:g=original
 =23	=23	=23
 4B- 4d)	(16ccLL	.
 .	16b-	.
@@ -252,6 +255,7 @@
 16e-	16cc	.
 16c	16b-	.
 16e-JJ	16anJJ)	.
+!!LO:LB:g=original
 =31	=31	=31
 4G 4d)	(16anLL	.
 .	16b-)	.
@@ -306,6 +310,7 @@
 .	16ee-	.
 8f'J	16cc	.
 .	16anJJ)	.
+!!LO:LB:g=original
 =37	=37	=37
 4d'	(16b-LL	.
 .	16cc	.
@@ -359,6 +364,7 @@
 8fJ	8aa-X'L)	.
 8r	8a-'J	p
 *clefF4	*	*
+!!LO:LB:g=original
 =44	=44	=44
 8r	4.a-	.
 8E-X 8c-	.	.
@@ -407,6 +413,7 @@
 .	8f 8anJ	.
 .	[4f [4a	.
 8F'	.	p
+!!LO:LB:g=original
 =52	=52	=52
 4.F	8f] 8an]L<	.
 .	8a 8ee-J	.
@@ -456,6 +463,7 @@
 16g	.	.
 16Bn	8ffJ)	.
 16gJJ	.	.
+!!LO:LB:g=original
 =59	=59	=59
 8cL)	8ee-L	.
 8A-' 8a-'	8ff#' 8ccc'	.
@@ -475,9 +483,7 @@
 .	8A-J)	8b-'	.
 =62	=62	=62	=62
 8e-	8G	4.b-	.
-*v	*v	*	*
-*clefG2	*	*
-*^	*	*
+*clefG2	*	*	*
 4.ryy	8e- 8g	.	.
 .	4e- 4g	.	.
 .	.	8bb-'	.
@@ -513,6 +519,7 @@
 8d 8f	.	.
 4d 4f	.	.
 .	8aa-)	.
+!!LO:LB:g=original
 =68	=68	=68
 8e-L	(16aa-LL	.
 .	16gg	.
@@ -568,6 +575,7 @@
 16B-JJ)	.	.
 .	16gqLL	.
 .	16a-qJJ	.
+!!LO:LB:g=original
 =74	=74	=74
 4E-	(16gLL	.
 .	16b-	.
@@ -591,9 +599,7 @@
 *^	*	*
 (8gL	4B-	(8ee-XL	.
 8fJ)	.	8ddJ)	.
-*v	*v	*	*
-*clefF4	*	*
-*^	*	*
+*clefF4	*	*	*
 (16B-LL	4ryy	4r	.
 16c	.	.	.
 16A-	.	.	.
@@ -631,6 +637,7 @@
 16E-	.	.	.
 16BB-	.	.	.
 16E-JJ	.	.	.
+!!LO:LB:g=original
 =82	=82	=82	=82
 16AA-LL	2cc:	4c: 4f: 4a-:	.
 16F	.	.	.
@@ -689,6 +696,7 @@
 16E-	.	.	.
 16BB-	.	.	.
 16E-JJ	.	.	.
+!!LO:LB:g=original
 =90	=90	=90	=90
 16AA-LL>	2cc:	4c: 4f: 4a-:	.
 16F	.	.	.
@@ -749,6 +757,7 @@
 16a-	16ff	.
 16f	16ee-	.
 16a-JJ	16ddJJ	.
+!!LO:LB:g=original
 =96	=96	=96
 4e- 4g)	16ee-LL	.
 .	16ff	.
@@ -824,7 +833,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/02
 !!!EFL: 12/69
 !!!AGN: piano sonata
 !!!AFR: 

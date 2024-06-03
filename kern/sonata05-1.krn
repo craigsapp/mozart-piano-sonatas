@@ -72,6 +72,7 @@
 4A (4c	4dd'	.
 4G 4B	4dd'	.
 4F# 4A)	4dd'	.
+!!LO:LB:g=original
 =8	=8	=8
 4G 4B	(16ddLL	.
 .	16ee	.
@@ -121,6 +122,7 @@
 4A (4c	4dd'	.
 4G 4B	4dd'	.
 4F# 4A)	4dd'	.
+!!LO:LB:g=original
 =14	=14	=14
 4G 4B	(>16ddLL	.
 .	16ee	.
@@ -176,6 +178,7 @@
 .	16e	.
 8DD 8DJ	16d	.
 .	16fnJJ	.
+!!LO:LB:g=original
 =19	=19	=19
 8EE 8EL	16eLL	.
 .	16fn	.
@@ -229,6 +232,7 @@
 8a	4gg	.
 8d	.	.
 8aJ	[8ff#	.
+!!LO:LB:g=original
 =24	=24	=24
 8c#L	8ff#]	.
 8a	4ee	.
@@ -280,6 +284,7 @@
 16a	.	.
 16A	(16cc#L	.
 16aJJ	16eeJJ	.
+!!LO:LB:g=original
 =29	=29	=29
 16BLL	16ddLL	.
 16a	16ee	.
@@ -329,6 +334,7 @@
 *clefG2	*	*
 (8g#L	8bb (8dddL	f
 8aJ)	8aa 8ccc#J)	.
+!!LO:LB:g=original
 =34	=34	=34
 (8f#L	8aa (8cccnL	.
 8gnJ)	8gg 8bbJ)	.
@@ -378,6 +384,7 @@
 .	.	16ee	.
 .	.	16dd	.
 .	.	16cc#JJ)	.
+!!LO:LB:g=original
 =38	=38	=38	=38
 4f#	4d	8r	.
 .	.	8dd'L	p
@@ -435,6 +442,7 @@
 .	.	16ee	.
 .	.	16dd	.
 .	.	16cc#JJ	.
+!!LO:LB:g=original
 =43	=43	=43	=43
 4f# 4d	4d	8dd'L)	.
 .	.	(16ddL	.
@@ -487,6 +495,7 @@
 .	8ggL	8bL	.
 4A	8ee	8g	.
 .	8cc#J	8eJ	.
+!!LO:LB:g=original
 =48	=48	=48	=48
 (4d	16r	4ff#	f
 .	(16gg#LL	.	.
@@ -540,6 +549,7 @@
 16d	.	.
 16c#	8e 8g 8cc#J	.
 16dJJ	.	.
+!!LO:LB:g=original
 =52	=52	=52
 16DLL	4f# 4a 4dd	.
 16d	.	.
@@ -596,6 +606,7 @@
 .	(32bbqq/	.
 4D 4F#	4aa)	.
 4D 4F#	4r	.
+!!LO:LB:g=original
 =59	=59	=59
 4r	(16aaLL	.
 .	16ggn	.
@@ -648,6 +659,7 @@
 .	24bJJ	.
 8d'	8cc'L)	.
 8d'J	8cc'J	.
+!!LO:LB:g=original
 =65	=65	=65
 8d'L	8ff#' 8aa'L	.
 8d'	8ee' 8gg'	.
@@ -702,6 +714,7 @@
 .	16cc#JJ)	.
 .	(8.ddL	.
 .	16bJk	.
+!!LO:LB:g=original
 =72	=72	=72
 (8GL	4dd)	.
 8B	.	.
@@ -761,6 +774,7 @@
 4r	(8.cccL	p
 .	16aaJk)	.
 *clefG2	*	*
+!!LO:LB:g=original
 =80	=80	=80
 (8AL	(16ggLK	.
 .	8.ffnJ)	.
@@ -817,6 +831,7 @@
 .	16e	.
 8DD 8DJ	16d	.
 .	16fnJJ	.
+!!LO:LB:g=original
 =86	=86	=86
 8EE 8EL	16eLL	.
 .	16fn	.
@@ -876,6 +891,7 @@
 8d	4g	.
 8D	.	.
 8dJ	8f#)	.
+!!LO:LB:g=original
 =92	=92	=92
 8EL	(16aLK	.
 .	8.gJ)	.
@@ -934,6 +950,7 @@
 16dd	16ccc	.
 16g	16ddd	.
 16ddJJ	16bbJJ	.
+!!LO:LB:g=original
 =97	=97	=97
 16aLL	16dddLL	.
 16dd	16ccc	.
@@ -989,6 +1006,7 @@
 .	16a	.
 .	16f#	.
 .	16dJJ	.
+!!LO:LB:g=original
 =103	=103	=103
 4BB 4D 4G	16ddLL	.
 .	16b	.
@@ -1045,6 +1063,7 @@
 .	16aa	.
 8c 8d 8aJ	16ff#	.
 .	16ddJJ	.
+!!LO:LB:g=original
 =108	=108	=108
 4B 4d 4g	16dddLL	.
 .	16bb	.
@@ -1102,6 +1121,7 @@
 16AJJ	.	.
 .	16bqLL/	.
 .	16ccqJJ)/	.
+!!LO:LB:g=original
 =112	=112	=112
 *	*^	*
 4G	8r	4b	p
@@ -1151,6 +1171,7 @@
 .	16ff#	.	.
 .	16ggnJJ)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =117	=117	=117
 4c	(16eeLL	.
 .	16gg	.
@@ -1209,7 +1230,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/05
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/02
 !!!EFL: 13/69
 !!!AGN: piano sonata
 !!!AFR: 
