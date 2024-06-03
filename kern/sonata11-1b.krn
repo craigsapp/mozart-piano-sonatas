@@ -281,3 +281,4 @@
 !!!AGN: piano sonata
 !!!AFR: theme and variations
 !!!title: @{OTL}, K 331 (300i), mvmt. @{OMV}
+!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"

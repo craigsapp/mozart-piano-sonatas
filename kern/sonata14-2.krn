@@ -1513,3 +1513,4 @@ N(>64BB-LLLL	8ryy	.
 !!!AGN: piano sonata
 !!!AFR: 
 !!!title: @{OTL}, K 457, mvmt. @{OMV}
+!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"

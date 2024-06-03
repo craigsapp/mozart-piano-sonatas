@@ -2422,3 +2422,4 @@ N(16BB-LL	8r	.
 !!!AGN: piano sonata
 !!!AFR: 
 !!!title: @{OTL}, K 332 (300k), mvmt. @{OMV}
+!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"

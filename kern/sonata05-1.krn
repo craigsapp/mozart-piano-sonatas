@@ -1213,3 +1213,4 @@
 !!!AGN: piano sonata
 !!!AFR: 
 !!!title: @{OTL}, K 283 (189h), mvmt. @{OMV}
+!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
