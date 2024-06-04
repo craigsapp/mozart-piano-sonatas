@@ -3,6 +3,7 @@
 !!!CDT: 1756/01/27/-1791/12/05/
 !!!CNT: German
 !!!OTL: Piano Sonata No. 13 in B-flat major
+!!!OTP: Linz Sonata
 !!!SCT1: K<sup>1</sup> 333
 !!!SCT2: K<sup>6</sup> 315c
 !!!OMV: 3
@@ -2419,6 +2420,7 @@
 !!!URL-github: https://github.com/craigsapp/mozart-piano-sonatas/blob/main/kern/sonata13-3.krn
 !!!URL-vhv: https://verovio.humdrum.org/?file=mozart/sonatas/sonata13-3.krn
 !!!URL-pdf: https://github.com/craigsapp/mozart-piano-sonatas/blob/master/reference-edition/sonata13-3.pdf
+!!!URL-wikipedia: https://en.wikipedia.org/wiki/Piano_Sonata_No._13_(Mozart)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/09
 !!!EED: Craig Stuart Sapp
@@ -2426,5 +2428,5 @@
 !!!EFL: 57/69
 !!!AGN: piano sonata
 !!!AFR: sonata-rondo
-!!!title: @{OTL}, K 333 (315c), mvmt. @{OMV}
+!!!title: @{OTL} (<i>@{OTP}</i>), K 333 (315c), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
