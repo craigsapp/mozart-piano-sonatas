@@ -24,9 +24,11 @@
 *M2/2	*M2/2	*M2/2
 *met(c|)	*met(c|)	*met(c|)
 =!|:	=!|:	=!|:
+!LO:TUP:a	!	!
 (12AL	2r	p
 12B	.	.
 12AJ	.	.
+!LO:TUP:a	!	!
 12GL	.	.
 12F#	.	.
 12EJ	.	.
@@ -57,13 +59,14 @@
 (12aL	4r	.
 12b	.	.
 12aJ	.	.
+!	!LO:TUP:a	!
 12gL	12cc# 12eeL	.
 12f#	12dd 12ff#	.
 12eJ	12ee 12ggJ	.
 =3	=3	=3
 .	(32ff#qLLL>	.
 .	32ggqJJJ	.
-4d)	()4aa	.
+4d)	(4aa)	.
 4r	16ggLL	.
 .	16ff#	.
 .	16ee	.
@@ -75,6 +78,7 @@
 .	16gg	.
 .	16ff#	.
 .	16eeJJ)	.
+!!LO:LB:g=original
 =4	=4	=4
 *^	*	*
 (4f#	2A	(4dd	.
@@ -126,11 +130,14 @@
 =8	=8	=8
 4A'	4c#' 4e' 4a'	.
 4AA'	4r	.
+!!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B
+!	!LO:TUP:a	!
 2r	(12aL	.
 .	12ccn	.
 .	12dd#J	.
+!	!LO:TUP:a	!
 .	12ff#L	.
 .	12aa	.
 .	12cccnJ)	.
@@ -182,14 +189,17 @@
 16C#	16c#	.
 16BB	16B	.
 16AAJJ	16AJJ	.
+!!LO:LB:g=original
 =13	=13	=13
-4A)	4a)	p
+4A)	4a)	.
 4r	4r	.
 *clefG2	*	*
 *tuplet	*	*
-(12aL	2r	.
+!LO:TUP:b	!	!
+(12aL	2r	p
 12b	.	.
 12aJ	.	.
+!LO:TUP:b	!	!
 12gnL	.	.
 12f#	.	.
 12eJ	.	.
@@ -224,7 +234,7 @@
 16f#LL	.	.
 16e	.	.
 16d	.	.
-16c#JJ)	.	.
+16c#XJJ)	.	.
 =16	=16	=16
 2r	(4aa	p
 .	4aa#	.
@@ -250,7 +260,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/21
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/03
 !!!EFL: 20/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations

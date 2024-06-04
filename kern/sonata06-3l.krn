@@ -21,6 +21,7 @@
 *M4/4	*M4/4	*M4/4
 *met(c)	*met(c)	*met(c)
 *MM60	*MM60	*MM60
+!	!LO:TX:b:t=(Nach dem Autograph.)	!
 2r	(8aaL	.
 .	8gg	.
 .	8ff#	.
@@ -82,6 +83,7 @@
 16B	16bb)	.
 16e	(16aa	.
 16BJJ	16ggJJ)	.
+!!LO:LB:g=original
 =4	=4	=4
 16ALL	(8.ff#L	.
 16d	.	.
@@ -129,6 +131,7 @@
 16B	.	.
 16e	8r	.
 16BJJ	.	.
+!!LO:LB:g=original
 =7	=7	=7
 4A	(16cc#LL	.
 .	16dd	.
@@ -177,6 +180,7 @@
 16d	16bb	.
 16f#	16ddd	.
 16dJJ)	16ff#JJ)	.
+!!LO:LB:g=original
 =10	=10	=10
 (16GLL	(8.eeL	.
 16B	.	.
@@ -230,6 +234,7 @@
 .	32bb	.
 16BJJ)	32aa	.
 .	32ggJJJ)	.
+!!LO:LB:g=original
 =12	=12	=12
 (16ALL	(8.ff#SsSL	.
 16d	.	.
@@ -276,6 +281,7 @@
 .	64bbn	.
 .	64cccn	.
 .	64ccc#JJJJ)	.
+!!LO:LB:g=original
 =14	=14	=14
 (16ELL	(8.dddTL	.
 16G#	.	.
@@ -332,6 +338,7 @@
 .	.	8eeJ)	.
 *clefG2	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =17	=17	=17
 (</(>4a 4ccn/	(4dd#	.
 8g# 8b))	8ee)	.
@@ -391,6 +398,7 @@
 .	16a#	.
 .	16b	.
 .	16g#JJ	.
+!!LO:LB:g=original
 =21	=21	=21
 1r	16bLL	.
 .	16an)	.
@@ -454,6 +462,8 @@
 .	16cc# 16ccc#	.
 .	16dd 16dddJJ	.
 *clefF4	*	*
+!!LO:LB:g=original
+=-	=-	=-
 (16ALL	2eeTT	.
 16d	.	.
 16e	.	.
@@ -505,6 +515,7 @@
 .	64aan	.
 .	64bb)	.
 .	64ccc#JJJJ	.
+!!LO:LB:g=original
 =27	=27	=27
 (16bnLL>	16dddLK	.
 .	(32eeeqq/	.
@@ -569,6 +580,7 @@
 .	16B	.
 .	16G#JJ	.
 *clefF4	*	*
+!!LO:LB:g=original
 =30	=30	=30
 4AA 4C#	16BLL	.
 .	16An)	.
@@ -612,13 +624,17 @@
 16a	[8dd	.
 16f#JJ	.	.
 16BLL	16ddLL]	.
+!	!LO:TR:ed=paren	!
 16d	(16ccc#t	.
 16f#	16ddd	.
+!	!LO:TR:ed=paren	!
 16dJJ	16ccc#tJJ	.
 16BLL	16dddLL	.
+!	!LO:TR:ed=paren	!
 16d	16bbT	.
 16f#	16ddd	.
 16dJJ	16ff#JJ)	.
+!!LO:LB:g=original
 =32	=32	=32
 .	(64eeqLLLL>	.
 .	64ggqJJJJ	.
@@ -702,7 +718,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/03
 !!!EFL: 29/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations

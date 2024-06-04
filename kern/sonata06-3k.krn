@@ -84,6 +84,7 @@
 .	16eee	.
 .	16ee	.
 .	16eeeJJ	.
+!!LO:LB:g=original
 =4	=4	=4
 *^	*	*
 (4f#	2A	4dd (4ddd	.
@@ -164,6 +165,7 @@
 16ee	.	.
 16e	.	.
 16eeJJ	.	.
+!!LO:LB:g=original
 =9	=9	=9
 16d#LL	4aa 4cccn	.
 16dd#	.	.
@@ -235,6 +237,7 @@
 .	16gg	.
 .	16g#	.
 .	16gg#JJ	.
+!!LO:LB:g=original
 =13	=13	=13
 2r	4a 4aa	.
 .	4r	.
@@ -318,7 +321,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/03
 !!!EFL: 28/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations

@@ -73,6 +73,7 @@
 8AAA 8AAJ	8c# 8cc#L	.
 [4BBB [4BB	8B 8b	.
 .	8A 8aJ	.
+!!LO:LB:g=original
 =6	=6	=6
 8BBB] 8BBL]	8G# 8g#L	.
 8CC# 8C#	8A 8aJ	.
@@ -83,8 +84,8 @@
 4r	8d 8dd	.
 .	8d# 8dd#J	.
 =7	=7	=7
-4C#	8r	.
-.	4cc# 4ee	p
+4C#	8r	p
+.	4cc# 4ee	.
 4F#	.	.
 .	4a# 4cc#	.
 4BB	.	.
@@ -125,6 +126,7 @@
 4Dn/	.	.
 .	(8f#	.
 4GG#)	[4b/	.
+!!LO:LB:g=original
 =12	=12	=12
 4AA	8bL]	.
 .	8eJ)	.
@@ -160,8 +162,8 @@
 .	8g 8gg	.
 8GG 8G	8e 8eeJ	.
 =16	=16	=16
-4FF# 4F#	8r	.
-.	4ff# 4aa	p
+4FF# 4F#	8r	p
+.	4ff# 4aa	.
 4B	.	.
 .	4dd# 4ff#	.
 4E	.	.
@@ -188,7 +190,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/03
 !!!EFL: 27/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations

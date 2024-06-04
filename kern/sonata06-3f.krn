@@ -25,6 +25,7 @@
 *met(c|)	*met(c|)	*met(c|)
 *MM120	*MM120	*MM120
 =!|:	=!|:	=!|:
+!	!	!LO:DY:ed=paren
 2r	(8aa'L	f
 .	8aa'	.
 .	8aa'	.
@@ -79,6 +80,7 @@
 8B 8d	8ddd'	.
 8A) 8c#J	8ddd'J)	.
 *clefF4	*	*
+!!LO:LB:g=original
 =6	=6	=6
 8G# (8BL	(4ddd	.
 8F# 8A	.	.
@@ -126,6 +128,7 @@
 8f# 8a	8ddd'	.
 8e 8g	8ddd'	.
 8d) 8f#J	8ddd'J)	.
+!!LO:LB:g=original
 =11	=11	=11
 *^	*	*
 2.a	4c#	(8.ggL	p
@@ -199,7 +202,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/22
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/03
 !!!EFL: 23/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations

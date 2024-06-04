@@ -32,6 +32,7 @@
 .	12b	.
 .	12cc#J	.
 =1	=1	=1
+!	!LO:TUP:a	!
 4D 4F#	12ddL	.
 .	12ee	.
 .	12cc#J	.
@@ -71,6 +72,7 @@
 .	(12aa#L	.
 .	12bb	.
 .	12ggJ)	.
+!!LO:LB:g=original
 =4	=4	=4
 *^	*	*
 (4d	2A	(4ff#	.
@@ -128,6 +130,7 @@
 (4d	2A	(4b	.
 4c#)	.	4a)	.
 *v	*v	*	*
+!!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B
 2r	(12aaL	p
@@ -183,6 +186,7 @@
 4g#)	4B)	12ddL	.
 .	.	12ee	.
 .	.	12ddJ)	.
+!!LO:LB:g=original
 =12	=12	=12	=12
 *	*	*^	*
 (4d	[4A	(4ff#	[4a	.
@@ -271,7 +275,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/18
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/03
 !!!EFL: 19/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
