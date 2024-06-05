@@ -73,6 +73,7 @@
 16c	.	.
 16e	8r	.
 16cJJ	.	.
+!!LO:LB:g=original
 =5	=5	=5
 16fLL	16a'LL	.
 16c	16cc'	.
@@ -126,6 +127,7 @@
 16c>	.	.
 16f>	8r	.
 16c>JJ	.	.
+!!LO:LB:g=original
 =10	=10	=10
 16e>LL	(>16gLL/	.
 16c>	32ccL/	.
@@ -181,6 +183,7 @@
 .	(32ddLLL	.
 .	32ee	.
 .	32ddJJJ)	.
+!!LO:LB:g=original
 =14	=14	=14
 4c	(>32ccLLL\	.
 .	32g\	.
@@ -237,6 +240,7 @@
 .	32gg	.
 .	32ff	.
 .	32eeJJJ)	.
+!!LO:LB:g=original
 =18	=18	=18
 *^	*	*
 (8.eL	4G	(8.ggL	.
@@ -292,6 +296,7 @@
 16B)	.	.
 16d'	8r	.
 16dJJ	.	.
+!!LO:LB:g=original
 =23	=23	=23
 (16GLL	(16cc#LL	.
 16B	16ddJJ	.
@@ -350,6 +355,7 @@
 24GLL	8r	.
 24B	.	.
 24gJJ	.	.
+!!LO:LB:g=original
 =27	=27	=27
 *Xtuplet	*	*
 .	(16eeq/LL	.
@@ -421,6 +427,7 @@
 .	32g	.
 .	32f#	.
 .	32eJJJ	.
+!!LO:LB:g=original
 =31	=31	=31
 8D	8d)	.
 (4D# 4F# (4A	(4c	fp
@@ -467,6 +474,7 @@
 .	.	16cc	.
 8r	8ryy	16dd)	.
 .	.	16dd#'JJ	.
+!!LO:LB:g=original
 =37	=37	=37	=37
 4G	4C	(16.eeTLL	.
 .	.	32ff#k	.
@@ -526,6 +534,7 @@
 .	32gg	.
 16cJJ	32ee	.
 .	32ccJJJ	.
+!!LO:LB:g=original
 =43	=43	=43
 16GLL	16ggLL)	.
 16B	16gg'JJ	.
@@ -580,6 +589,7 @@
 .	(16b	.
 .	16ddJJ)	.
 *clefF4	*	*
+!!LO:LB:g=original
 =47	=47	=47
 *^	*	*
 8r	8ryy	(16aLL	.
@@ -637,6 +647,7 @@
 .	(32ddLLL	.
 .	32ff#	.
 .	32ddJJJ	.
+!!LO:LB:g=original
 =51	=51	=51
 8b)	16ggLL)	.
 .	16gg'JJ	.
@@ -695,6 +706,7 @@
 .	32gg	.
 .	32ff#	.
 .	32eeJJJ	.
+!!LO:LB:g=original
 =55	=55	=55
 8D 8G 8B	8dd)	.
 8r	(32eeLLL	.
@@ -738,6 +750,7 @@
 8G'	8d' 8b'	.
 8GG'J	8B' 8g'J	.
 8r	8r	.
+!!LO:LB:g=original
 =59:|!|:	=59:|!|:	=59:|!|:
 *>B	*>B	*>B
 *clefG2	*	*
@@ -786,6 +799,7 @@
 16d	16g	.
 16c	16ee-	sf
 16e-JJ	16f#JJ)	.
+!!LO:LB:g=original
 =64	=64	=64
 4B 4d	(>16gLL	.
 .	32aL	.
@@ -835,6 +849,7 @@
 .	32aJJJ	.
 8r	16bLL)	.
 .	16dd'JJ	.
+!!LO:LB:g=original
 =68	=68	=68
 (16GLL	(8ggL	.
 16B	.	.
@@ -895,6 +910,7 @@
 16A	8aa	.
 16d	.	.
 16AJJ	16bb-Jk)	.
+!!LO:LB:g=original
 =74	=74	=74
 16ELL	(4aa	.
 16A	.	.
@@ -942,6 +958,7 @@
 16c	(32ddLLK	.
 .	16.ccJJ)	.
 16AJJ	.	.
+!!LO:LB:g=original
 =79	=79	=79
 8GL	(16bLL	.
 .	16ggJJ)	.
@@ -992,6 +1009,7 @@
 .	(32ccLLL	.
 .	32dd	.
 .	32ccJJJ)	.
+!!LO:LB:g=original
 =83	=83	=83
 8G 8d	16b'LL\	.
 .	(64ccqq/	.
@@ -1024,12 +1042,12 @@
 (16c#Jk	.	32ee	.
 .	.	32ggJJJ	.
 16dLL	8GL	32ffLLL	<
-.	.	32gg	(
-16c#	.	32ee	(
-.	.	32ggJJJ	(
-16d	8GJ	32ffLLL	(
-.	.	32gg	(
-16c#JJ	.	32ee	(
+.	.	32gg	.
+16c#	.	32ee	.
+.	.	32ggJJJ	.
+16d	8GJ	32ffLLL	.
+.	.	32gg	.
+16c#JJ	.	32ee	.
 .	.	32ggJJJ	[
 *v	*v	*	*
 =86	=86	=86
@@ -1042,6 +1060,7 @@
 16A'LL	16cc'	.
 16B'	16dd'	.
 16c'JJ	16ee'JJ	.
+!!LO:LB:g=original
 =87	=87	=87
 16d'LL	16ff'LL	.
 16c'	16ee'	.
@@ -1100,6 +1119,7 @@
 16c	.	.
 16e	8r	.
 16cJJ	.	.
+!!LO:LB:g=original
 =92	=92	=92
 16fLL	16a'LL	.
 16c	16cc'	.
@@ -1154,6 +1174,7 @@
 16c>	.	.
 16f>	8rff	.
 16c>JJ	.	.
+!!LO:LB:g=original
 =97	=97	=97
 16e>LL	(>32gLLL/	.
 .	32cc/	.
@@ -1210,6 +1231,7 @@
 .	(32ddLLL	.
 .	32ee	.
 .	32ddJJJ)	.
+!!LO:LB:g=original
 =101	=101	=101
 4c	(>32ccLLL\	.
 .	32g\	.
@@ -1266,6 +1288,7 @@
 .	32gg	.
 .	32ff	.
 .	32eeJJJ)	.
+!!LO:LB:g=original
 =105	=105	=105
 *^	*	*
 (8.eL	4G	(8.ggL	.
@@ -1322,6 +1345,7 @@
 16eL	16cc 16ee	.
 16dJJ)	16dd 16ffnJJ)	.
 *clefG2	*	*
+!!LO:LB:g=original
 =110	=110	=110
 (16cLL	(16ff#LL	.
 16e	16ggJJ	.
@@ -1363,6 +1387,7 @@
 .	32aa	.
 .	32gg	.
 .	32ffJJJ	.
+!!LO:LB:g=original
 =113	=113	=113
 !LO:TX:b:i:t=legato	!	!
 *tuplet	*	*
@@ -1435,6 +1460,7 @@
 24ccJJ	.	.
 .	32ffJJJ	.
 *clefF4	*	*
+!!LO:LB:g=original
 =117	=117	=117
 8c	16ee'LL)	.
 .	(32cccL	.
@@ -1488,6 +1514,7 @@
 .	8dd'L	.
 .	8ee'J	.
 *clefG2	*	*
+!!LO:LB:g=original
 =123	=123	=123
 *^	*	*
 8r	8ryy	(16ggLL	.
@@ -1544,6 +1571,7 @@
 *clefG2	*	*	*	*
 *v	*v	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =129	=129	=129
 (16cLL	8cc)	.
 16e	.	.
@@ -1604,6 +1632,7 @@
 16B 16gJJ	.	32ddd	.
 .	.	32ggJJJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =133	=133	=133
 8c 8g	16eeeLL	.
 .	16ccc)	.
@@ -1658,6 +1687,7 @@
 .	32gg	.
 16fJJ)	32aa	.
 .	32bbJJJ	.
+!!LO:LB:g=original
 =137	=137	=137
 *^	*	*
 8c 8e 8g	8ryy	16ccc'LL)	.
@@ -1720,6 +1750,7 @@
 .	.	16bqJJ/	.
 *clefG2	*	*	*
 *v	*v	*	*
+!!LO:LB:g=original
 =141	=141	=141
 (16.cLL	(16.ccLL	f
 32Gk)	32gk)	.
@@ -1768,6 +1799,7 @@
 .	32ff	.
 .	32ee	.
 .	32ddJJJ	.
+!!LO:LB:g=original
 =145	=145	=145
 (16eLL	8ccL)	.
 16c	.	.
@@ -1839,7 +1871,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/08
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/20
+!!!EEV: 2024/06/05
 !!!EFL: 40/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro

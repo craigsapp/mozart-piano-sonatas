@@ -59,6 +59,7 @@
 4c 4e	8g'<	4ryy	.
 .	8g'<J)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =5	=5	=5
 .	32gqq	.
 2Bn 2d 2f	(8.ggL	.
@@ -109,6 +110,7 @@
 8c (8e-L	(8f#L	<
 8B- 8d	8g	.
 8A 8c 8dJ)	8f# 8aJ)	.
+!!LO:LB:g=original
 =10	=10	=10
 *^	*^	*
 (4c	4.G (4.d	(4f# (4a	2ryy	.
@@ -159,6 +161,7 @@
 .	16dd)	.
 .	(16dd	.
 .	16cc#JJ)	.
+!!LO:LB:g=original
 =16	=16	=16
 2B- 2d 2f	(4cc#	.
 .	8dd)	.
@@ -205,6 +208,7 @@
 4F 4A	4f	4f)	.
 8FF	8r	8ryy	.
 *	*v	*v	*
+!!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>C	*>C	*>C
 *k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
@@ -251,6 +255,7 @@
 16E	.	.	.
 16E	8b-J)	.	.
 16EJJ	.	.	.
+!!LO:LB:g=original
 =24	=24	=24	=24
 .	(<32ccqq	.	.
 16FFLL>	(8b-L)	8gL	.
@@ -298,6 +303,7 @@
 4A- 4c	4a-	4a-	.
 8AA-	8r	8ryy	.
 *	*v	*v	*
+!!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>D	*>D	*>D
 8r	(8e-L	.
@@ -348,6 +354,7 @@
 8C' 8c'L	8an' 8cc' 8ee-X' (8ff'L	f
 8AAn' 8An'	8a' 8cc' 8ee-' 8ff'	.
 8FF' 8F'J	8a' 8cc' 8ee-' 8ff'J)	.
+!!LO:LB:g=original
 =35	=35	=35
 *	*^	*
 4BB- 4B-	2ryy	16dd- (>16ffLL	.
@@ -394,6 +401,7 @@
 16F	.	.
 16F	8a-' 8cc'J)	.
 16FJJ	.	.
+!!LO:LB:g=original
 =39	=39	=39
 *	*^	*
 16FFLL>	4.a- (4.cc	[2en	.
@@ -450,6 +458,7 @@
 4c 4e	8g'<	4ryy	.
 .	8g'<J)	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =45	=45	=45
 .	32gqq/	.
 2Bn 2d 2f	(8.ggL	.
@@ -498,6 +507,7 @@
 8c (8e-L	(8f#L	<
 8B- 8d	8g	.
 8A 8c 8dJ)	8f# 8aJ)	.
+!!LO:LB:g=original
 =50	=50	=50
 *^	*	*
 (4c	4.G 4.d	(4f# (4a	.
@@ -553,6 +563,7 @@
 .	16dd)	.
 .	(16dd	.
 .	16cc#JJ)	.
+!!LO:LB:g=original
 =56	=56	=56
 2B- 2d 2f	(4cc#	.
 .	8dd)	.
@@ -595,6 +606,7 @@
 .	.	16aLL	8e	.
 .	.	16gJJ	.	.
 *v	*v	*	*	*
+!!LO:LB:g=original
 =60	=60	=60	=60
 4F 4A	4f	4f)	.
 8FF	8r	2ryy	.
@@ -660,9 +672,9 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/08
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/06/05
 !!!EFL: 41/69
 !!!AGN: piano sonata
-!!!AFR: 
+!!!AFR:
 !!!title: @{OTL}, K 330 (300h), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
