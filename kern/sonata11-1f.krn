@@ -73,6 +73,7 @@
 32e	32dd	.
 32E	32cc#	.
 32eJJJ	32bJJJ)	.
+!!LO:LB:g=original
 =3	=3	=3
 32F#LLL	(16bLL	.
 32e	.	.
@@ -123,6 +124,7 @@
 .	32e	.
 .	32d#	.
 .	32eJJJ)	.
+!!LO:LB:g=original
 =5	=5	=5
 32AALLL	16a' 16cc#'LK<	f
 32A	.	.
@@ -173,6 +175,7 @@
 .	32ccc#	.
 .	32dddJJJ)	.
 .	32r	.
+!!LO:LB:g=original
 =7	=7	=7
 8r	(32bLLL	.
 .	32aJ)	.
@@ -236,6 +239,7 @@
 .	.	32ddJJk)	.	.
 *v	*v	*	*	*
 *	*v	*v	*
+!!LO:LB:g=original
 =10!|:	=10!|:	=10!|:
 *>B	*>B	*>B
 *clefG2	*	*
@@ -279,6 +283,7 @@
 .	.	64cc#	.
 32F#	.	64dd	.
 .	.	64eeJJJJ	.
+!	!	!LO:TUP:a	!
 32D	.	48ff#LLL)	.
 .	.	48ggn'	.
 32F#JJJ	.	.	.
@@ -295,6 +300,7 @@
 8r	8ryy	16ee'	.
 .	.	(16ee'JJ)	.
 *v	*v	*	*
+!!LO:LB:g=original
 =12	=12	=12
 4.A 4.c# 4.e	(32ff#LLL	sfp
 .	32ee	.
@@ -346,6 +352,7 @@
 32c#	.	.
 32eJJJ	.	.
 32ALLL	32cc#LL]	.
+!	!LO:TUP:a	!
 32e	96ddL	.
 .	96cc#	.
 .	96bJJJJ	.
@@ -364,6 +371,7 @@
 32e	32ee	.
 32A	32dd	.
 32eJJJ	32cc#JJJ)	.
+!!LO:LB:g=original
 =15	=15	=15
 32G#LLL	(16cc#LK	.
 32e	.	.
@@ -396,7 +404,7 @@
 =16	=16	=16
 32F#LLL	(16bLL	.
 32e	.	.
-32d#	[16anJJ)	.
+32d#	[>16anJJ)	.
 32eJJJ	.	.
 32F#LLL	32aLLL]	.
 32e	32a	.
@@ -409,8 +417,8 @@
 8A)	32b#LLL	.
 .	32cc#)	.
 .	32aan'	.
-.	32aa'JJJ	<
-8r	(32aa'LLL	.
+.	32aa'JJJ	.
+8r	(32aa'LLL	<
 .	32aa'	.
 .	32aa'	.
 .	32aa'JJJ)	.
@@ -418,6 +426,7 @@
 .	32ff#	.
 .	32dd	.
 .	32bnJJJ)	.
+!!LO:LB:g=original
 =17	=17	=17
 *^	*^	*
 4A 4c#	4.E	(>16eeLL<	8ryy	f
@@ -441,18 +450,22 @@
 32C#	.	.
 32E	.	.
 32AJJJ	.	.
+!	!LO:TUP:a	!
 32AALLL	48cc#LL]	.
 .	48ee	.
 32C#	.	.
 .	48ddJJJ	.
+!	!LO:TUP:a	!
 32E	48cc#LLL	.
 .	48dd	.
 32AJJJ	.	.
 .	48eeJJJ	.
+!	!LO:TUP:a	!
 32BBLLL	48ddLLL	.
 .	48ff#	.
 32D	.	.
 .	48eeJJJ	.
+!	!LO:TUP:a	!
 32G#	48ddLLL	.
 .	48ee	.
 32BJJJ	.	.
@@ -481,6 +494,7 @@
 .	64aa	.
 .	64gg#	.
 .	64ff#JJJJ	.
+!!LO:LB:g=original
 =19	=19	=19
 *>B1	*>B1	*>B1
 *^	*	*
@@ -506,6 +520,7 @@
 8r	8ryy	48a#'LLL	.
 .	.	48b'	.
 .	.	48b#'JJJ	.
+!	!	!LO:TUP:a	!
 .	.	48cc#'LLL	.
 .	.	48dd'	.
 .	.	(48dd#'JJJ	.
@@ -530,7 +545,7 @@
 8c#)	.	8a)	.	.
 *v	*v	*	*	*
 *	*v	*v	*
-==	==	==
+=||	=||	=||
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
@@ -542,6 +557,7 @@
 !!!URL-github: https://github.com/craigsapp/mozart-piano-sonatas/blob/main/kern/sonata11-1f.krn
 !!!URL-vhv: https://verovio.humdrum.org/?file=mozart/sonatas/sonata11-1f.krn
 !!!URL-pdf: https://github.com/craigsapp/mozart-piano-sonatas/blob/master/reference-edition/sonata11-1f.pdf
+!!!URL-youtube: https://www.youtube.com/watch?v=wNMypdCkonk&t=515s András Schiff
 !!!URL-wikipedia: https://en.wikipedia.org/wiki/Piano_Sonata_No._11_(Mozart)#I._Andantino_grazioso
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29

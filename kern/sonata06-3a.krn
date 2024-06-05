@@ -180,6 +180,7 @@
 !!!URL-github: https://github.com/craigsapp/mozart-piano-sonatas/blob/main/kern/sonata06-3a.krn
 !!!URL-vhv: https://verovio.humdrum.org/?file=mozart/sonatas/sonata06-3a.krn
 !!!URL-pdf: https://github.com/craigsapp/mozart-piano-sonatas/blob/master/reference-edition/sonata06-3a.pdf
+!!!URL-youtube: https://www.youtube.com/watch?v=k7nz1wLoCC0 András Schiff
 !!!URL-wikipedia: https://en.wikipedia.org/wiki/Piano_Sonata_No._6_(Mozart)#Tema_con_variazione_(Theme_with_variations)
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/18
@@ -188,5 +189,5 @@
 !!!EFL: 18/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
-!!!title: @{OTL}, K 284 (205b), mvmt. @{OMV}
+!!!title: @{OTL} (<i>@{OTP}</i>), K 284 (205b), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"

@@ -264,5 +264,5 @@
 !!!EFL: 20/69
 !!!AGN: piano sonata
 !!!AFR: theme and variations
-!!!title: @{OTL}, K 284 (205b), mvmt. @{OMV}
+!!!title: @{OTL} (<i>@{OTP}</i>), K 284 (205b), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
