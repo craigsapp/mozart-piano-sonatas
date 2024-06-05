@@ -65,6 +65,7 @@
 8E	8ggL)	.
 8cJ)	8gg'J	.
 *clefG2	*	*
+!!LO:LB:g=original
 =7	=7	=7
 8r	(16ggLL	.
 .	16ff)	.
@@ -115,6 +116,7 @@
 16E	.	.
 16GG	8b' 8dd'J	.
 16GJJ	.	.
+!!LO:LB:g=original
 =12	=12	=12
 16CLL	8dd (8ffL	.
 16E	.	.
@@ -155,9 +157,11 @@
 *v	*v	*	*
 =16	=16	=16
 !	!LO:TX:b:i:t=legato	!
+!	!LO:TUP:a	!
 4c 4e	24ccLL	.
 .	24g	.
 .	24eeJJ	.
+!	!LO:TUP:a	!
 .	24ccLL	.
 .	24gg	.
 .	24eeJJ	.
@@ -168,6 +172,7 @@
 .	24ggLL	.
 .	24ff	.
 .	24eeJJ	.
+!!LO:LB:g=original
 =17	=17	=17
 *^	*	*
 8r	8ryy	24cc#LL	.
@@ -230,6 +235,7 @@
 .	32eeqJJJ	.
 16d	16ggLL	.
 16gJJ	16ffJJ	.
+!!LO:LB:g=original
 =22	=22	=22
 16eLL	16eeLL	.
 16g	16dd	.
@@ -289,6 +295,7 @@
 16g	16ddd'	.
 16G	16eee'	.
 16gJJ	16fff'JJ	.
+!!LO:LB:g=original
 =28	=28	=28
 16cLL	(4ddd#	.
 16g	.	.
@@ -303,12 +310,15 @@
 (24cLL	([8eeL	.
 24e	.	.
 24aJ	.	.
+!	!LO:TUP:a	!
 8ccJ)	24eeL]	.
 .	24aa	.
 .	24cccJJ	.
+!	!LO:TUP:a	!
 4r	24eeeLL	.
 .	24ccc	.
 .	24aaJJ	.
+!	!LO:TUP:a	!
 .	24cccLL	.
 .	24aa	.
 .	24eeJJ)	.
@@ -340,6 +350,7 @@
 8r	24bbLL	.
 .	24gg	.
 .	24ddJJ)	.
+!!LO:LB:g=original
 =32	=32	=32
 (16DLL	(16.aaLL	.
 16d	.	.
@@ -387,6 +398,7 @@
 16d	.	.
 16A	.	.
 16dJJ)	.	.
+!!LO:LB:g=original
 =37	=37	=37
 .	32gqq	.
 (16BLL	([4gg	.
@@ -437,6 +449,7 @@
 .	32dddk	.
 16E	16eee)	.
 16GJJ	16eee'JJ	.
+!!LO:LB:g=original
 =42	=42	=42
 16DLL	(16eeeLL	.
 16B	16ddd)	.
@@ -485,6 +498,7 @@
 16c	16aa)	.
 16A	16gg'	.
 16cJJ	16ff#'JJ	.
+!!LO:LB:g=original
 =47	=47	=47
 *	*tuplet	*
 8r	([8dddL	.
@@ -531,6 +545,7 @@
 8F# 8AJ)	24ccnLL	.
 .	24dd	.
 .	24aJJ)	.
+!!LO:LB:g=original
 =51	=51	=51
 4G	(>24bLL	.
 .	24g	.
@@ -574,6 +589,7 @@
 8cnJ)	.	16bLL	8f#	.
 .	.	16aJJ)	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =55	=55	=55	=55
 *	*	*tuplet	*
 4B	4G	(>24bLL	f
@@ -621,6 +637,7 @@
 .	16gg	.
 .	16ff#	.
 .	16ggJJ)	.
+!!LO:LB:g=original
 =59	=59	=59
 !LO:TX:b:i:t=legato	!	!
 16DLL	(16ggLL	.
@@ -673,6 +690,7 @@
 .	32ff#qq/	.
 16BJJ	32eeLL	.
 .	32ddJJJ	.
+!!LO:LB:g=original
 =64	=64	=64
 16GLL	8ddd'L)	.
 16A	.	.
@@ -719,6 +737,7 @@
 8D	.	.
 8GGJ	8B) 8g)	.
 8r	8r	.
+!!LO:LB:g=original
 =69:|!|:	=69:|!|:	=69:|!|:
 *>B	*>B	*>B
 *^	*	*
@@ -766,6 +785,7 @@
 .	.	16f#Jk)	.
 .	.	16r	.
 *v	*v	*	*
+!!LO:LB:g=original
 =76	=76	=76
 [4G (4cn	(4a	.
 8G] 8B)	8g)	.
@@ -810,6 +830,7 @@
 16g	.	.
 16d	8r	.
 16gJJ	.	.
+!!LO:LB:g=original
 =81	=81	=81
 16ALL	(8ddL	.
 16g	.	.
@@ -856,6 +877,7 @@
 16g	.	.
 16c	8ee'J	.
 16gJJ	.	.
+!!LO:LB:g=original
 =86	=86	=86
 16GLL	4dd	.
 16g	.	.
@@ -901,6 +923,7 @@
 16g	(16ggLL	.
 16B	16ff#	.
 16gJJ	16ggJJ)	.
+!!LO:LB:g=original
 =91	=91	=91
 16A-LL	16r	.
 16g	(16ee-LL	.
@@ -934,8 +957,9 @@
 8r	16ffJk)	.
 .	16r	.
 4r	4r	.
-=96	=96	=96
 *clefF4	*	*
+!!LO:LB:g=original
+=96	=96	=96
 8r	(8.eenL	.
 8CL	.	.
 .	32ffLL	.
@@ -946,8 +970,8 @@
 *	*^	*
 8cL	(8ddL	8bL	.
 8CJ	16ffL	8ccJ	.
-.	16eeJJ	.	.
-8GL	4ryy	4b 4dd)	.
+.	16eeJJ)	.	.
+8GL	4ryy	4b 4dd	.
 8GGJ	.	.	.
 *	*v	*v	*
 =98	=98	=98
@@ -987,6 +1011,7 @@
 8c 8g	(16ee	.
 .	16ccJJ)	.
 *clefF4	*	*
+!!LO:LB:g=original
 =103	=103	=103
 4G 4B	(16cc#LL	.
 .	16dd	.
@@ -1046,6 +1071,7 @@
 16c	.	.
 16G	8ee'J	.
 16cJJ	.	.
+!!LO:LB:g=original
 =109	=109	=109
 16FLL	(8.aaL	.
 16c	.	.
@@ -1067,9 +1093,11 @@
 *v	*v	*	*
 =111	=111	=111
 !	!LO:TX:b:i:t=legato	!
+!	!LO:TUP:a	!
 4c 4e	24ccLL	.
 .	24g	.
 .	24eeJJ	.
+!	!LO:TUP:a	!
 .	24ccLL	.
 .	24gg	.
 .	24eeJJ	.
@@ -1108,6 +1136,7 @@
 .	24ggLL	.
 .	24ff	.
 .	24eeJJ	.
+!!LO:LB:g=original
 =114	=114	=114
 *^	*	*
 8r	8ryy	24cc#LL	.
@@ -1170,6 +1199,7 @@
 16g	.	.
 16f#	8r	.
 16gJJ	.	.
+!!LO:LB:g=original
 =120	=120	=120
 16BLL	(4.ff	.
 16g	.	.
@@ -1213,18 +1243,23 @@
 *clefF4	*	*
 =124	=124	=124
 *	*tuplet	*
+!LO:TUP:a	!	!
 (24CLL	([8b-L	.
 24E	.	.
 24GJ	.	.
+!	!LO:TUP:a	!
 8cJ)	24b-L]	.
 .	24ee	.
 .	24ggJJ	.
+!	!LO:TUP:a	!
 4r	24bb-LL	.
 .	24gg	.
 .	24eeJJ	.
+!	!LO:TUP:a	!
 .	24ggLL	.
 .	24ee	.
 .	24b-JJ)	.
+!!LO:LB:g=original
 =125	=125	=125
 *	*Xtuplet	*
 (24FFLL	([8aL	.
@@ -1279,6 +1314,7 @@
 .	24ddLL<	.
 .	24b	.
 .	24fJJ)	.
+!!LO:LB:g=original
 =129	=129	=129
 (24CLL	([8eL	.
 24E	.	.
@@ -1324,6 +1360,7 @@
 16g	16bb	.
 16c	16aa	.
 16gJJ	16ggJJ	.
+!!LO:LB:g=original
 =133	=133	=133
 16dLL	16ggLL	.
 16g	16ff	.
@@ -1380,6 +1417,7 @@
 .	32bbk	.
 16f	16ccc)	.
 16aJJ	16ccc'JJ	.
+!!LO:LB:g=original
 =139	=139	=139
 16cLL	8ccc	.
 16g	.	.
@@ -1440,6 +1478,7 @@
 .	32ggk	.
 16AA	16aa)	.
 16DJJ	16aaJJ	.
+!!LO:LB:g=original
 =145	=145	=145
 16GGLL	(16aaLL	.
 16E	16gg)	.
@@ -1452,12 +1491,15 @@
 =146	=146	=146
 *	*tuplet	*
 8r	([8ggL	.
+!	!LO:TUP:a	!
 8C (8EL	24ggL]	.
 .	24ee	.
 .	24ccJJ	.
+!	!LO:TUP:a	!
 8D 8F	24bLL	.
 .	24dd	.
 .	24gJJ	.
+!	!LO:TUP:a	!
 8E 8GJ)	24ccLL	.
 .	24ee	.
 .	24gJJ)	.
@@ -1495,6 +1537,7 @@
 8BB) 8DJ	24fnLL	.
 .	24g	.
 .	24dJJ)	.
+!!LO:LB:g=original
 =150	=150	=150
 4C	(>24eLL	.
 .	24c	.
@@ -1547,16 +1590,17 @@
 4c 4e	(24ccLL	.
 .	24g	.
 .	24ccJJ	<
-.	24eeLL	(
-.	24cc	(
-.	24eeJJ	(
+.	24eeLL	.
+.	24cc	.
+.	24eeJJ	.
 *	*Xtuplet	*
-4r	24ggLL	(
-.	24ee	(
-.	24ggJJ	(
-.	24cccLL	(
-.	24ddd	(
+4r	24ggLL	.
+.	24ee	.
+.	24ggJJ	.
+.	24cccLL	.
+.	24ddd	.
 .	24cccJJ	[
+!!LO:LB:g=original
 =155	=155	=155
 *^	*	*
 *	*^	*	*
@@ -1613,6 +1657,7 @@
 16fJJ	32ccLL	.
 .	32ddJJJ	.
 *clefF4	*	*
+!!LO:LB:g=original
 =160	=160	=160
 16CLL	8cc)	p
 16E	.	.
@@ -1663,6 +1708,7 @@
 16CLL	(8.ggL	mfp
 16F	.	.
 16B	.	.
+!	!LO:TUP:a	!
 16FJJ	48ffLL	.
 .	48ee	.
 .	48ddJJJ	.
@@ -1677,15 +1723,18 @@
 16B	.	.
 16FJJ	32aaLL	.
 .	32bbJJJ	.
+!!LO:LB:g=original
 =166	=166	=166
 16CLL	8ccc)	.
 16E	.	.
 16c	8r	.
 16EJJ	.	.
+!	!LO:TUP:a	!
 16CLL	(24ggLL	.
 .	24aa	.
 16F	.	.
 .	24ggJJ	.
+!	!LO:TUP:a	!
 16B	24ffLL	.
 .	24ee	.
 16FJJ	.	.
@@ -1695,10 +1744,12 @@
 16E	.	.
 16c	8r	.
 16EJJ	.	.
+!	!LO:TUP:a	!
 16CLL	(24ff#LL	.
 .	24gg	.
 16F	.	.
 .	24gg#JJ	.
+!	!LO:TUP:a	!
 16B	24aaLL	.
 .	24bb-	.
 16FJJ	.	.
