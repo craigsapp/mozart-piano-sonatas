@@ -75,6 +75,7 @@
 16B-	16dd	.
 16D	16cc	.
 16dJJ	16b-JJ)	.
+!!LO:LB:g=original
 =4	=4	=4
 16ALL	(16ffLK	.
 16f	8ee-	.
@@ -127,6 +128,7 @@
 16B-	.	.
 16F	8r	.
 16B-JJ	.	.
+!!LO:LB:g=original
 =7	=7	=7
 !!  The first beam in the top staff needs to have subgroups
 !!  added to the beam.
@@ -187,6 +189,7 @@
 16c	.	.	.
 16B-	8GJ)	.	.
 16cJJ)	.	.	.
+!!LO:LB:g=original
 =10	=10	=10	=10
 (16GLL	8En	8b-	.
 16c)	.	.	.
@@ -212,8 +215,8 @@
 .	.	16a 16ccn	.
 .	.	16g 16b-	.
 .	.	16f# 16aJJ)	.
-.	(4D 4F# 4A 4c	[4d 4f# (>4a	sf
-(8B-L	4G)	16d] 16g 16b-)	p
+.	((4D 4F# 4A 4c	[4d 4f# (>4a	sf
+(8B-L	4G))	16d] 16g 16b-)	p
 .	.	(16b-TLL	.
 .	.	16aqLL>	.
 .	.	16b-qJJ	.
@@ -239,6 +242,7 @@
 16B-	8GJ)	.	.	.
 16cJJ)	.	.	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =13	=13	=13	=13
 (16GLL	8En	8b-	.
 16c)	.	.	.
@@ -283,16 +287,19 @@
 .	.	16g 16b-	.
 .	.	16f#) 16aJJ	.
 .	((4D 4F# 4A 4c	[4d 4f# (>4a	sf
-(8B-L)	4G)	16d] 16g 16b-)	p
+&(8B-L)	4G))	16d] 16g 16b-)	p
 .	.	(16b-TLL	.
 .	.	16aqLL>	.
 .	.	16b-qJJ	.
-8enJ)	.	16cc	.
+8enJ&)	.	16cc	.
 .	.	16ddJJ)	.
+!!LO:LB:g=original
 =16	=16	=16	=16
+!	!	!LO:TUP:a	!
 4ryy	(>8A 8fnL	(24ccLL	.
 .	.	24ffn	.
 .	.	24aJJ	.
+!	!	!LO:TUP:a	!
 .	8B- 8dJ)	24gLL	.
 .	.	24b-	.
 .	.	24ddJJ)	.
@@ -342,11 +349,13 @@
 .	.	32een'	.
 .	.	32dd'JJJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =18	=18	=18
 (16CLL	8ccL	.
 16A	.	.
 16F	([8cccJ	.
 16AJJ	.	.
+!	!LO:TUP:a	!
 16CLL	24cccLL]	.
 .	24aa	.
 16A	.	.
@@ -410,7 +419,9 @@
 .	.	32dd	.
 .	.	32ccJJJ)	.
 *v	*v	*	*
+!!LO:LB:g=original
 =21	=21	=21
+!!!ONB: Nach dem Autograph Mozart's
 !LO:TX:b:i:t=legato	!	!
 16B-LL	4b-	p
 16f	.	.
@@ -464,7 +475,9 @@
 16B-	16dd	.
 16D	16cc	.
 16dJJ	16b-JJ)	.
+!!LO:LB:g=original
 =24	=24	=24
+!!!ONB: Nach dem ältesten Ausgaben
 (16ALL	32ff'LLL	.
 .	32een'JJ	.
 16f	(8ee-	sfp
@@ -480,12 +493,13 @@
 16B-	.	.
 16dJJ)	32ee-LL	.
 .	32ddJJJ)	.
+!	!LO:TUP:a	!
 8F 8A 8c	24ccn'LL	<
-.	24ff'	(
+.	24ff'	.
 .	24een'JJ	[
 8r	(32ee-LLL	>
-.	32dd	)
-.	32ee-	)
+.	32dd	.
+.	32ee-	.
 .	32ccJJJ)	]
 =25	=25	=25
 (16B-LL	(8.b-SSsL	p
@@ -504,6 +518,7 @@
 16f	.	.
 16c	8r	.
 16fJJ)	.	.
+!!LO:LB:g=original
 =26	=26	=26
 (16G-LL	(>[8e-	.
 16B-	.	.
@@ -516,7 +531,7 @@
 !	!	!LO:DY:i:t=crescendo
 .	56en	<
 .	56fJJJJ	.
-(16E-LL	64g-LLLL	.
+(16E-LL	64g-LLLL>	.
 .	64gn	.
 .	64a-	.
 .	64an	.
@@ -542,16 +557,16 @@
 16B-JJ)	.	.
 =27	=27	=27
 .	(>32eenqq/	.
-(16CLL	[4ddd-)	.
+(16CLL	[4ddd-)	sf
 16B-	.	.
 16Gn	.	.
 16B-JJ)	.	.
 (16CLL	16ddd-LL]	p
 16B-	(32cccL	.
-.	32bb-)	.
-16G	(32aa-	.
-.	32gg)	.
-16B-JJ)	(32ff	.
+.	32bb-)J	.
+16G	(32aa-L	.
+.	32gg)J	.
+16B-JJ)	(32ffL	.
 .	32eenJJJ)	.
 (16D-LL	(8ggL	.
 16A-	.	.
@@ -559,10 +574,12 @@
 16A-JJ)	.	.
 (16BB-LL	(16ffLL]	.
 16G	16eenJJ	.
+!	!LO:TUP:a	!
 16D-	24ee-LL	.
 .	24dd	.
 16GJJ)	.	.
 .	24dd-JJ)	.
+!!LO:LB:g=original
 =28	=28	=28
 *^	*^	*
 2ryy	(>16CLL	4ryy	(>8.ccSsSL	.
@@ -620,7 +637,9 @@
 16g 16b-	.	16gg 16bb-	.
 16f#) 16aJJ	.	16ff# 16aaJJ)	.
 *clefF4	*	*	*
+!!LO:LB:g=original
 =31	=31	=31	=31
+!!!ONB: Nach dem Autograph Mozart's
 2r	2ryy	16gg (16bb-LL	sfp
 .	.	16ffn 16aa	.
 .	.	16ee- 16gg	.
@@ -676,6 +695,7 @@
 16f)	.	.	.
 (16e-	8cJ)	.	.
 16fJJ)	.	.	.
+!!LO:LB:g=original
 =34	=34	=34	=34
 (16cLL	8A	8ee-	.
 16f)	.	.	.
@@ -703,16 +723,19 @@
 16c 16e-	.	16cc 16ee-	.
 16Bn) 16dJJ	.	16bn 16ddJJ)	.
 (&(>4G 4B 4d 4f	.	[4g 4b (4dd	sfp
-(8e-L)	4c&)	16g] 16cc 16ee-LL)	.
+(8e-L)	4c)	16g] 16cc 16ee-LL)	.
 .	.	(16ee-T	.
 .	.	16ddqLL>	.
 .	.	16ee-qJJ	.
 8aJ)	.	16ff	.
 .	.	16ggJJ)	.
+!!LO:LB:g=original
 =36	=36	=36	=36
+!	!	!LO:TUP:a	!
 (8d 8b-XL	4ryy	(24ffLL	.
 .	.	24bb-X	.
 .	.	24ddJJ	.
+!	!	!LO:TUP:a	!
 8e-) 8gJ	.	24ggLL	.
 .	.	24ee-	.
 .	.	24ccJJ)	.
@@ -762,6 +785,7 @@
 .	.	32dd	.
 .	.	32ccJJJ)	.
 *v	*v	*	*
+!!LO:LB:g=original
 =38	=38	=38
 .	(>32fqq/	.
 (16FLL	([4ff)	.
@@ -839,7 +863,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/10/15
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/18
+!!!EEV: 2024/06/06
 !!!EFL: 53/69
 !!!AGN: piano sonata
 !!!AFR: 
