@@ -1820,4 +1820,4 @@
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro
 !!!title: @{OTL}, K 457, mvmt. @{OMV}
-!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
+!!!filter-hands: hands -c

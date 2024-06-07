@@ -2471,4 +2471,4 @@
 !!!AGN: piano sonata
 !!!AFR: sonata-rondo
 !!!title: @{OTL} (<i>@{OTP}</i>), K 333 (315c), mvmt. @{OMV}
-!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
+!!!filter-hands: hands -c

@@ -724,4 +724,4 @@
 !!!AGN: piano sonata
 !!!AFR: theme and variations
 !!!title: @{OTL} (<i>@{OTP}</i>), K 284 (205b), mvmt. @{OMV}
-!!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
+!!!filter-hands: hands -c
