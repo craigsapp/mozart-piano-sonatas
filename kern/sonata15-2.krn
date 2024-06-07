@@ -25,7 +25,7 @@
 *M3/4	*M3/4	*M3/4
 *MM80	*MM80	*MM80
 =1-	=1-	=1-
-!LO:TX:i:t=legato	!LO:TX:i:t=dolce	!
+!LO:TX:i:t=legato:b	!	!LO:DY:i:t=%s dolce
 16GLL	(2b	p
 16d	.	.
 16B	.	.
@@ -65,6 +65,7 @@
 16c#	16ee	.
 16A#	16dd	.
 16c#JJ	16cc#JJ)	.
+!!LO:LB:g=original
 =4	=4	=4
 16GLL	(8.ddL	.
 16d	.	.
@@ -104,6 +105,7 @@
 16G	.	.
 16D	.	.
 16GJJ	.	.
+!!LO:LB:g=original
 =7	=7	=7
 *^	*	*
 4E	2C	(16aaLL	.
@@ -128,7 +130,7 @@
 .	.	8ccnJ)	[
 *v	*v	*	*
 =9	=9	=9
-!LO:TX:i:t=legato	!	!
+!LO:TX:i:t=legato:b	!	!
 16GLL	([4b	f
 16d	.	.
 16B	.	.
@@ -154,6 +156,7 @@
 16d	16dd'	.
 16B	16ee'	.
 16dJJ	16ff#'JJ	.
+!!LO:LB:g=original
 =11	=11	=11
 16GLL	(16ggLL	.
 16e	16ff#	.
@@ -193,6 +196,7 @@
 16d	16b	.
 16c	16cc	.
 16dJJ	16cc#JJ	.
+!!LO:LB:g=original
 =14	=14	=14
 16GLL	16ddLL	.
 16d	16b	.
@@ -212,8 +216,7 @@
 16A	16ee	.	.
 16E	16cc	.	.
 16AJJ	16aJJ	.	.
-!	!LO:TX:i:t=dim.	!	!
-16DLL	8.gL)	4ryy	.
+16DLL	8.gL)	4ryy	>
 16B	.	.	.
 16G	.	.	.
 16BJJ	(>16gJk	.	.
@@ -231,7 +234,7 @@
 =17:|!:	=17:|!:	=17:|!:
 *>B	*>B	*>B
 *clefG2	*	*
-!	!LO:TX:i:t=dolce	!
+!	!LO:TX:i:t=dolce:c	!
 16dLL	[4dd	.
 16a	.	.
 16f#	.	.
@@ -244,6 +247,7 @@
 16a	16ff#	.
 16f#	16ee	.
 16aJJ	16ddJJ	.
+!!LO:LB:g=original
 =18	=18	=18
 .	.	.
 16eLL	8.cc#L	.
@@ -285,6 +289,7 @@
 16d	.	.
 16gJJ	.	.
 *clefF4	*	*
+!!LO:LB:g=original
 =21	=21	=21
 16ALL	([4ff#	.
 16f#	.	.
@@ -340,6 +345,7 @@
 .	.	16ccnJJ	.
 *v	*v	*	*
 *clefF4	*	*
+!!LO:LB:g=original
 =25	=25	=25
 16GLL	([4b	.
 16d	.	.
@@ -392,6 +398,7 @@
 16d	.	.
 16B	.	.
 16dJJ	.	.
+!!LO:LB:g=original
 =29	=29	=29
 16ALL	(16ccLL>	.
 16d	16a	.
@@ -439,6 +446,7 @@
 4B)	.	4g)	.
 4r	4r	4r	.
 *v	*v	*	*
+!!LO:LB:g=original
 =33:|!	=33:|!	=33:|!
 *>C	*>C	*>C
 16GLL	([4b-	p
@@ -479,6 +487,7 @@
 16d	16ccn	.
 16F#	16b-	.
 16dJJ	16aJJ	.
+!!LO:LB:g=original
 =36	=36	=36
 16GLL	8.b-L	.
 16d	.	.
@@ -518,6 +527,7 @@
 16B-	16ffn	.
 16Fn	16ee-	.
 16B-JJ	16ddJJ	.
+!!LO:LB:g=original
 =39	=39	=39
 16E-LL	16bnLL	.
 16c	16cc	.
@@ -556,6 +566,7 @@
 16d	16dd	.
 16G	16cc	.
 16dJJ	16bnJJ)	.
+!!LO:LB:g=original
 =42	=42	=42
 16E-LL	(8.ccL	.
 16c	.	.
@@ -595,6 +606,7 @@
 16A	.	.
 16F#	.	.
 16AJJ	.	.
+!!LO:LB:g=original
 =45	=45	=45
 16CnLL	[4ee-	.
 16A	.	.
@@ -634,6 +646,7 @@
 16c	16a	.
 16A	16g	.
 16cJJ	16aJJ)	.
+!!LO:LB:g=original
 =48	=48	=48
 *^	*	*
 (4c	2G	(4f# 4a	>
@@ -647,7 +660,7 @@
 .	.	16a#JJ)	.
 *v	*v	*	*
 =49	=49	=49
-!LO:TX:i:t=legato	!	!
+!LO:TX:i:t=legato:b	!	!
 16GLL	(2bn	p
 16d	.	.
 16B	.	.
@@ -686,6 +699,7 @@
 16c#	16ee	.
 16A#	16dd	.
 16c#JJ	16cc#JJ	.
+!!LO:LB:g=original
 =52	=52	=52
 16GLL	8.ddL	.
 16d	.	.
@@ -739,6 +753,7 @@
 .	.	16cc	.
 .	.	16b	.
 .	.	16ccJJ	.
+!!LO:LB:g=original
 =56	=56	=56	=56
 (4G	2D	8.bL	.
 .	.	32ccLL	.
@@ -787,6 +802,7 @@
 16c#	16ee	.
 16A#	16dd	.
 16c#JJ	16cc#JJ	.
+!!LO:LB:g=original
 =60	=60	=60
 16GLL	16ddLL	.
 16d	16b	.
@@ -841,6 +857,7 @@
 16A	16g	.	.
 16cJJ	16aJJ	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =64	=64	=64
 4G 4B	16gLL	<
 .	16f#	.
@@ -888,8 +905,7 @@
 16c	.	16a	.
 16eJJ	.	16eeJJ	.
 *clefF4	*	*	*
-!	!	!LO:TX:i:t=dim.	!
-16DLL	4ryy	8.gL)	.
+16DLL	4ryy	8.gL)	>
 16B	.	.	.
 16G	.	.	.
 16BJJ	.	(>16gJk	.
@@ -898,6 +914,7 @@
 16A	16g	.	.
 16cJJ	16aJJ	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =68	=68	=68
 4G 4B	16gLL	<
 .	16f#	.
@@ -937,9 +954,10 @@
 16B-	.	.
 16En	.	.
 16B-JJ	.	.
+!!LO:LB:g=original
 =71	=71	=71
 *	*^	*
-16DLL	(<4.g	4ryy	.
+16DLL	(<4.g	4ryy	sfp
 16Bn	.	.	.
 16G	.	.	.
 16BJJ	.	.	.
@@ -949,10 +967,10 @@
 .	32g	.	.
 16BJJ	32f#	.	.
 .	32gJJJ	.	.
-16DLL	8bL	4f#	.
+16DLL	8bL	4f#	>
 16c	.	.	.
 16A	8aJ	.	.
-16cJJ	.	.	.
+16cJJ	.	.	]
 *	*v	*v	*
 =72	=72	=72
 4G 4B	16gLL	.
@@ -970,8 +988,7 @@
 =73	=73	=73
 4G 4B))	16gLL	.
 .	16d	.
-!	!LO:TX:i:t=dim.	!
-.	16b)	.
+.	16b)	>
 .	16b'JJ	.
 4r	(16bLL	.
 .	16g	.
@@ -991,6 +1008,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!YOR: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!YOY: 1878
 !!!YEC: 2018 Craig Stuart Sapp
@@ -1004,7 +1022,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/10/26
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/20
+!!!EEV: 2024/06/06
 !!!EFL: 62/69
 !!!AGN: piano sonata
 !!!AFR: 
