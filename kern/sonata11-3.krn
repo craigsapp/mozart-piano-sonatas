@@ -18,11 +18,11 @@
 *>[A,A,B,B,C,C,D,D,E,E,F,F,G,G,H,H,I,I1,I,I2,J]	*>[A,A,B,B,C,C,D,D,E,E,F,F,G,G,H,H,I,I1,I,I2,J]	*>[A,A,B,B,C,C,D,D,E,E,F,F,G,G,H,H,I,I1,I,I2,J]
 *>norep[A,B,C,D,E,F,G,H,I,I2,J]	*>norep[A,B,C,D,E,F,G,H,I,I2,J]	*>norep[A,B,C,D,E,F,G,H,I,I2,J]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*a:	*a:	*a:
-*M2/4	*M2/4	*M2/4
-*MM112	*MM112	*MM112
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M2/4	*M2/4	*
+*MM112	*MM112	*
 4r	(16bLL	p
 .	16a	.
 .	16g#	.
@@ -187,7 +187,7 @@
 !!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>C	*>C	*>C
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 4r	8a 8aaL	f
 .	8b 8bbJ	.
 =25	=25	=25
@@ -544,7 +544,7 @@
 !!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>G	*>G	*>G
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 4r	(16bLL	p
 .	16a	.
 .	16g#	.
@@ -709,7 +709,7 @@
 !!LO:LB:g=original
 =:|!	=:|!	=:|!
 *>I	*>I	*>I
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 4r	(16aLL	f
 .	16aa	.
 .	16b	.

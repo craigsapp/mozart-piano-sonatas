@@ -15,11 +15,11 @@
 *Ipiano	*Ipiano	*
 *LH	*RH	*
 *I"	*I"	*
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M3/4	*M3/4	*M3/4
-*MM120	*MM120	*MM120
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/4	*M3/4	*
+*MM120	*MM120	*
 !	!	!LO:DY:ed=paren
 4r	(8aaL	f
 .	8cc#J)	.
@@ -297,7 +297,7 @@
 .	.	16gg#JJ	.
 =29	=29	=29	=29
 4c#	4A	4aa)	.
-*	*	*clefF4	*clefF4
+*	*	*clefF4	*
 2ryy	(4AAA/	(4AA	pp
 .	4BBB-/	4BB-	.
 *v	*v	*	*
@@ -305,7 +305,7 @@
 =30	=30	=30
 4GGG#	4GG#	.
 4AAA)	4AA)	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 4r	(8.aL	f
 .	16cc#Jk)	.
 =31	=31	=31

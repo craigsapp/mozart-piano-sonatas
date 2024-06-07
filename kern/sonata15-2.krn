@@ -20,11 +20,11 @@
 *>[A,A,B,B,C]	*>[A,A,B,B,C]	*>[A,A,B,B,C]
 *>norep[A,B,C]	*>norep[A,B,C]	*>norep[A,B,C]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#]	*k[f#]	*k[f#]
-*G:	*G:	*G:
-*M3/4	*M3/4	*M3/4
-*MM80	*MM80	*MM80
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M3/4	*M3/4	*
+*MM80	*MM80	*
 =1-	=1-	=1-
 !LO:TX:i:t=legato:b	!	!LO:DY:i:t=%s dolce
 16GLL	(2b	p

@@ -15,11 +15,11 @@
 *Ipiano	*Ipiano	*
 *LH	*RH	*
 *I"	*I"	*
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M3/4	*M3/4	*M3/4
-*MM60	*MM60	*MM60
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M3/4	*M3/4	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 *^	*	*
 4r	4r	(16.aLL	p
@@ -415,7 +415,7 @@
 8E 8cJ	8b-)	.
 8r	8r	.
 16r	16r	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16EE	16G	p
 (8.FFL	32ALLL	<
 .	(32B-	.
@@ -1106,7 +1106,7 @@
 .	16gJJ	.	.
 =78	=78	=78	=78
 8F) 8A))	8f)	8f)	.
-*	*clefF4	*clefF4	*clefF4
+*	*clefF4	*clefF4	*
 8r	8ryy	(>4c	pp
 8AAA 8AA	2ryy	.	.
 8r	.	8F 8AL	.

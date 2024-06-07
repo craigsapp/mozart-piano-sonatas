@@ -18,13 +18,13 @@
 *>[A,A,B,B,C,C,D,D1,D,D2,A,B]	*>[A,A,B,B,C,C,D,D1,D,D2,A,B]	*>[A,A,B,B,C,C,D,D1,D,D2,A,B]
 *>norep[A,B,C,D,D2,A,B]	*>norep[A,B,C,D,D2,A,B]	*>norep[A,B,C,D,D2,A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *kcancel	*kcancel	*kcancel
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
-*A:	*A:	*A:
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
 !!LO:TX:a:omd:t=MENUETTO.
-*M3/4	*M3/4	*M3/4
-*MM120	*MM120	*MM120
+*M3/4	*M3/4	*
+*MM120	*MM120	*
 =1-	=1-	=1-
 .	(32c#qLLL	.
 .	32eqJJJ	.
@@ -434,8 +434,8 @@
 =49:|!|:	=49:|!|:	=49:|!|:
 *>C	*>C	*>C
 !!!OMD: Trio.
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*M3/4	*M3/4	*M3/4
+*k[f#c#]	*k[f#c#]	*
+*M3/4	*M3/4	*
 [2.DD [2.D	(8f# 8aL	p
 .	8A	.
 .	8d 8f#	.

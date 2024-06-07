@@ -18,11 +18,11 @@
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M6/8	*M6/8	*M6/8
-*MM144	*MM144	*MM144
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M6/8	*M6/8	*
+*MM144	*MM144	*
 =1-	=1-	=1-
 !	!	!LO:DY:t=%s legato
 4FF 4AA 4C 4F	16r	f

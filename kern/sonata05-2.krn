@@ -18,12 +18,12 @@
 *>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]	*>[A,A1,A,A2,B,B1,B,B2,C]
 *>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]	*>norep[A,A2,B,B2,C]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4
-*met(c)	*met(c)	*met(c)
-*MM84	*MM84	*MM84
+*clefG2	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM84	*MM84	*
 =1-	=1-	=1-
 *^	*	*
 !LO:TX:i:a:t=legato	!	!	!

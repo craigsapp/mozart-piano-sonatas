@@ -22,12 +22,12 @@
 *>[A,A,B,B,C,C,D,D1,D,D2,E,F,F,G,G,H]	*>[A,A,B,B,C,C,D,D1,D,D2,E,F,F,G,G,H]	*>[A,A,B,B,C,C,D,D1,D,D2,E,F,F,G,G,H]
 *>norep[A,B,C,D,D2,E,F,G,H]	*>norep[A,B,C,D,D2,E,F,G,H]	*>norep[A,B,C,D,D2,E,F,G,H]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M4/4	*M4/4	*M4/4
-*met(c)	*met(c)	*met(c)
-*MM60	*MM60	*MM60
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 !	!LO:TX:b:i:t=dolce	!
 4EE- 4E-	(4g 4b-	.

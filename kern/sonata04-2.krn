@@ -18,12 +18,12 @@
 *>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]	*>[A,A,B,B,C,C,D,D,A,B]
 *>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]	*>norep[A,B,C,D,A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-]	*k[b-e-]	*k[b-e-]
-*B-:	*B-:	*B-:
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
 !!LO:TX:omd:t=Menuetto I
-*M3/4	*M3/4	*M3/4
-*MM120	*MM120	*MM120
+*M3/4	*M3/4	*
+*MM120	*MM120	*
 4r	(8.ddL	p
 .	16ee-Jk)	.
 =1	=1	=1
@@ -220,9 +220,9 @@
 =:|!|:;	=:|!|:;	=:|!|:
 *>C	*>C	*>C
 !!!OMD: Menuetto II
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M3/4	*M3/4	*M3/4
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M3/4	*M3/4	*
 4r	(16b-LL	p
 .	16cc	.
 .	16b-	.

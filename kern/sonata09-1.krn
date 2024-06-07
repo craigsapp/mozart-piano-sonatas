@@ -18,12 +18,12 @@
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M4/4	*M4/4	*M4/4
-*met(c)	*met(c)	*met(c)
-*MM132	*MM132	*MM132
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM132	*MM132	*
 =1-	=1-	=1-
 4DD 4AA 4D	4f#: 4a: 4dd:	f
 4r	4r	.
@@ -366,7 +366,7 @@
 16e	.	.
 16d#	.	.
 16eJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16f#LL	8r	.
 16e	.	.
 16d#	8AA'	.
@@ -381,7 +381,7 @@
 16eJJ	.	.
 =28	=28	=28
 4c#	4AA	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16c#LL	(4ee	p
 16a	.	.
 16c#	.	.
@@ -1283,7 +1283,7 @@
 16a	.	.
 16g#	.	.
 16aJJ	.	.
-*	*clefF4	*clefF4
+*	*clefF4	*
 16bLL	8r	.
 16a	.	.
 16g#	8D'/	.
@@ -1298,7 +1298,7 @@
 16aJJ	.	.
 =91	=91	=91
 4f#	4D	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 16f#LL	(4aa	p
 16dd	.	.
 16f#	.	.

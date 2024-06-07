@@ -19,11 +19,11 @@
 *>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]
 *>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M3/4	*M3/4	*M3/4
-*MM60	*MM60	*MM60
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M3/4	*M3/4	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 2E-	4g 4b-	.
 .	(8f 8a-L	.

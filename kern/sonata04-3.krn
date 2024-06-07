@@ -18,10 +18,10 @@
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefG2	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M2/4	*M2/4	*M2/4
+*clefG2	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M2/4	*M2/4	*
 8r	8b-'	p
 =1	=1	=1
 8r	4.b-	.

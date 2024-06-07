@@ -18,11 +18,11 @@
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M3/8	*M3/8	*M3/8
-*MM160	*MM160	*MM160
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M3/8	*M3/8	*
+*MM160	*MM160	*
 8r	(16cccLL	f
 .	16aaJJ	.
 =1	=1	=1

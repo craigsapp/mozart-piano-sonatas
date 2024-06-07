@@ -18,12 +18,12 @@
 *>[A,A,B]	*>[A,A,B]	*>[A,A,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M4/4	*M4/4	*M4/4
-*met(c)	*met(c)	*met(c)
-*MM120	*MM120	*MM120
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM120	*MM120	*
 =1-	=1-	=1-
 (16CLL	4e: 4g: 4cc:	f
 16c	.	.

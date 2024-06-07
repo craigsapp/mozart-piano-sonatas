@@ -14,12 +14,12 @@
 *Ipiano	*Ipiano	*
 *LH	*RH	*
 *I"	*I"	*
-*clefF4	*clefG2	*clefG2
-*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
-*E-:	*E-:	*E-:
-*M4/4	*M4/4	*M4/4
-*met(c)	*met(c)	*met(c)
-*MM60	*MM60	*MM60
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM60	*MM60	*
 =1-	=1-	=1-
 *	*^	*
 !	!LO:TX:i:c:t=(sotto voce)	!	!

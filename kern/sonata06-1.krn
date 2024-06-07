@@ -19,12 +19,12 @@
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M4/4	*M4/4	*M4/4
-*met(c)	*met(c)	*met(c)
-*MM136	*MM136	*MM136
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM136	*MM136	*
 =1-	=1-	=1-
 4DD 4D	4d: 4f#: 4a: 4dd:	f
 4r	4r	.

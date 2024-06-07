@@ -18,11 +18,11 @@
 *>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]
 *>norep[A,B,C,C2,D]	*>norep[A,B,C,C2,D]	*>norep[A,B,C,C2,D]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*a:	*a:	*a:
-*M2/4	*M2/4	*M2/4
-*MM160	*MM160	*MM160
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M2/4	*M2/4	*
+*MM160	*MM160	*
 =1-	=1-	=1-
 *^	*^	*
 8r	8r	(4.cc	4.a	p
@@ -800,7 +800,7 @@
 !!LO:LB:g=original
 =143!|:	=143!|:	=143|!:
 *>B	*>B	*>B
-*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*k[f#c#g#]	*k[f#c#g#]	*
 *^	*	*
 (8AL	2A	4.a (4.cc#	p
 8c#	.	.	.
@@ -987,7 +987,7 @@
 .	.	8bJ	.
 *v	*v	*	*
 =176||	=176||	=176||
-*k[]	*k[]	*k[]
+*k[]	*k[]	*
 *>D	*>D	*>D
 *^	*^	*
 8r	8r	(4.cc	4.a	p

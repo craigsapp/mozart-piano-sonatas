@@ -18,11 +18,11 @@
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[f#c#]	*k[f#c#]	*k[f#c#]
-*D:	*D:	*D:
-*M2/2	*M2/2	*M2/2
-*met(c|)	*met(c|)	*met(c|)
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M2/2	*M2/2	*
+*met(c|)	*met(c|)	*
 =|!:	=|!:	=!|:
 2r	4a 4aa	p
 .	8a 8aaL	.

@@ -18,11 +18,11 @@
 *>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
 *>norep[A,B]	*>norep[A,B]	*>norep[A,B]
 *>A	*>A	*>A
-*clefF4	*clefG2	*clefG2
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
-*f:	*f:	*f:
-*M6/8	*M6/8	*M6/8
-*MM72	*MM72	*MM72
+*clefF4	*clefG2	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*f:	*f:	*
+*M6/8	*M6/8	*
+*MM72	*MM72	*
 =1-	=1-	=1-
 4F 4A-	8.cctL	f
 .	16dd-k	.
@@ -278,7 +278,7 @@
 8AAA-)	8C 8A-)	.
 8r	8r	.
 8r	8r	.
-*	*clefG2	*clefG2
+*	*clefG2	*
 !!LO:LB:g=original
 =25:|!|:	=25:|!|:	=25:|!|:
 *>B	*>B	*>B

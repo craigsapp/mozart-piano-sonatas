@@ -15,14 +15,14 @@
 *Ipiano	*Ipiano	*
 *LH	*RH	*
 *I"	*I"	*
-*clefF4	*clefG2	*clefG2
+*clefF4	*clefG2	*
 *>[A,A,B,B,C,C,D,D,E]	*>[A,A,B,B,C,C,D,D,E]	*>[A,A,B,B,C,C,D,D,E]
 *>norep[A,B,C,D,E]	*>norep[A,B,C,D,E]	*>norep[A,B,C,D,E]
 *>A	*>A	*>A
-*k[b-]	*k[b-]	*k[b-]
-*F:	*F:	*F:
-*M3/4	*M3/4	*M3/4
-*MM88	*MM88	*MM88
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M3/4	*M3/4	*
+*MM88	*MM88	*
 !	!LO:TX:b:i:t=dolce	!
 8r	(8cc'L	.
 4r	8cc'	.
@@ -211,7 +211,7 @@
 !!LO:LB:g=original
 =:|!|:	=:|!|:	=:|!|:
 *>C	*>C	*>C
-*k[b-e-a-d-]	*k[b-e-a-d-]	*k[b-e-a-d-]
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
 8r	(8c' 8a-'L	pp
 4r	8c' 8a-'	.
 .	8c') 8a-'J	.
@@ -421,7 +421,7 @@
 4F	4A- 4c 4f	.
 8r	8r	.
 =-	=-	=-
-*k[b-]	*k[b-]	*k[b-]
+*k[b-]	*k[b-]	*
 !	!LO:TX:b:i:t=dolce	!
 8r	(8cc'L	.
 4r	8cc'	.

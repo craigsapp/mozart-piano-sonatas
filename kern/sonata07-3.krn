@@ -15,11 +15,11 @@
 *Ipiano	*Ipiano	*
 *LH	*RH	*
 *I"	*I"	*
-*clefF4	*clefG2	*clefG2
-*k[]	*k[]	*k[]
-*C:	*C:	*C:
-*M2/4	*M2/4	*M2/4
-*MM112	*MM112	*MM112
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M2/4	*M2/4	*
+*MM112	*MM112	*
 8r	8gg	mf
 *clefG2	*	*
 =1	=1	=1
