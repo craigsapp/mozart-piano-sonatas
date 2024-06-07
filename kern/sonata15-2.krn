@@ -1025,6 +1025,6 @@
 !!!EEV: 2024/06/06
 !!!EFL: 62/69
 !!!AGN: piano sonata
-!!!AFR: 
+!!!AFR:
 !!!title: @{OTL}, @{SCT1}, mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"

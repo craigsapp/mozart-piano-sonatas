@@ -1794,6 +1794,6 @@
 !!!EEV: 2024/06/05
 !!!EFL: 42/69
 !!!AGN: piano sonata
-!!!AFR: 
+!!!AFR:
 !!!title: @{OTL}, K 330 (300h), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
