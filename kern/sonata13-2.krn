@@ -77,6 +77,7 @@
 .	16ee-	.	.
 .	16ccJJ	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =6	=6	=6
 4F 4c	4b-	.
 4B- 4d	8.a-TL	.
@@ -129,6 +130,7 @@
 16A-	.	(16ee-	.
 16FJJ	.	16ddJJ)	.
 *	*v	*v	*
+!!LO:LB:g=original
 =10	=10	=10
 16E-LL	(16ffLK	.
 16G	8ee-	.
@@ -180,6 +182,7 @@
 8F	4r	4r	.
 8DJ)	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =14	=14	=14
 .	(32fqq	.
 (8BB-L	4.ff)	.
@@ -219,10 +222,11 @@
 .	32dd	.	.
 .	32ee-JJJ	.	.
 8B- 8d	8ff)	8dd	.
-(8BB-'L	4.ryy	8r	.
-8BB-'	.	4r	.
+(8BB-'L	8r	8r	.
+8BB-'	4r	4r	.
 8BB-'J)	.	.	.
 *	*v	*v	*
+!!LO:LB:g=original
 =18	=18	=18
 8r	(4.aa-X	.
 (8DL	.	.
@@ -285,6 +289,7 @@
 16G	.	.	.
 16E-	8aanJ)	8ccJ)	.
 16FJJ	.	.	.
+!!LO:LB:g=original
 =23	=23	=23	=23
 16DLL	([8bb-L	4.b-	.
 16F	.	.	.
@@ -348,6 +353,7 @@
 8c 8e-	.	8cc 8ee-	.
 8d 8fJ)	.	8b- 8ddJ)	.
 *	*v	*v	*
+!!LO:LB:g=original
 =28	=28	=28
 *^	*	*
 4e- 4g	2r	(32bnLLL	.
@@ -395,6 +401,7 @@
 (8A-XL	(8d 8fL	] p
 8G	8e- 8g	.
 8FJ)	8f) 8a-XJ	.
+!!LO:LB:g=original
 =32:|!|:	=32:|!|:	=32:|!|:
 *>B	*>B	*>B
 2En	(4f# 4an	.
@@ -453,6 +460,7 @@
 .	16cc	.	.
 .	16ee-	[8e-	.
 .	16ddJJ)	.	.
+!!LO:LB:g=original
 =39	=39	=39	=39
 4.GG	(4bn	4e-]	.
 .	2cc)	2e-	.
@@ -518,6 +526,7 @@
 16B-	.	.	.
 16c	.	8b-' 8cc'J)	.
 16B-JJ	.	.	.
+!!LO:LB:g=original
 =45	=45	=45	=45
 16FLL	(8gg	4.a- 4.cc	.
 16A-	.	.	.
@@ -572,6 +581,7 @@
 8B- (8fL	8dd' (8aa-'L	.
 8B-' 8f'	8dd' 8aa-'	.
 8B-' 8f'J)	8dd' 8aa-'J)	.
+!!LO:LB:g=original
 =50	=50	=50
 *	*^	*
 4B- 4f	(8.aa-L	4dd	.
@@ -628,6 +638,7 @@
 .	32a-	.
 .	32g	.
 .	32fJJJ)	.
+!!LO:LB:g=original
 =54	=54	=54
 (16AAnLL	(4G (4e-X	.
 16BB-	.	.
@@ -680,6 +691,7 @@
 .	.	16g	.
 .	8GJ	16ee-	.
 .	.	16dd-JJ)	.
+!!LO:LB:g=original
 =57	=57	=57	=57
 8e-]	8A-	(16bnLL	.
 .	.	16cc	.
@@ -738,13 +750,14 @@
 16G	.	.
 16B-	8g') 8b-'J	.
 16GJJ	.	.
+!!LO:LB:g=original
 =61	=61	=61
 *	*^	*
 (16E-LL	(16ee-LL	8a-	.
 16F	16ddJJ	.	.
 16A-	8ryy	4ccc)	.
 16FJJ	.	.	.
-16E-LL	4r	.	.
+16E-LL	4raa	.	.
 16F	.	.	.
 16A-	.	(>32bb-LLL	.
 .	.	32aa-	.
@@ -798,6 +811,7 @@
 *clefG2	*	*
 (8a-L	8ddL	.
 8gJ)	8ee-J)	.
+!!LO:LB:g=original
 =65	=65	=65
 *	*^	*
 (8f 8a-L	8ffL	(8ddL	.
@@ -858,6 +872,7 @@
 8A- 8e-J	.	16dd	.
 .	.	16ccJJ)	.
 *v	*v	*	*
+!!LO:LB:g=original
 =70	=70	=70
 *	*^	*
 8G 8e-L	(24b-XLL	2ryy	.
@@ -913,6 +928,7 @@
 8F 8A-	.	8f 8a-	.
 8G 8B-J)	.	8e-) 8gJ	.
 *	*v	*v	*
+!!LO:LB:g=original
 =74	=74	=74
 *^	*	*
 4.ryy	4A- 4c	(<[8fL	.
@@ -965,6 +981,7 @@
 8f 8a-	.	8ff 8aa-	.
 8g) 8b-J	.	8ee- 8ggJ)	.
 *	*v	*v	*
+!!LO:LB:g=original
 =78	=78	=78
 *^	*	*
 4a- 4cc	2ryy	(32eenLLL	.
@@ -1045,6 +1062,6 @@
 !!!EEV: 2018/06/18
 !!!EFL: 56/69
 !!!AGN: piano sonata
-!!!AFR: 
+!!!AFR:
 !!!title: @{OTL} (<i>@{OTP}</i>), K 333 (315c), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
