@@ -7,7 +7,7 @@
 !!!SCT2: K<sup>6</sup> 189e
 !!!OMV: 3
 !!!OMD: Presto.
-!!!ODT: 1774///
+!!!ODT: 1774
 **kern	**kern	**dynam
 *part1	*part1	*
 *staff2	*staff1	*staff1/2
@@ -1170,6 +1170,6 @@
 !!!EEV: 2020/08/15
 !!!EFL: 6/69
 !!!AGN: piano sonata
-!!!AFR:
+!!!AFR: sonata-allegro
 !!!title: @{OTL}, K 280 (189e), mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
