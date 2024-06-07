@@ -15,8 +15,8 @@
 *Ipiano	*Ipiano	*
 *LH	*RH	*
 *I"	*I"	*
-*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
-*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>[A,A,B,B1,B,B2,C]	*>[A,A,B,B1,B,B2,C]	*>[A,A,B,B1,B,B2,C]
+*>norep[A,B,B2,C]	*>norep[A,B,B2,C]	*>norep[A,B,B2,C]
 *>A	*>A	*>A
 *clefF4	*clefG2	*clefG2
 *k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
@@ -67,6 +67,7 @@
 8G#)	.	8bn)	.
 8r	8r	8r	.
 *v	*v	*	*
+!!LO:LB:g=original
 =5	=5	=5
 4AAA 4CC# 4EE 4AA	16cc#LL	f
 .	(16a	.
@@ -134,6 +135,7 @@
 .	16c#	.
 .	16eJJ)	.
 4AAA	4a	.
+!!LO:LB:g=original
 =9:|!|:	=9:|!|:	=9:|!|:
 *>B	*>B	*>B
 (8AL	(16aLL	p
@@ -170,7 +172,7 @@
 8eJ)	16dd#	.
 .	16eeJJ)	.
 =11	=11	=11
-4AA 4C# 4E 4A	(16eeLL	f
+4AA: 4C#: 4E: 4A:	(16eeLL	f
 .	16aa	.
 .	16ccc#	.
 .	16bbJJ	.
@@ -178,7 +180,7 @@
 .	16gg#	.
 .	16ff#	.
 .	16eeJJ	.
-4BB 4D 4G# 4B	16ddnLL	.
+4BB: 4D: 4G#: 4B:	16ddnLL	.
 .	16gg#	.
 .	16bb	.
 .	16aaJJ	.
@@ -187,15 +189,15 @@
 .	16ee	.
 .	16ddJJ	.
 =12	=12	=12
-4C# 4E 4A 4c#	16cc#LL	.
+4C#: 4E: 4A: 4c#:	16cc#LL	.
 .	16ee	.
 .	16aa	.
 .	16gg#JJ	.
-4D 4F# 4B 4d	16ff#LL	.
+4D: 4F#: 4B: 4d:	16ff#LL	.
 .	16ee	.
 .	16dd	.
 .	16cc#JJ	.
-4E 4G# 4B 4e	16bLL	.
+4E: 4G#: 4B: 4e:	16bLL	.
 .	16a	.
 .	16g#	.
 .	16f#JJ	.
@@ -203,6 +205,7 @@
 (16dLL	16r	.
 16c#	8r	.
 16BJJ	.	.
+!!LO:LB:g=original
 =13	=13	=13
 8AL	8cc#'L	p
 .	(32ddqq	.
@@ -250,6 +253,7 @@
 8r	8r	8r	.
 *	*v	*v	*
 =17	=17	=17
+!LO:TX:b:i:t=legato	!	!
 16AALL	(16cc#LL	f
 16C#	16a	.
 16E	16ee	.
@@ -266,7 +270,9 @@
 16F#	16ff#	.
 16B	16ee	.
 16dJJ	16ddJJ	.
+!!LO:LB:g=original
 =18	=18	=18
+*>B1	*>B1	*>B1
 16ELL	16cc#LL	.
 16A	16ee	.
 16c#	16a	.
@@ -281,6 +287,7 @@
 16AJJ	16eJJ	.
 4AA	4a)	.
 =19:|!	=19:|!	=19:|!
+*>B2	*>B2	*>B2
 16ELL	16cc#LL	.
 16A	(16ee	.
 16c#	16a	.
@@ -298,6 +305,7 @@
 8c# 8eJ	16gg#	.
 .	16aaJJ	.
 =20	=20	=20
+*>C	*>C	*>C
 8AL	16gg#LL	p
 .	16ff#	.
 8d 8f#	16ee#	.
@@ -314,6 +322,7 @@
 .	16cc#	.
 8c# 8eJ	16ee	.
 .	16aaJJ	.
+!!LO:LB:g=original
 =21	=21	=21
 8AL	16gg#LL	.
 .	16ff#	.
@@ -360,6 +369,7 @@
 .	16ee	.
 .	16dd#	.
 .	16eeJJ)	.
+!!LO:LB:g=original
 =24	=24	=24
 4D 4B	16r	.
 .	(16ddnLL	.
@@ -412,6 +422,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**dynam: > = dim.
 !!!YOR: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!YOY: 1878
 !!!YEC: 2018 Craig Stuart Sapp
@@ -423,7 +434,7 @@
 !!!URL-youtube: https://www.youtube.com/watch?v=wNMypdCkonk&t=760s András Schiff
 !!!URL-wikipedia: https://en.wikipedia.org/wiki/Piano_Sonata_No._11_(Mozart)#I._Andantino_grazioso
 !!!ENC: Craig Stuart Sapp
-!!!END: 2009/09/29
+!!!END: 2009/09/29Ļ
 !!!EED: Craig Stuart Sapp
 !!!EEV: 2024/06/06
 !!!EFL: 49/69
