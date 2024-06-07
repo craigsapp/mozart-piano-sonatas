@@ -3,6 +3,7 @@
 !!!CDT: 1756/01/27/-1791/12/05/
 !!!CNT: German
 !!!OTL: Piano Sonata No. 15 in C major
+!!!OTP: sonata facile
 !!!ONB: Sonata No. 16 in NMA
 !!!SCT1: K 545
 !!!OMV: 2
@@ -1026,5 +1027,5 @@
 !!!EFL: 62/69
 !!!AGN: piano sonata
 !!!AFR:
-!!!title: @{OTL}, @{SCT1}, mvmt. @{OMV}
+!!!title: @{OTL} (<i>@{OTP}</i>), @{SCT1}, mvmt. @{OMV}
 !!!filter-hand: shed -ke "s/^LH$/color:dodgerblue/I; s/^RH$/color:crimson/I"
