@@ -73,6 +73,7 @@
 4e- 4g	4cc	.
 4r	4r	.
 *clefF4	*	*
+!!LO:LB:g=original
 =9	=9	=9
 *	*^	*
 (8GGL	2.g	2.ryy	f
@@ -131,6 +132,7 @@
 8BB'	8.dd	.
 8BB'J	.	.
 .	16ffJk	.
+!!LO:LB:g=original
 =15	=15	=15
 (8CCL	16ee-MLL	.
 .	16dd	.
@@ -186,6 +188,7 @@
 .	16ddL	.
 .	16ee-JJ)	.
 *clefF4	*	*
+!!LO:LB:g=original
 =21	=21	=21
 2BBB- 2BB-	(12aa-L	.
 .	12bb-	.
@@ -235,6 +238,7 @@
 8B-	8anL	.
 8BB-	8a-	.
 8B-J	8f#J	.
+!!LO:LB:g=original
 =25	=25	=25
 8E-L	4.g	.
 8B-	.	.
@@ -290,6 +294,7 @@
 4c- 4e-)	4r	.
 4r	8ee-L	.
 .	8ee-J	.
+!!LO:LB:g=original
 =31	=31	=31
 4r	4bb-	.
 4B- (4d	4r	.
@@ -344,6 +349,7 @@
 8a-	4r	.
 8b-J	.	.
 *	*clefF4	*clefF4
+!!LO:LB:g=original
 =38	=38	=38
 8fL	(4.A-	.
 8b-	.	.
@@ -404,6 +410,7 @@
 8g	4r	.
 8b-J)	.	.
 *	*clefG2	*clefG2
+!!LO:LB:g=original
 =44	=44	=44
 (8e-L	2b- 2bb-	f
 8g	.	.
@@ -459,6 +466,7 @@
 8EnJ)	.	.
 4BB-\' 4E\'	4d-) 4dd-	.
 2r	2r	.
+!!LO:LB:g=original
 =51	=51	=51
 1AA- 1C 1F	(>12cc/L	.
 .	12ff/	.
@@ -517,8 +525,10 @@
 4A- 4c 4f	4r	.
 4r	4eee-	.
 4An 4c 4g-	4r	.
+!!LO:LB:g=original
 =57	=57	=57
 4B- 4e- 4gn	8r	.
+!	!	!LO:DY:ed=paren
 .	(8b-L	p
 4r	8bb-	.
 .	8aanJ	.
@@ -575,6 +585,7 @@
 8d	8ggL	.
 8a-J	8ffJ	.
 *clefF4	*	*
+!!LO:LB:g=original
 =63	=63	=63
 8E-L	8ee-'L)	f
 8B-	8ee-'J	.
@@ -630,6 +641,7 @@
 4e- 4g	12ee-L	.
 .	12dd-	.
 .	12bnJ	.
+!!LO:LB:g=original
 =68	=68	=68
 4e- 4a-	4cc)	.
 4r	(12cccL	.
@@ -689,6 +701,7 @@
 .	4bn)	.
 .	4b	.
 4r	4r	.
+!!LO:LB:g=original
 =75:|!|:	=75:|!|:	=75:|!|:
 *>B	*>B	*>B
 2CC 2C	2c	f
@@ -752,6 +765,7 @@
 8c	8bn\L	.
 8C	8b-\	.
 8cJ	8gJ\)	.
+!!LO:LB:g=original
 =81	=81	=81
 8FL	(4.a-	.
 8c	.	.
@@ -815,6 +829,7 @@
 4AAn' 4An'	12bb-L	.
 .	12aa	.
 .	12ggJ	.
+!!LO:LB:g=original
 =86	=86	=86
 4D' 4d'	12ff#L	.
 .	12aan	.
@@ -869,6 +884,7 @@
 12GL	4ff'	.
 12B	.	.
 12dJ	.	.
+!!LO:LB:g=original
 =90	=90	=90
 12FL	4bbn'	.
 12Bn	.	.
@@ -929,6 +945,7 @@
 4GG)	4ff' 4fff'	.
 2r	2r	.
 *clefG2	*	*
+!!LO:LB:g=original
 =95	=95	=95
 2r	4ff'	p
 .	4aa-'	.
@@ -979,6 +996,7 @@
 2GGG 2GG	2G	f
 4BBBn' 4BBn'	4Bn'	.
 4DD' 4D'	4d'	.
+!!LO:LB:g=original
 =105	=105	=105
 4GG' 4G'	4g'	.
 4BBn' 4Bn'	4bn'	.
@@ -1037,6 +1055,7 @@
 8G	.	.	.
 8GG	4ee-	[4cc	.
 8GJ	.	.	.
+!!LO:LB:g=original
 =112	=112	=112	=112
 8GG/L	2dd)	(4cc]	f
 8G/)	.	.	.
@@ -1098,6 +1117,7 @@
 .	(8ddL	.
 4r	8ff	.
 .	8bnJ)	.
+!!LO:LB:g=original
 =118	=118	=118
 2r	2cc	f
 2c	4ee-'	.
@@ -1149,6 +1169,7 @@
 8f	.	.
 8d-	(4dd-	.
 8fJ)	.	.
+!!LO:LB:g=original
 =125	=125	=125
 1An 1c 1e- 1f#	(8dd-L)	sfp
 .	8bn	.
@@ -1181,7 +1202,7 @@
 =129	=129	=129
 !! Next B- note is notated without an accidental in the source, but
 !! seems to be a B-natural:
-4G 4BnX)	4gg	.
+4G 4BnXi)	4gg	.
 4r	(4gg'	.
 2r	4gg'	.
 .	4gg')	.
@@ -1205,6 +1226,7 @@
 8g	.	.
 8e-	4cc	.
 8gJ	.	.
+!!LO:LB:g=original
 =132	=132	=132
 8enL	(2cc#	.
 8g	.	.
@@ -1263,10 +1285,11 @@
 8c	.	.
 8gJ	16F#LL	.
 .	16GJJ	.
-8e-L	8A-L	.
+8e-L	8A-Lπ	.
 8g	8G	.
 8c	8Fn	.
 8gJ	8E-J	.
+!!LO:LB:g=original
 =138	=138	=138
 8fL	2D	.
 8g	.	.
@@ -1330,6 +1353,7 @@
 .	.	8ee-L	4bn	.
 .	.	8ddJ)	.	.
 *	*	*v	*v	*
+!!LO:LB:g=original
 =145	=145	=145	=145
 8E-L	4C	2c 2cc	f
 (8G	.	.	.
@@ -1391,6 +1415,7 @@
 .	12F<L	.
 .	12C<	.
 .	12F<J	.
+!!LO:LB:g=original
 =151	=151	=151
 1r	12A-<L	.
 .	12F<	.
@@ -1456,6 +1481,7 @@
 8g	8ddJ)	.
 8f	8r	.
 8gJ	(8dd	.
+!!LO:LB:g=original
 =157	=157	=157
 8cL	8ffL	.
 8g	8ee-J)	.
@@ -1523,6 +1549,7 @@
 .	.	12a-	.
 .	.	12gJ	.
 *v	*v	*	*
+!!LO:LB:g=original
 =163	=163	=163
 4F 4c	4a-)	.
 4F	4cc 4ff 4aa-	.
@@ -1576,6 +1603,7 @@
 .	12fL	.
 .	12e-	.
 .	12dJ)	.
+!!LO:LB:g=original
 =168:|!	=168:|!	=168:|!
 *>C	*>C	*>C
 2CC 2C	4c	.
@@ -1637,6 +1665,7 @@
 .	16dd	.
 12e-J	.	.
 .	16ccJJ)	.
+!!LO:LB:g=original
 =175	=175	=175
 12GL	1ddtt	.
 12Bn	.	.
@@ -1706,6 +1735,7 @@
 4GG	12r	f
 .	(12GL	.
 .	12gJ)	.
+!!LO:LB:g=original
 =180	=180	=180
 4AA-	12r	.
 .	(12A-L	p
@@ -1771,6 +1801,7 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, paren
 !!!YOR: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!YOY: 1878
 !!!YEC: 2018 Craig Stuart Sapp
@@ -1784,7 +1815,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/29
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/20
+!!!EEV: 2024/06/06
 !!!EFL: 58/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro
