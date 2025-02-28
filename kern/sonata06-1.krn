@@ -3,7 +3,7 @@
 !!!CDT: 1756/01/27/-1791/12/05/
 !!!CNT: German
 !!!OTL: Piano Sonata No. 6 in D major
-!!!OTP: D&uuml;rnitz
+!!!OTP: Dürnitz
 !!!SCT1: K<sup>1</sup> 284
 !!!SCT2: K<sup>6</sup> 205b
 !!!OMV: 1
@@ -157,7 +157,7 @@
 8DJ	.	8ff#	.
 *	*v	*v	*
 =13	=13	=13
-4GG 4G	(16eeLL	f
+4GG\ 4G\	(16eeLL	f
 .	16ddd	.
 .	16ee	.
 .	16dddJJ	.
@@ -169,7 +169,7 @@
 .	16ddd	.
 .	16ee	.
 .	16dddJJ	.
-4GG 4G	16eeLL	.
+4GG\ 4G\	16eeLL	.
 .	16ddd	.
 .	16ee	.
 .	16dddJJ	.
@@ -406,7 +406,7 @@
 .	16aanJJ	.
 8D 8d	16bLL	.
 .	16aa	.
-8C# 8c#J	16a#	.
+8C# 8c#J	16a#X	.
 .	16aanJJ	.
 4D 4d	16bLL	.
 .	16dd	.
@@ -708,6 +708,7 @@
 !!LO:LB:g=original
 =52:|!|:	=52:|!|:	=52:|!|:
 *>B	*>B	*>B
+!	!	!LO:DY:a2:rj
 4AA 4A	16aLL	sf
 !	!LO:TX:b:i:t=legato	!
 .	16aa	.
@@ -736,7 +737,7 @@
 8bb>J	16a	.
 .	16ggnJJ	.
 8aa>L>	16aLL<	.
-.	16ff#	.
+.	16ff#X	.
 8bb>	16a	.
 .	16ggJJ	.
 8aa>	16aLL<	.
@@ -1189,8 +1190,8 @@
 8DJ	8bJ	.	.
 8DL	4a	4f#	.
 8D	.	.	.
-8D	4ryy	8r	.
-8DJ	.	8ff#	.
+8D	8r	4ryy	.
+8DJ	8ff#	.	.
 *	*v	*v	*
 =84	=84	=84
 4GG\ 4G\	(16eeLL	f
@@ -1827,6 +1828,8 @@
 *-	*-	*-
 !!!RDF**kern: > = above
 !!!RDF**kern: < = below
+!!!verovio: slurEndpointFlexibility 1.0
+!!!verovio: slurMaxSlope 30
 !!!YOR: Alte Mozart-Ausgabe, Band 20, Breitkopf &amp; H&auml;rtel 1877-1883.
 !!!YOY: 1878
 !!!YEC: 2018 Craig Stuart Sapp
@@ -1840,7 +1843,7 @@
 !!!ENC: Craig Stuart Sapp
 !!!END: 2009/09/23
 !!!EED: Craig Stuart Sapp
-!!!EEV: 2018/06/16
+!!!EEV: 2024/02/28
 !!!EFL: 16/69
 !!!AGN: piano sonata
 !!!AFR: sonata-allegro
